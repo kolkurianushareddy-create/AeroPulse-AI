@@ -1,0 +1,251 @@
+ItemID,ItemCode,ItemName,ItemCategory,UnitOfMeasure,QuantityOnHand,ReorderLevel,UnitCost,PrimarySupplierID,WarehouseLocation,CreatedAt
+1,ITM-00001,Fuselage Frame Section,SubAssembly,each,288.06,178.83,2938.87,17,WH-D-03,2024-11-25 11:46:24
+2,ITM-00002,Landing Gear Unit,FinishedGood,each,169.97,445.86,194980.56,1,WH-C-02,2023-10-30 23:09:22
+3,ITM-00003,Turbine Blade Blank,Component,each,1035.63,390.06,133.07,1,WH-A-08,2024-04-13 07:36:44
+4,ITM-00004,Aluminum 2024-T3 Plate,RawMaterial,kg,96.41,35.09,260.02,9,WH-A-03,2023-06-12 03:54:16
+5,ITM-00005,Landing Gear Strut Assembly,SubAssembly,each,353.73,216.98,1077.35,7,WH-C-03,2023-10-01 05:38:29
+6,ITM-00006,Cleanroom Wipes Pack,Consumable,drum,797.39,466.25,20.28,52,WH-B-02,2023-06-27 22:32:47
+7,ITM-00007,Aircraft Wing Assembly,FinishedGood,each,895.32,448.43,93140.8,52,WH-B-06,2025-10-16 05:50:29
+8,ITM-00008,Flap Actuator Assembly,SubAssembly,each,144.44,129.41,6955.48,13,WH-C-10,2024-05-30 09:44:01
+9,ITM-00009,Landing Gear Strut Assembly,SubAssembly,each,656.69,220.36,3032.11,18,WH-A-05,2024-03-12 07:41:09
+10,ITM-00010,Landing Gear Strut Assembly,SubAssembly,each,949.91,269.02,7788.37,2,WH-A-08,2023-12-29 14:37:06
+11,ITM-00011,Flap Actuator Assembly,SubAssembly,each,138.89,258.68,776.65,51,WH-C-01,2024-01-14 12:39:26
+12,ITM-00012,Fuselage Barrel Section,FinishedGood,each,122.05,44.71,53325.82,46,WH-C-08,2023-10-06 22:06:26
+13,ITM-00013,Copper Alloy C11000 Wire,RawMaterial,sheet,596.62,493.11,108.19,22,WH-D-10,2024-12-28 08:09:58
+14,ITM-00014,Engine Mount Assembly,SubAssembly,each,373.62,196.54,4518.31,27,WH-C-01,2023-12-05 16:00:03
+15,ITM-00015,Cockpit Panel Assembly,FinishedGood,each,274.09,173.97,175839.8,25,WH-B-02,2024-12-29 02:20:43
+16,ITM-00016,Protective Coating Spray,Consumable,pack,930.61,265.8,39.9,14,WH-C-08,2023-11-29 17:50:01
+17,ITM-00017,Protective Coating Spray,Consumable,pack,1092.58,469.63,87.98,31,WH-B-01,2023-08-23 00:04:22
+18,ITM-00018,Carbon Fiber Prepreg Roll,RawMaterial,roll,123.22,143.81,269.09,20,WH-B-05,2023-09-15 04:20:48
+19,ITM-00019,Hydraulic Fitting,Component,each,57.29,64.69,225.6,50,WH-A-05,2024-10-31 08:16:48
+20,ITM-00020,Engine Nacelle,FinishedGood,each,792.9,368.46,167667.28,10,WH-A-01,2024-03-13 14:52:38
+21,ITM-00021,Kevlar Fabric Roll,RawMaterial,sheet,378.01,97.58,360.94,4,WH-D-06,2024-07-21 03:55:46
+22,ITM-00022,Hex Head Bolt NAS1351,Component,box,9.38,22.43,139.44,36,WH-D-09,2024-08-04 14:08:45
+23,ITM-00023,Control Surface Hinge Assembly,SubAssembly,each,1142.66,361.85,6098.69,54,WH-D-06,2024-07-06 17:34:12
+24,ITM-00024,Empennage Assembly,FinishedGood,each,1092.65,335.65,80996.54,18,WH-D-04,2025-07-08 15:35:48
+25,ITM-00025,Cockpit Panel Assembly,FinishedGood,each,600.26,487.05,202806.6,18,WH-C-02,2023-11-09 20:56:08
+26,ITM-00026,Fuselage Frame Section,SubAssembly,each,61.8,296.91,5918.39,46,WH-B-04,2025-01-29 21:00:03
+27,ITM-00027,Kevlar Fabric Roll,RawMaterial,bar,790.86,329.83,83.19,54,WH-C-07,2023-03-10 04:20:34
+28,ITM-00028,Fuselage Barrel Section,FinishedGood,each,90.4,27.42,241632.59,1,WH-C-03,2024-02-21 12:24:48
+29,ITM-00029,Control Surface Hinge Assembly,SubAssembly,each,622.82,161.34,2876.92,48,WH-D-05,2024-04-03 19:52:45
+30,ITM-00030,Cutting Fluid Drum,Consumable,spool,1083.03,469.35,99.03,22,WH-C-06,2023-02-01 18:46:20
+31,ITM-00031,Fuel Line Coupling,Component,each,227.03,87.24,219.96,38,WH-D-07,2025-09-20 02:05:25
+32,ITM-00032,Aluminum 7075-T6 Billet,RawMaterial,bar,80.01,192.56,128.03,25,WH-C-01,2023-02-25 01:28:48
+33,ITM-00033,Fuel Line Coupling,Component,box,965.91,265.44,200.58,54,WH-C-07,2023-11-01 16:35:01
+34,ITM-00034,Control Surface Hinge Assembly,SubAssembly,each,1452.09,447.2,1204.86,23,WH-B-05,2023-02-27 00:48:35
+35,ITM-00035,Titanium Ti-6Al-4V Sheet,RawMaterial,kg,389.12,243.49,223.92,10,WH-B-06,2023-01-23 07:35:12
+36,ITM-00036,Fuel Line Coupling,Component,each,686.12,414.85,36.13,50,WH-C-04,2025-02-04 21:56:21
+37,ITM-00037,Wiring Harness Clip,Component,each,475.71,318.99,17.66,38,WH-A-02,2023-12-07 14:06:10
+38,ITM-00038,Fuselage Frame Section,SubAssembly,each,1159.01,368.52,2922.17,45,WH-B-06,2023-03-25 05:11:14
+39,ITM-00039,Carbon Fiber Prepreg Roll,RawMaterial,kg,622.41,230.71,45.21,35,WH-C-08,2023-02-14 23:17:48
+40,ITM-00040,Wing Rib Sub-Assembly,SubAssembly,each,81.77,216.3,2376.82,28,WH-C-04,2024-06-20 18:30:02
+41,ITM-00041,Cockpit Panel Assembly,FinishedGood,each,1078.51,336.89,147501.43,18,WH-D-10,2025-11-23 04:38:58
+42,ITM-00042,Cleanroom Wipes Pack,Consumable,spool,706.98,221.41,13.38,55,WH-B-06,2023-10-21 21:26:05
+43,ITM-00043,Carbon Fiber Prepreg Roll,RawMaterial,bar,100.74,42.08,30.68,25,WH-C-02,2024-10-30 07:31:01
+44,ITM-00044,Magnesium AZ31B Sheet,RawMaterial,roll,418.88,255.98,197.29,22,WH-B-08,2025-05-23 15:02:03
+45,ITM-00045,Welding Filler Wire Spool,Consumable,pack,828.3,324.84,85.94,16,WH-C-07,2023-07-29 04:57:46
+46,ITM-00046,Fuselage Barrel Section,FinishedGood,each,987.57,336.17,26097.6,51,WH-A-02,2024-06-21 10:47:04
+47,ITM-00047,Carbon Fiber Prepreg Roll,RawMaterial,sheet,815.33,471.31,236.56,24,WH-D-01,2024-12-28 00:52:09
+48,ITM-00048,Protective Coating Spray,Consumable,pack,1527.92,471.9,8.8,45,WH-C-10,2023-12-29 05:11:43
+49,ITM-00049,Landing Gear Strut Assembly,SubAssembly,each,216.31,68.37,5622.55,48,WH-D-05,2023-12-12 12:35:59
+50,ITM-00050,Avionics Connector,Component,each,778.52,425.54,204.54,49,WH-D-04,2024-10-07 14:20:37
+51,ITM-00051,Abrasive Grinding Disc,Consumable,each,607.97,321.89,19.39,20,WH-A-01,2024-01-31 03:57:16
+52,ITM-00052,Cutting Fluid Drum,Consumable,pack,18.66,380.3,78.09,9,WH-D-02,2023-11-16 21:21:03
+53,ITM-00053,Titanium Ti-6Al-4V Sheet,RawMaterial,roll,426.19,183.59,373.34,4,WH-B-07,2023-07-21 21:04:38
+54,ITM-00054,Aircraft Wing Assembly,FinishedGood,each,84.95,69.5,93611.41,4,WH-A-10,2024-11-20 05:49:59
+55,ITM-00055,Wiring Harness Clip,Component,box,46.2,206.82,226.82,27,WH-D-09,2024-09-03 02:09:33
+56,ITM-00056,Protective Coating Spray,Consumable,drum,1019.8,476.29,34.21,20,WH-D-08,2025-09-21 19:29:42
+57,ITM-00057,Landing Gear Unit,FinishedGood,each,1103.94,342.81,40977.4,14,WH-B-04,2025-11-03 14:40:13
+58,ITM-00058,Engine Mount Assembly,SubAssembly,each,72.47,47.63,7157.78,1,WH-C-07,2023-03-24 04:42:17
+59,ITM-00059,Cockpit Panel Assembly,FinishedGood,each,150.19,88.64,39344.57,45,WH-C-10,2025-02-13 02:47:57
+60,ITM-00060,Inconel 718 Bar Stock,RawMaterial,roll,157.93,54.93,331.42,60,WH-B-03,2024-12-24 23:53:25
+61,ITM-00061,Aircraft Wing Assembly,FinishedGood,each,743.74,199.65,246780.24,5,WH-A-04,2025-06-24 03:52:00
+62,ITM-00062,Turbine Blade Blank,Component,box,482.66,200.6,195.4,26,WH-B-08,2023-11-29 23:30:59
+63,ITM-00063,Protective Coating Spray,Consumable,spool,205.0,73.37,13.64,48,WH-C-01,2025-08-31 22:02:00
+64,ITM-00064,Abrasive Grinding Disc,Consumable,each,66.15,76.41,38.74,37,WH-D-08,2025-07-04 08:59:32
+65,ITM-00065,Carbon Fiber Prepreg Roll,RawMaterial,kg,239.73,157.14,349.41,29,WH-B-08,2024-07-22 06:22:11
+66,ITM-00066,Wiring Harness Clip,Component,box,100.79,40.72,134.29,23,WH-C-07,2023-04-10 21:51:01
+67,ITM-00067,Landing Gear Strut Assembly,SubAssembly,each,965.4,485.27,5718.12,19,WH-C-06,2025-01-29 13:44:38
+68,ITM-00068,Aerospace Sealant Cartridge,Consumable,spool,68.25,300.47,89.25,50,WH-C-06,2023-05-07 22:25:10
+69,ITM-00069,Aerospace Sealant Cartridge,Consumable,spool,373.06,238.72,36.63,49,WH-D-02,2024-02-01 03:33:41
+70,ITM-00070,Aircraft Wing Assembly,FinishedGood,each,418.12,300.15,180577.19,57,WH-D-02,2023-11-12 09:24:21
+71,ITM-00071,Titanium Ti-6Al-4V Sheet,RawMaterial,sheet,325.72,168.57,328.31,27,WH-A-06,2023-01-15 23:21:53
+72,ITM-00072,Hex Head Bolt NAS1351,Component,box,1400.64,475.9,155.29,60,WH-B-09,2023-06-18 14:21:40
+73,ITM-00073,Welding Filler Wire Spool,Consumable,pack,102.06,41.7,16.74,30,WH-D-06,2024-06-01 01:56:09
+74,ITM-00074,Pressure Sensor Housing,Component,each,770.49,305.18,242.63,56,WH-A-05,2025-08-20 20:41:38
+75,ITM-00075,Control Surface Hinge Assembly,SubAssembly,each,736.9,219.11,6985.42,1,WH-B-09,2023-10-20 13:17:51
+76,ITM-00076,Control Surface Hinge Assembly,SubAssembly,each,1166.05,498.39,7585.74,22,WH-D-06,2024-06-14 08:29:29
+77,ITM-00077,Cleanroom Wipes Pack,Consumable,spool,852.62,236.26,67.83,16,WH-D-07,2025-12-09 22:45:26
+78,ITM-00078,Empennage Assembly,FinishedGood,each,212.26,316.7,139670.77,52,WH-C-05,2025-02-11 05:23:19
+79,ITM-00079,Cockpit Panel Assembly,FinishedGood,each,299.63,269.68,221630.33,38,WH-C-02,2024-07-04 00:12:41
+80,ITM-00080,Magnesium AZ31B Sheet,RawMaterial,kg,199.93,84.33,26.08,27,WH-A-10,2025-03-02 01:49:25
+81,ITM-00081,Magnesium AZ31B Sheet,RawMaterial,roll,263.06,85.46,20.6,55,WH-C-02,2024-12-12 13:42:26
+82,ITM-00082,Cleanroom Wipes Pack,Consumable,pack,1662.69,454.0,62.96,35,WH-A-03,2024-06-18 07:15:35
+83,ITM-00083,Aerospace Sealant Cartridge,Consumable,drum,1632.79,433.93,27.31,48,WH-A-06,2025-12-28 04:21:11
+84,ITM-00084,Aircraft Wing Assembly,FinishedGood,each,740.88,240.39,165682.2,3,WH-C-01,2025-09-16 05:59:03
+85,ITM-00085,Carbon Fiber Prepreg Roll,RawMaterial,roll,81.04,56.41,64.62,37,WH-B-02,2024-08-04 15:03:03
+86,ITM-00086,Hydraulic Fitting,Component,each,230.44,107.3,224.71,32,WH-D-08,2025-01-18 00:46:36
+87,ITM-00087,Avionics Connector,Component,box,267.13,112.3,46.39,58,WH-C-10,2024-12-31 04:34:26
+88,ITM-00088,Engine Mount Assembly,SubAssembly,each,66.28,77.91,3232.02,20,WH-C-08,2025-12-17 11:29:11
+89,ITM-00089,Avionics Bay Module,SubAssembly,each,83.73,38.87,1113.19,16,WH-C-05,2024-06-13 02:42:28
+90,ITM-00090,Abrasive Grinding Disc,Consumable,pack,93.0,49.32,22.52,43,WH-C-06,2025-12-06 20:22:51
+91,ITM-00091,Wing Rib Sub-Assembly,SubAssembly,each,640.08,197.83,3266.85,58,WH-B-09,2025-06-30 23:00:22
+92,ITM-00092,Wiring Harness Clip,Component,box,59.06,37.61,179.77,49,WH-A-09,2023-10-02 10:28:20
+93,ITM-00093,Titanium Ti-6Al-4V Sheet,RawMaterial,roll,78.59,71.44,187.25,9,WH-A-06,2024-02-04 12:33:11
+94,ITM-00094,Landing Gear Strut Assembly,SubAssembly,each,41.38,29.63,2956.23,24,WH-D-04,2024-08-13 15:38:09
+95,ITM-00095,Abrasive Grinding Disc,Consumable,drum,1059.31,304.92,54.64,52,WH-B-09,2024-06-11 14:57:39
+96,ITM-00096,Control Surface Hinge Assembly,SubAssembly,each,369.83,301.68,1456.85,15,WH-C-06,2025-04-05 19:06:04
+97,ITM-00097,Abrasive Grinding Disc,Consumable,each,343.82,330.04,25.25,30,WH-C-04,2024-08-10 13:07:12
+98,ITM-00098,Fuselage Frame Section,SubAssembly,each,263.11,68.86,1705.11,15,WH-D-01,2023-04-29 15:20:08
+99,ITM-00099,Copper Alloy C11000 Wire,RawMaterial,roll,171.77,103.22,360.25,53,WH-C-10,2023-03-11 05:20:37
+100,ITM-00100,Engine Mount Assembly,SubAssembly,each,3.01,73.78,6991.3,32,WH-A-08,2023-02-10 17:56:05
+101,ITM-00101,Inconel 718 Bar Stock,RawMaterial,sheet,215.59,102.03,272.43,45,WH-D-05,2025-11-05 13:43:35
+102,ITM-00102,Fuselage Barrel Section,FinishedGood,each,1154.36,389.36,136750.39,40,WH-C-07,2025-07-01 21:27:15
+103,ITM-00103,Wing Rib Sub-Assembly,SubAssembly,each,175.34,75.12,4859.29,24,WH-A-07,2023-09-16 13:02:24
+104,ITM-00104,Fuselage Frame Section,SubAssembly,each,68.44,275.64,1508.11,55,WH-C-10,2025-11-26 04:28:36
+105,ITM-00105,Inconel 718 Bar Stock,RawMaterial,kg,52.45,174.73,326.8,51,WH-D-07,2025-12-18 18:12:48
+106,ITM-00106,Hex Head Bolt NAS1351,Component,each,847.27,246.36,90.47,50,WH-A-10,2023-09-13 03:12:19
+107,ITM-00107,Aerospace Sealant Cartridge,Consumable,pack,114.24,79.66,74.63,17,WH-B-02,2023-05-23 08:11:35
+108,ITM-00108,Titanium Ti-6Al-4V Sheet,RawMaterial,sheet,210.27,295.75,339.1,21,WH-A-02,2023-09-18 12:50:33
+109,ITM-00109,Turbine Blade Blank,Component,each,37.45,98.85,167.97,5,WH-D-01,2023-05-05 10:42:13
+110,ITM-00110,Landing Gear Unit,FinishedGood,each,346.86,208.37,126416.35,47,WH-D-04,2024-11-04 13:00:27
+111,ITM-00111,Avionics Bay Module,SubAssembly,each,163.32,378.85,7246.81,44,WH-A-07,2024-03-15 18:30:05
+112,ITM-00112,Cockpit Panel Assembly,FinishedGood,each,33.09,455.11,164372.85,5,WH-A-09,2024-10-28 02:03:22
+113,ITM-00113,Fuselage Frame Section,SubAssembly,each,242.5,86.85,4500.96,33,WH-D-09,2023-11-19 21:54:45
+114,ITM-00114,Aircraft Wing Assembly,FinishedGood,each,274.02,92.8,27712.46,47,WH-B-04,2025-04-22 00:20:25
+115,ITM-00115,Engine Nacelle,FinishedGood,each,1344.08,385.98,45445.3,47,WH-A-07,2024-03-12 14:37:45
+116,ITM-00116,Avionics Bay Module,SubAssembly,each,172.36,81.19,1624.38,60,WH-D-01,2023-06-17 03:21:03
+117,ITM-00117,Aluminum 7075-T6 Billet,RawMaterial,kg,31.78,365.62,261.84,52,WH-A-09,2025-03-19 23:33:31
+118,ITM-00118,Aerospace Sealant Cartridge,Consumable,pack,239.25,107.17,94.83,49,WH-C-08,2025-08-14 14:24:06
+119,ITM-00119,Carbon Fiber Prepreg Roll,RawMaterial,roll,255.91,93.61,240.7,43,WH-D-01,2023-08-21 22:46:32
+120,ITM-00120,Hex Head Bolt NAS1351,Component,box,982.84,467.42,175.68,37,WH-B-05,2025-04-15 01:16:33
+121,ITM-00121,Fuselage Barrel Section,FinishedGood,each,882.0,296.62,234904.41,2,WH-B-02,2025-01-29 08:25:22
+122,ITM-00122,Engine Mount Assembly,SubAssembly,each,485.35,236.4,6791.74,10,WH-D-07,2023-07-18 15:20:17
+123,ITM-00123,Aircraft Wing Assembly,FinishedGood,each,1713.2,437.55,32595.18,34,WH-B-04,2023-04-11 11:23:30
+124,ITM-00124,Engine Nacelle,FinishedGood,each,855.4,405.37,143600.99,50,WH-D-07,2025-03-01 03:32:31
+125,ITM-00125,Aerospace Sealant Cartridge,Consumable,each,607.79,186.25,46.34,6,WH-B-08,2023-02-24 11:45:29
+126,ITM-00126,Cockpit Panel Assembly,FinishedGood,each,203.79,87.61,230414.56,49,WH-D-03,2023-10-27 02:49:28
+127,ITM-00127,Stainless Steel 15-5PH Rod,RawMaterial,bar,182.31,298.68,258.42,34,WH-B-10,2024-10-11 11:34:05
+128,ITM-00128,Inconel 718 Bar Stock,RawMaterial,bar,106.37,91.36,174.63,14,WH-A-09,2023-08-12 20:14:22
+129,ITM-00129,Landing Gear Strut Assembly,SubAssembly,each,23.37,52.2,7235.41,9,WH-C-05,2024-04-16 13:36:49
+130,ITM-00130,Welding Filler Wire Spool,Consumable,drum,131.39,37.54,46.42,5,WH-C-06,2025-06-01 18:56:27
+131,ITM-00131,Kevlar Fabric Roll,RawMaterial,kg,335.18,271.71,184.69,28,WH-D-07,2023-12-09 19:14:00
+132,ITM-00132,Cockpit Panel Assembly,FinishedGood,each,960.6,433.66,168119.89,11,WH-D-10,2025-11-23 23:43:40
+133,ITM-00133,Cockpit Panel Assembly,FinishedGood,each,24.47,32.19,26232.08,38,WH-C-06,2023-09-24 10:21:25
+134,ITM-00134,Aerospace Sealant Cartridge,Consumable,spool,423.84,130.92,19.5,50,WH-B-01,2023-08-31 14:54:49
+135,ITM-00135,Copper Alloy C11000 Wire,RawMaterial,kg,527.22,333.32,106.7,23,WH-A-10,2025-04-29 23:16:40
+136,ITM-00136,Hex Head Bolt NAS1351,Component,each,636.34,418.51,168.68,49,WH-A-05,2023-06-17 09:25:04
+137,ITM-00137,Fuel Line Coupling,Component,box,86.06,26.24,55.93,60,WH-D-07,2024-05-06 13:13:48
+138,ITM-00138,Abrasive Grinding Disc,Consumable,pack,267.82,222.28,39.21,20,WH-B-08,2024-04-29 05:13:40
+139,ITM-00139,Aerospace Sealant Cartridge,Consumable,pack,585.82,303.34,44.74,4,WH-C-04,2024-05-09 20:17:46
+140,ITM-00140,Wing Rib Sub-Assembly,SubAssembly,each,406.77,161.34,1550.85,36,WH-A-03,2024-05-21 16:03:44
+141,ITM-00141,Fuselage Barrel Section,FinishedGood,each,1090.62,449.39,81795.79,4,WH-C-09,2023-06-15 04:37:44
+142,ITM-00142,Stainless Steel 15-5PH Rod,RawMaterial,kg,491.83,324.07,114.29,29,WH-C-09,2023-09-29 06:42:18
+143,ITM-00143,Protective Coating Spray,Consumable,drum,384.43,102.41,58.5,50,WH-C-02,2024-02-29 05:18:25
+144,ITM-00144,Aerospace Sealant Cartridge,Consumable,pack,12.89,151.55,3.08,19,WH-B-07,2025-01-12 19:48:33
+145,ITM-00145,Cutting Fluid Drum,Consumable,pack,51.19,85.71,67.17,20,WH-C-06,2025-09-30 20:05:48
+146,ITM-00146,Wiring Harness Clip,Component,each,221.91,104.18,107.6,53,WH-A-09,2025-05-16 20:52:34
+147,ITM-00147,Aerospace Sealant Cartridge,Consumable,spool,105.28,99.82,40.15,14,WH-C-02,2023-12-05 05:00:01
+148,ITM-00148,Empennage Assembly,FinishedGood,each,232.28,158.57,150273.07,51,WH-A-07,2023-11-20 21:24:59
+149,ITM-00149,Protective Coating Spray,Consumable,each,1228.69,338.56,27.7,39,WH-C-05,2024-11-07 17:52:00
+150,ITM-00150,Hydraulic Fitting,Component,each,1012.68,305.64,126.61,11,WH-C-09,2025-06-04 21:40:08
+151,ITM-00151,Kevlar Fabric Roll,RawMaterial,roll,121.89,71.17,43.93,19,WH-C-09,2024-05-01 09:32:31
+152,ITM-00152,Composite Skin Panel,Component,each,473.7,138.27,200.86,54,WH-B-03,2024-05-28 13:43:48
+153,ITM-00153,Engine Mount Assembly,SubAssembly,each,356.64,193.27,1526.14,34,WH-C-07,2024-02-23 03:36:27
+154,ITM-00154,Avionics Connector,Component,each,125.9,108.86,218.87,24,WH-D-06,2024-06-10 05:55:20
+155,ITM-00155,Copper Alloy C11000 Wire,RawMaterial,kg,1158.81,352.29,341.94,58,WH-D-03,2023-10-26 16:57:19
+156,ITM-00156,Pressure Sensor Housing,Component,each,788.32,473.15,177.87,23,WH-A-02,2024-05-08 23:38:36
+157,ITM-00157,Aircraft Wing Assembly,FinishedGood,each,784.4,459.43,232611.12,24,WH-B-05,2025-12-25 00:07:34
+158,ITM-00158,Stainless Steel 15-5PH Rod,RawMaterial,kg,1396.03,473.25,197.57,9,WH-A-03,2025-05-16 13:28:59
+159,ITM-00159,Control Surface Hinge Assembly,SubAssembly,each,53.48,37.76,1404.25,29,WH-D-10,2025-02-11 13:29:26
+160,ITM-00160,Aluminum 7075-T6 Billet,RawMaterial,kg,641.89,183.14,294.04,47,WH-D-09,2024-08-23 22:34:32
+161,ITM-00161,Cleanroom Wipes Pack,Consumable,each,296.34,173.0,4.39,16,WH-C-07,2023-05-14 10:10:28
+162,ITM-00162,Cleanroom Wipes Pack,Consumable,each,356.52,437.65,80.28,2,WH-D-03,2024-10-15 10:18:07
+163,ITM-00163,Cutting Fluid Drum,Consumable,drum,501.35,499.01,63.5,37,WH-C-07,2024-01-22 08:00:19
+164,ITM-00164,Hex Head Bolt NAS1351,Component,box,208.02,439.37,193.23,33,WH-D-06,2024-07-09 12:34:18
+165,ITM-00165,Kevlar Fabric Roll,RawMaterial,bar,46.87,134.61,57.53,48,WH-A-02,2024-02-13 18:23:12
+166,ITM-00166,Control Surface Hinge Assembly,SubAssembly,each,128.59,40.2,3708.3,50,WH-D-08,2024-11-18 22:35:34
+167,ITM-00167,Flap Actuator Assembly,SubAssembly,each,251.47,124.76,1170.58,54,WH-C-10,2024-12-04 20:40:07
+168,ITM-00168,Cockpit Panel Assembly,FinishedGood,each,563.1,473.47,247968.78,30,WH-A-03,2025-04-29 22:17:01
+169,ITM-00169,Flap Actuator Assembly,SubAssembly,each,1728.14,472.51,4345.16,20,WH-D-03,2023-12-12 13:51:29
+170,ITM-00170,Fuselage Barrel Section,FinishedGood,each,410.19,125.83,33303.82,23,WH-A-04,2023-07-29 06:11:53
+171,ITM-00171,Landing Gear Strut Assembly,SubAssembly,each,1026.53,444.22,1804.21,29,WH-C-05,2024-03-14 00:34:20
+172,ITM-00172,Flap Actuator Assembly,SubAssembly,each,744.31,354.09,2183.3,18,WH-A-06,2025-05-23 00:48:15
+173,ITM-00173,Aircraft Wing Assembly,FinishedGood,each,1056.09,304.61,81088.01,21,WH-A-07,2024-08-20 07:04:01
+174,ITM-00174,Stainless Steel 15-5PH Rod,RawMaterial,roll,1253.99,446.6,382.93,45,WH-C-09,2024-04-11 14:19:49
+175,ITM-00175,Avionics Bay Module,SubAssembly,each,230.63,61.75,2448.15,28,WH-B-08,2024-11-04 06:17:49
+176,ITM-00176,Aluminum 7075-T6 Billet,RawMaterial,bar,200.45,58.9,99.77,2,WH-A-10,2025-01-13 22:54:38
+177,ITM-00177,Welding Filler Wire Spool,Consumable,spool,15.17,250.68,57.44,24,WH-C-04,2025-05-02 11:23:02
+178,ITM-00178,Fuselage Barrel Section,FinishedGood,each,450.02,148.17,215633.8,24,WH-C-09,2025-11-04 23:04:56
+179,ITM-00179,Aluminum 2024-T3 Plate,RawMaterial,roll,1061.56,360.01,337.25,8,WH-A-02,2023-10-01 07:47:39
+180,ITM-00180,Fuel Line Coupling,Component,box,130.09,96.13,218.6,46,WH-C-09,2025-04-28 14:03:59
+181,ITM-00181,Wiring Harness Clip,Component,box,722.7,180.86,44.39,9,WH-A-05,2023-08-08 04:41:12
+182,ITM-00182,Empennage Assembly,FinishedGood,each,79.17,23.07,165317.11,21,WH-C-03,2025-11-25 11:30:33
+183,ITM-00183,Copper Alloy C11000 Wire,RawMaterial,roll,1152.66,324.32,222.89,60,WH-B-02,2025-02-18 10:20:35
+184,ITM-00184,Fuselage Frame Section,SubAssembly,each,87.23,482.24,7490.21,51,WH-D-02,2023-06-02 01:41:03
+185,ITM-00185,Stainless Steel 15-5PH Rod,RawMaterial,roll,1382.91,350.19,41.12,57,WH-A-06,2023-05-23 02:23:16
+186,ITM-00186,Carbon Fiber Prepreg Roll,RawMaterial,bar,587.19,186.02,254.05,50,WH-C-07,2024-07-29 15:16:54
+187,ITM-00187,Aerospace Sealant Cartridge,Consumable,drum,1111.77,379.83,33.71,44,WH-D-04,2024-05-07 17:19:47
+188,ITM-00188,Flap Actuator Assembly,SubAssembly,each,353.09,254.55,3844.27,56,WH-A-04,2024-07-04 15:15:37
+189,ITM-00189,Copper Alloy C11000 Wire,RawMaterial,sheet,333.69,224.57,188.78,15,WH-C-03,2025-10-20 12:54:37
+190,ITM-00190,Abrasive Grinding Disc,Consumable,each,172.97,59.54,16.8,9,WH-B-10,2024-08-26 04:06:44
+191,ITM-00191,Protective Coating Spray,Consumable,each,342.62,227.52,28.87,10,WH-B-01,2025-10-28 01:25:53
+192,ITM-00192,Welding Filler Wire Spool,Consumable,pack,1324.73,492.31,5.05,2,WH-A-06,2025-06-22 15:12:32
+193,ITM-00193,Carbon Fiber Prepreg Roll,RawMaterial,sheet,748.72,332.8,156.88,32,WH-D-05,2024-11-30 16:41:18
+194,ITM-00194,Engine Mount Assembly,SubAssembly,each,1491.74,436.94,6835.87,20,WH-C-10,2025-01-20 01:33:33
+195,ITM-00195,Titanium Ti-6Al-4V Sheet,RawMaterial,sheet,203.58,83.0,27.52,39,WH-A-10,2023-08-12 09:43:29
+196,ITM-00196,Control Surface Hinge Assembly,SubAssembly,each,273.37,76.31,3727.29,9,WH-C-04,2025-12-04 00:49:55
+197,ITM-00197,Protective Coating Spray,Consumable,each,121.94,50.82,46.61,16,WH-A-10,2023-10-20 21:09:20
+198,ITM-00198,Titanium Ti-6Al-4V Sheet,RawMaterial,roll,91.9,25.58,42.89,56,WH-B-01,2024-04-02 20:34:51
+199,ITM-00199,Fuselage Frame Section,SubAssembly,each,522.62,353.59,797.14,30,WH-D-02,2025-12-26 14:04:34
+200,ITM-00200,Avionics Bay Module,SubAssembly,each,48.2,136.18,4241.66,16,WH-B-04,2024-05-15 16:01:16
+201,ITM-00201,Abrasive Grinding Disc,Consumable,each,128.56,288.63,36.36,42,WH-D-01,2025-08-24 03:52:53
+202,ITM-00202,Fuselage Frame Section,SubAssembly,each,82.4,35.94,1495.37,47,WH-C-04,2025-08-24 06:56:11
+203,ITM-00203,Landing Gear Unit,FinishedGood,each,1095.94,404.28,166378.96,36,WH-B-09,2023-08-02 03:32:28
+204,ITM-00204,Kevlar Fabric Roll,RawMaterial,bar,64.66,35.16,375.44,44,WH-D-10,2025-12-19 01:18:13
+205,ITM-00205,Aluminum 2024-T3 Plate,RawMaterial,kg,1227.83,362.76,323.67,24,WH-A-10,2024-01-07 07:09:42
+206,ITM-00206,Wiring Harness Clip,Component,box,321.28,282.84,115.82,22,WH-D-01,2023-05-31 01:18:57
+207,ITM-00207,Cleanroom Wipes Pack,Consumable,drum,150.7,59.18,23.48,40,WH-C-01,2023-12-26 02:56:32
+208,ITM-00208,Pressure Sensor Housing,Component,box,1231.77,488.42,49.62,32,WH-D-07,2024-07-12 03:17:11
+209,ITM-00209,Avionics Bay Module,SubAssembly,each,865.85,286.57,7972.5,38,WH-B-10,2025-12-08 23:43:12
+210,ITM-00210,Magnesium AZ31B Sheet,RawMaterial,roll,387.71,115.78,276.89,37,WH-B-05,2025-04-29 21:32:16
+211,ITM-00211,Magnesium AZ31B Sheet,RawMaterial,sheet,1381.74,436.77,294.96,25,WH-A-10,2025-04-28 04:38:56
+212,ITM-00212,Aerospace Grade Rivet,Component,each,1147.78,494.07,217.42,27,WH-B-04,2024-04-03 13:32:46
+213,ITM-00213,Fuselage Barrel Section,FinishedGood,each,813.42,253.6,83670.39,9,WH-D-04,2023-03-10 04:45:07
+214,ITM-00214,Composite Skin Panel,Component,box,1115.11,457.93,157.63,12,WH-C-10,2024-02-17 14:57:18
+215,ITM-00215,Abrasive Grinding Disc,Consumable,pack,1310.04,363.6,19.74,52,WH-B-07,2025-01-15 10:00:07
+216,ITM-00216,Cleanroom Wipes Pack,Consumable,drum,790.1,430.1,52.45,20,WH-B-09,2023-11-23 20:33:28
+217,ITM-00217,Fuel Line Coupling,Component,box,515.99,192.43,45.06,47,WH-B-08,2025-10-20 06:16:33
+218,ITM-00218,Wing Rib Sub-Assembly,SubAssembly,each,732.01,335.23,1481.55,50,WH-A-10,2024-01-13 22:08:21
+219,ITM-00219,Wing Rib Sub-Assembly,SubAssembly,each,164.9,133.3,4398.3,42,WH-B-07,2025-10-08 18:58:23
+220,ITM-00220,Empennage Assembly,FinishedGood,each,411.33,226.83,58419.64,18,WH-A-09,2024-09-07 09:50:00
+221,ITM-00221,Inconel 718 Bar Stock,RawMaterial,sheet,30.63,37.6,298.51,15,WH-A-04,2023-09-05 02:39:03
+222,ITM-00222,Kevlar Fabric Roll,RawMaterial,roll,391.75,300.97,349.28,1,WH-D-06,2025-04-23 23:43:55
+223,ITM-00223,Pressure Sensor Housing,Component,box,439.49,274.96,14.64,21,WH-B-09,2025-11-21 11:39:39
+224,ITM-00224,Aluminum 7075-T6 Billet,RawMaterial,sheet,544.34,171.75,210.29,59,WH-B-02,2025-10-22 15:40:16
+225,ITM-00225,Empennage Assembly,FinishedGood,each,49.01,22.37,124590.17,60,WH-B-09,2024-06-26 10:41:19
+226,ITM-00226,Titanium Ti-6Al-4V Sheet,RawMaterial,roll,336.62,254.65,271.74,19,WH-C-10,2025-12-12 09:04:45
+227,ITM-00227,Protective Coating Spray,Consumable,spool,163.95,116.89,45.49,18,WH-B-03,2024-07-06 02:42:32
+228,ITM-00228,Stainless Steel 15-5PH Rod,RawMaterial,sheet,1286.05,436.71,83.2,1,WH-C-02,2025-02-25 20:45:35
+229,ITM-00229,Fuselage Frame Section,SubAssembly,each,922.94,258.64,4779.57,53,WH-C-08,2025-09-09 06:17:01
+230,ITM-00230,Abrasive Grinding Disc,Consumable,each,451.4,350.97,65.82,31,WH-C-01,2025-12-10 22:41:12
+231,ITM-00231,Aerospace Grade Rivet,Component,box,166.53,71.16,249.86,22,WH-B-10,2023-10-20 08:36:39
+232,ITM-00232,Welding Filler Wire Spool,Consumable,each,910.37,437.96,41.61,43,WH-A-08,2023-09-16 18:01:54
+233,ITM-00233,Landing Gear Unit,FinishedGood,each,443.79,176.98,203497.14,46,WH-B-10,2025-09-07 03:42:38
+234,ITM-00234,Carbon Fiber Prepreg Roll,RawMaterial,roll,683.77,412.56,61.28,10,WH-C-10,2023-05-27 06:11:15
+235,ITM-00235,Abrasive Grinding Disc,Consumable,spool,785.66,210.16,38.58,52,WH-B-04,2025-04-09 07:10:18
+236,ITM-00236,Wiring Harness Clip,Component,each,333.64,129.09,152.84,59,WH-D-07,2024-02-01 03:42:22
+237,ITM-00237,Titanium Ti-6Al-4V Sheet,RawMaterial,sheet,293.25,202.3,347.38,34,WH-C-09,2023-12-26 06:55:53
+238,ITM-00238,Inconel 718 Bar Stock,RawMaterial,bar,93.01,202.49,168.55,30,WH-A-09,2025-06-04 12:25:40
+239,ITM-00239,Cleanroom Wipes Pack,Consumable,spool,1097.94,410.23,2.74,20,WH-A-02,2025-01-06 16:20:07
+240,ITM-00240,Landing Gear Unit,FinishedGood,each,904.69,330.79,33861.5,23,WH-A-05,2023-02-19 14:12:57
+241,ITM-00241,Aerospace Sealant Cartridge,Consumable,each,456.13,188.78,32.11,12,WH-A-09,2023-11-11 08:44:37
+242,ITM-00242,Landing Gear Unit,FinishedGood,each,1520.98,405.45,184714.66,6,WH-D-05,2024-02-18 08:36:14
+243,ITM-00243,Landing Gear Bushing,Component,each,570.67,218.5,49.38,47,WH-B-05,2024-08-02 01:58:54
+244,ITM-00244,Titanium Ti-6Al-4V Sheet,RawMaterial,roll,1137.69,360.34,56.15,25,WH-B-05,2024-04-09 10:05:04
+245,ITM-00245,Fuel Line Coupling,Component,box,636.95,406.88,15.64,49,WH-A-08,2025-08-16 08:28:14
+246,ITM-00246,Kevlar Fabric Roll,RawMaterial,kg,496.63,413.21,355.42,29,WH-D-09,2024-10-12 08:51:07
+247,ITM-00247,Inconel 718 Bar Stock,RawMaterial,kg,720.6,423.13,361.51,56,WH-A-04,2023-08-26 21:50:05
+248,ITM-00248,Composite Skin Panel,Component,box,1555.35,414.85,168.55,37,WH-D-09,2024-09-22 20:10:46
+249,ITM-00249,Flap Actuator Assembly,SubAssembly,each,1193.34,301.57,6970.98,27,WH-B-10,2024-07-24 18:28:39
+250,ITM-00250,Wing Rib Sub-Assembly,SubAssembly,each,71.53,31.35,4600.23,23,WH-C-05,2024-06-26 16:54:51

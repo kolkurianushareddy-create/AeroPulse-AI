@@ -1,0 +1,61 @@
+SupplierID,SupplierCode,SupplierName,ContactPerson,Email,Phone,Country,Address,QualityRating,IsActive,CreatedAt
+1,SUPP-0001,Holt-Richardson Materials,Debra Miller,mmiller@gardner.com,754-947-9627,Japan,"640 Emily Lodge Suite 820, Port Cathy, WY 57933",4.3,1,2025-08-11 05:13:40
+2,SUPP-0002,Martinez and Sons Materials,Holly Reyes,jacobserika@watson-hines.org,(485)965-4310,UK,"4739 Benson Overpass, North Derek, CA 59751",3.92,1,2024-07-09 21:22:49
+3,SUPP-0003,Roach Group Materials,Rita Ponce DVM,jenna88@vance-york.com,(783)913-2370x589,Brazil,"114 Key Stravenue, Foxchester, GU 75854",4.39,0,2025-04-14 22:47:01
+4,SUPP-0004,Martinez LLC Materials,Joanna Frazier,david89@saunders.biz,601.582.4225x35841,USA,"49818 Brittany Prairie Apt. 299, Meganshire, AZ 04219",4.91,1,2025-10-07 01:34:03
+5,SUPP-0005,Williams Ltd Materials,Deborah Clark,bmontgomery@small-gardner.com,736.447.1027x6773,Germany,"562 Robertson Coves Suite 371, Shannonberg, CT 07133",3.86,0,2024-06-19 00:33:28
+6,SUPP-0006,Dougherty-Lin Materials,Victor Barrera,sarah53@jimenez.info,247.601.6873x3950,Japan,"8016 Nicole Stream Suite 650, Williamsside, ID 48017",3.86,1,2025-08-20 04:48:39
+7,SUPP-0007,"Roberts, Hughes and Cole Materials",Samantha Hanson,andersoncolin@norton-morgan.com,001-923-498-6800x02578,South Korea,"9526 Wheeler Parkways, Ericksonport, NJ 02681",4.95,0,2023-09-21 18:06:19
+8,SUPP-0008,Rivera-Rodriguez Materials,Eric Roach,carlsonjoseph@patton.com,001-372-589-6230,Italy,"2636 Salas Street Apt. 283, Whitneyfort, NC 49892",4.46,1,2023-04-04 18:58:21
+9,SUPP-0009,Frye-Stevens Materials,Kimberly Lowe,chelsea33@grant-walker.com,001-843-775-7584x41986,Brazil,"USNS Roberts, FPO AA 94104",3.72,1,2025-12-06 21:25:56
+10,SUPP-0010,Reed Group Materials,Nicole Lewis,sarah42@gilbert.com,908.333.0165,Italy,"82677 Katelyn Heights, Justinton, PW 12226",4.33,0,2023-05-21 14:07:39
+11,SUPP-0011,"Andrews, Nichols and Sharp Materials",Susan Thompson,sarahjohnson@french-lopez.com,9044991547,Brazil,"3152 Wong Stravenue Apt. 054, East Cheryl, SC 53649",3.72,1,2023-06-30 19:32:11
+12,SUPP-0012,Robertson-Miller Materials,Cathy Taylor,shari04@young-molina.com,699-304-5301x7426,UK,"9332 Hernandez Summit Suite 687, Port John, WV 78595",3.72,0,2024-04-08 08:03:54
+13,SUPP-0013,Fox PLC Materials,Angela Elliott,poolerebecca@armstrong.com,887-913-9718x70728,UK,"406 Velasquez Summit Apt. 910, Cooperland, ND 08398",4.15,1,2025-04-07 00:22:09
+14,SUPP-0014,Andersen Group Materials,Jason Mack,ybrooks@kane-knox.biz,482-551-2868,India,"7868 Morrow Gateway, Reedview, ID 95531",2.85,1,2024-03-12 21:31:03
+15,SUPP-0015,Johnson Ltd Materials,Ralph Stephenson,allencarlos@johnson.com,606.573.8302,Germany,"953 Walter Shore Apt. 644, New Stacyburgh, SC 89466",2.97,1,2024-07-20 17:53:35
+16,SUPP-0016,Peters-Williams Materials,Mason James,heather62@bennett-webster.info,434.827.0866,USA,"1751 Brett Lane, Port Charlesshire, VA 88509",3.66,1,2023-03-12 02:36:01
+17,SUPP-0017,"Robinson, Clark and Meadows Materials",Terry Lewis,suzannewilson@rocha-dominguez.com,(938)954-6785x4458,UK,"3556 Anna Forges Apt. 048, Phillipsborough, MA 30650",3.39,1,2023-09-09 23:24:54
+18,SUPP-0018,Hudson-Sanchez Materials,Terri Morgan,plevy@henry.com,(287)228-0801,USA,"20387 Brown Route, Hopkinstown, AL 70259",4.19,1,2025-02-14 02:03:36
+19,SUPP-0019,"Jenkins, Smith and Bowen Materials",Donna Shaw,ldrake@hull.com,739.884.5461,India,"341 Clayton Light, Tranton, SC 01739",3.46,1,2025-09-18 10:26:16
+20,SUPP-0020,"Jackson, Porter and Hamilton Materials",Kylie Hodge,jacobsonsamantha@lewis.org,440.814.8902x5039,Italy,"USNV Martin, FPO AE 74778",3.15,1,2023-09-18 14:45:42
+21,SUPP-0021,Rhodes-Fernandez Materials,Patrick Gibbs,masonterri@davis.com,899-496-5047x73586,South Korea,"94311 Moore Station Apt. 655, North Adamport, NV 47676",4.88,1,2023-05-25 21:09:19
+22,SUPP-0022,Garcia-Miller Materials,Justin Hunt,johnsonmichael@carlson.biz,4468618398,Italy,"4721 Ryan Manor Suite 715, Sherylfort, PA 81329",3.86,1,2023-09-24 01:58:03
+23,SUPP-0023,Ellis and Sons Materials,Travis Cook,vbrock@cook-ochoa.org,(745)693-7526,Germany,"356 Velasquez Lock Suite 193, Lake Katrina, AK 95818",4.04,1,2023-07-28 11:58:21
+24,SUPP-0024,Hahn-Clark Materials,Sandra Jones,ichambers@turner.biz,(317)397-9688x6805,Canada,"90965 Rodriguez Courts Suite 388, South Neil, NH 89571",3.15,1,2024-01-23 22:56:24
+25,SUPP-0025,"Vaughn, Hernandez and Cuevas Materials",Mr. Thomas Miller,michaelcooper@boyd.info,777-351-4010,Germany,"382 Mark Meadow, Hallfurt, SC 24677",3.67,1,2025-03-09 08:06:47
+26,SUPP-0026,Davidson Group Materials,Omar Ware,yvargas@bush.com,001-719-818-2553x71478,Germany,"5792 Sellers Ramp, Lake Dennisville, IA 40527",4.07,1,2025-03-08 09:27:11
+27,SUPP-0027,White Ltd Materials,James Carlson,fhenderson@medina.com,+1-227-742-2579,Italy,"USCGC Taylor, FPO AA 74108",3.31,1,2023-07-28 06:41:24
+28,SUPP-0028,"Delgado, Ortiz and Vasquez Materials",Jill Jackson,flynnjeffrey@hill.com,(679)778-8191,Italy,"783 Garcia Village, West Nancy, AZ 59448",4.23,1,2023-07-20 22:03:56
+29,SUPP-0029,Bailey-Montoya Materials,Xavier Rowe,jasonrojas@bell.com,+1-723-630-9584x982,Italy,"126 Victoria Way Apt. 232, Mariafurt, NM 19135",3.64,1,2025-10-07 23:25:11
+30,SUPP-0030,"Chen, Burton and Brooks Materials",Robert Mack,rrobertson@mayer.com,001-801-575-1863,Germany,"5892 Kramer Springs Apt. 017, North Sarahburgh, NV 60337",3.82,1,2025-07-26 06:48:35
+31,SUPP-0031,Braun Group Materials,Michael Anderson,erik41@ward.com,9643361103,USA,"700 Montoya Wall, Bensonfort, CA 30509",3.64,0,2025-12-30 05:08:35
+32,SUPP-0032,Davis-Shaffer Materials,Jacob Evans,wayala@may.com,489-809-2753,UK,"11219 Bell Meadow Suite 234, East Angelaport, WI 91003",5.0,1,2025-10-11 08:55:27
+33,SUPP-0033,Abbott Ltd Materials,Christine Lawson,juliephillips@bowers.info,(813)779-1805x5269,UK,"1091 Jose Canyon, Port Raymondport, SC 93906",3.99,1,2024-06-15 18:38:55
+34,SUPP-0034,"Wang, Henderson and Morales Materials",Kimberly Hernandez,collinswilliam@mccann.net,269-614-6303x16179,France,"02027 Mills Tunnel, Garyberg, WA 35728",3.37,1,2025-09-15 04:11:54
+35,SUPP-0035,"Tanner, Wise and Johnson Materials",Denise Brown,crawfordwilliam@porter.com,(224)919-1380x003,Japan,"08635 Robert Stravenue, Josephland, OK 49365",4.49,0,2025-12-14 21:54:59
+36,SUPP-0036,Shaw Inc Materials,Robert Jarvis,djones@ayala-collins.com,+1-570-953-4949,Japan,"83206 Jesse Key Apt. 506, Daltonhaven, IA 55527",3.27,1,2025-05-09 17:11:58
+37,SUPP-0037,Woodward-Kaufman Materials,Douglas Williams,phyllismeyer@huang.org,482-561-9906,Brazil,"5574 Charles Flats Apt. 912, East Shannonmouth, MT 16326",4.13,1,2025-11-14 06:18:27
+38,SUPP-0038,"Howard, Townsend and Hayes Materials",Samuel Davis,margaret90@huff.com,235-868-0442,UK,"71210 Maria Forges, East Madison, MN 90453",2.82,1,2024-06-16 21:43:28
+39,SUPP-0039,"Pace, Miller and Willis Materials",Angela Osborn,rachelramos@davis.com,8708296670,South Korea,"44720 Deborah Parks, Andradefort, AR 11998",3.2,1,2025-11-26 17:40:55
+40,SUPP-0040,Reyes-Barnes Materials,Rebecca Wright,mayokimberly@castillo-harrington.com,001-585-264-2059,India,"PSC 4078, Box 5932, APO AE 32988",4.12,1,2023-03-08 17:57:53
+41,SUPP-0041,"Allen, Ferguson and Moody Materials",Pamela Gould,lkelly@young.com,001-605-499-2937,Brazil,"39308 Smith Ridges, Port David, VT 23761",4.44,0,2024-10-01 16:11:13
+42,SUPP-0042,Brown-Hernandez Materials,Brenda Rodriguez,susan56@garcia.com,001-667-452-8953x9264,USA,"969 Ian Island, Lake Ariana, NM 18935",4.1,0,2024-08-04 13:59:41
+43,SUPP-0043,Mcgee-Young Materials,Mrs. Stacey Davis,sean43@steele.com,800-767-6267,France,"9327 Lauren Bypass, Andrewview, CT 10226",3.93,1,2023-03-29 17:19:45
+44,SUPP-0044,Jackson-Bennett Materials,Kimberly Villanueva,morgantricia@bush-reynolds.com,+1-662-601-5336x884,UK,"9872 Michael Meadow, West Madisonfort, ID 13213",3.82,1,2023-03-16 10:00:41
+45,SUPP-0045,Clark Ltd Materials,Bradley Anthony,kristen77@baker.com,(452)370-4774x3490,South Korea,"693 Mary Viaduct Suite 879, South Kent, MO 94126",3.11,1,2025-10-28 01:08:46
+46,SUPP-0046,Shaw PLC Materials,Megan Oliver,averyshane@stanton.com,3613632945,South Korea,"548 Stark Bridge Suite 162, New Brianna, WV 13634",3.57,1,2024-10-12 23:57:48
+47,SUPP-0047,Hart Inc Materials,Sharon Beard,pbaker@armstrong-kennedy.com,662-799-6065x307,South Korea,"4713 Kevin Summit Suite 546, East Scottchester, WA 64000",3.72,1,2024-12-20 19:46:00
+48,SUPP-0048,"Camacho, Nicholson and Robertson Materials",Eric Hunter,kimberlywarren@johnson.com,807.305.3457,UK,"7972 Matthews Keys, Frankview, WA 90790",4.63,1,2025-10-20 12:04:49
+49,SUPP-0049,Mitchell Group Materials,Scott Chan,mercedesholland@clark.com,922.690.3494x4665,Japan,"896 Adrian Shore Suite 899, Kennethville, NJ 08868",4.21,1,2023-12-11 00:45:06
+50,SUPP-0050,Mcneil-Davidson Materials,Debbie Dawson,jacob83@trujillo.biz,+1-752-507-4466x60993,Japan,"584 Mary Wells Apt. 417, Lake Jonathan, AS 73774",2.94,1,2025-01-05 12:01:08
+51,SUPP-0051,Arroyo LLC Materials,Courtney Walker,robert55@richards-ford.com,809.299.1738x1684,Germany,"35697 Leslie Stravenue, Port Christopher, MA 83211",4.19,1,2025-10-14 06:36:06
+52,SUPP-0052,Edwards Inc Materials,Donald Juarez,barbaramoore@anderson.biz,(267)260-0835x0583,South Korea,"54216 Jackson View, West Stacymouth, VA 68696",3.77,0,2024-11-11 04:03:54
+53,SUPP-0053,"Warren, Hamilton and Mcdaniel Materials",Zachary Henry,frederickmeadows@smith-walker.com,609.282.1506,UK,"100 Robert Light, New Johnnyberg, IL 91621",3.59,1,2023-03-22 05:17:30
+54,SUPP-0054,"Mccoy, Turner and Stanley Materials",Debra Obrien,robertroach@higgins.com,939.534.8356x4208,India,"3001 Mary Skyway Suite 218, Lake Jenniferview, SD 30799",4.37,1,2023-05-26 00:57:31
+55,SUPP-0055,Hinton-Phillips Materials,Brett Thompson,phelpsmichael@edwards.com,7227557941,India,"7467 Banks Union Apt. 120, North Robert, OR 63766",4.62,1,2025-08-20 19:13:19
+56,SUPP-0056,"Gregory, White and James Materials",Allen Cohen,timothyfreeman@alexander-brown.com,3898935889,Brazil,"5628 Alexander Estate, Christianburgh, CA 98992",4.56,1,2024-04-24 19:29:26
+57,SUPP-0057,Flores-Rivera Materials,Jonathon Pierce,ppowell@stevens.info,877-251-7016,Brazil,"99488 Diamond Motorway, Michaelton, GU 29719",3.5,1,2024-10-31 18:53:30
+58,SUPP-0058,Rivera-Saunders Materials,Michelle Cox,wwilson@walker.com,+1-385-610-2726,Japan,"63735 Katherine Cape, Port Patriciamouth, TN 77743",3.81,0,2025-06-13 17:29:48
+59,SUPP-0059,"Taylor, Porter and Moreno Materials",Timothy Roberson,xglass@holt.com,569-695-8669,France,"7226 Cameron Plaza Suite 833, New Jennifer, TX 45759",4.2,1,2023-04-24 10:15:11
+60,SUPP-0060,"Anderson, Page and Hester Materials",Joshua Walsh,hodgesanna@duncan.net,660-681-0620x0342,Brazil,"438 Michael Mission, New Mirandaside, VI 29901",4.59,1,2025-09-01 05:38:59

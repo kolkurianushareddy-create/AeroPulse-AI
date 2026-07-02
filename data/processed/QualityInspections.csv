@@ -1,0 +1,1001 @@
+InspectionID,ProductionOrderID,InspectorOperatorID,InspectionDate,InspectionType,Result,DefectCategory,DefectCount,Remarks,InspectionPassed
+1,80,55,2024-07-22 17:27:54,Incoming,Pass,None,0,All measured parameters within specification.,1
+2,64,31,2024-03-18 05:37:45,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+3,277,66,2025-12-28 09:30:20,InProcess,Fail,Fastener Torque Non-Conformance,11,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+4,164,26,2023-05-25 22:53:35,InProcess,Pass,None,0,All measured parameters within specification.,1
+5,321,67,2023-09-26 16:40:40,Audit,Pass,None,0,All measured parameters within specification.,1
+6,332,74,2025-05-31 19:35:42,Incoming,Pass,None,0,All measured parameters within specification.,1
+7,401,43,2023-05-26 22:35:32,InProcess,Pass,None,0,All measured parameters within specification.,1
+8,167,77,2024-12-19 00:25:12,InProcess,Pass,None,0,All measured parameters within specification.,1
+9,406,31,2025-01-26 14:37:45,Incoming,Fail,Foreign Object Debris (FOD),6,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+10,346,42,2024-09-03 01:10:18,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+11,246,4,2024-02-13 19:32:30,InProcess,Pass,None,0,All measured parameters within specification.,1
+12,136,44,2023-04-17 08:07:58,InProcess,Pass,None,0,All measured parameters within specification.,1
+13,300,43,2023-07-28 20:35:45,Audit,Pass,None,0,All measured parameters within specification.,1
+14,340,66,2024-11-24 11:33:26,Incoming,Pass,None,0,All measured parameters within specification.,1
+15,415,42,2025-12-09 22:15:30,InProcess,Pass,None,0,All measured parameters within specification.,1
+16,9,55,2025-07-28 14:56:25,Incoming,Pass,None,0,All measured parameters within specification.,1
+17,258,63,2025-05-03 13:53:57,InProcess,Pass,None,0,All measured parameters within specification.,1
+18,293,68,2023-02-16 14:31:48,InProcess,Pass,None,0,All measured parameters within specification.,1
+19,333,34,2024-07-19 08:04:51,Incoming,Pass,None,0,All measured parameters within specification.,1
+20,389,23,2024-11-06 21:22:47,InProcess,Pass,None,0,All measured parameters within specification.,1
+21,212,75,2025-06-04 13:52:49,InProcess,Pass,None,0,All measured parameters within specification.,1
+22,307,2,2024-11-21 13:22:14,InProcess,Fail,Dimensional Tolerance Deviation,9,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+23,265,29,2025-04-30 23:14:25,InProcess,ReworkRequired,Coating Thickness Deviation,4,Coating Thickness Deviation identified during inspection; see NCR log.,0
+24,160,46,2023-07-02 03:26:28,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+25,107,51,2024-11-19 17:33:11,InProcess,Pass,None,0,All measured parameters within specification.,1
+26,175,27,2023-05-13 17:54:44,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+27,182,47,2025-06-03 15:55:03,InProcess,Fail,Dimensional Tolerance Deviation,8,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+28,263,31,2024-08-28 20:56:49,FinalInspection,ReworkRequired,Fastener Torque Non-Conformance,6,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+29,417,31,2025-03-22 09:51:24,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+30,472,39,2024-01-24 09:24:56,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+31,87,59,2024-11-09 18:49:15,InProcess,Pass,None,0,All measured parameters within specification.,1
+32,102,9,2025-11-20 02:39:01,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+33,123,40,2025-05-30 04:07:54,Incoming,Pass,None,0,All measured parameters within specification.,1
+34,129,29,2023-07-06 04:18:46,Audit,Pass,None,0,All measured parameters within specification.,1
+35,312,56,2024-05-12 10:35:21,InProcess,Pass,None,0,All measured parameters within specification.,1
+36,466,67,2025-01-03 21:21:46,InProcess,Pass,None,0,All measured parameters within specification.,1
+37,14,6,2023-02-16 08:43:58,FinalInspection,ReworkRequired,Surface Finish Defect,7,Surface Finish Defect identified during inspection; see NCR log.,0
+38,100,49,2023-06-11 21:56:24,InProcess,Pass,None,0,All measured parameters within specification.,1
+39,315,40,2023-08-17 23:54:10,InProcess,Fail,Foreign Object Debris (FOD),2,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+40,357,68,2024-04-14 10:07:19,Incoming,Pass,None,0,All measured parameters within specification.,1
+41,455,49,2025-10-30 05:58:39,InProcess,Pass,None,0,All measured parameters within specification.,1
+42,196,29,2025-03-05 02:18:30,FinalInspection,Fail,Foreign Object Debris (FOD),6,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+43,45,39,2024-11-03 13:07:25,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+44,14,58,2025-09-17 11:55:32,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+45,183,41,2023-04-08 18:24:27,Audit,Pass,None,0,All measured parameters within specification.,1
+46,197,20,2023-07-17 18:55:54,InProcess,Pass,None,0,All measured parameters within specification.,1
+47,113,12,2025-04-22 08:12:08,InProcess,Pass,None,0,All measured parameters within specification.,1
+48,100,53,2025-12-21 05:30:03,InProcess,Fail,Material Porosity,8,Material Porosity identified during inspection; see NCR log.,0
+49,378,32,2024-06-02 06:39:00,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+50,44,68,2024-07-04 23:50:21,InProcess,Pass,None,0,All measured parameters within specification.,1
+51,144,80,2023-03-05 03:26:08,Incoming,Pass,None,0,All measured parameters within specification.,1
+52,27,7,2023-08-07 11:24:23,Incoming,Pass,None,0,All measured parameters within specification.,1
+53,405,8,2025-11-16 06:44:01,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+54,35,61,2025-07-16 01:21:07,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+55,65,30,2023-08-23 15:09:58,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+56,115,71,2023-08-30 20:35:13,Incoming,Pass,None,0,All measured parameters within specification.,1
+57,261,11,2025-01-06 06:12:57,Incoming,ReworkRequired,Weld Discontinuity,7,Weld Discontinuity identified during inspection; see NCR log.,0
+58,419,15,2024-12-10 15:19:42,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+59,273,25,2023-07-20 17:43:31,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+60,282,21,2025-03-26 21:03:07,InProcess,Pass,None,0,All measured parameters within specification.,1
+61,234,40,2024-12-14 14:09:05,InProcess,Pass,None,0,All measured parameters within specification.,1
+62,215,29,2024-09-27 07:42:16,InProcess,Pass,None,0,All measured parameters within specification.,1
+63,40,56,2023-03-08 05:06:41,InProcess,Pass,None,0,All measured parameters within specification.,1
+64,282,54,2025-07-09 14:33:08,Incoming,Fail,Fastener Torque Non-Conformance,7,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+65,122,37,2023-01-03 03:51:39,InProcess,Pass,None,0,All measured parameters within specification.,1
+66,59,72,2025-08-16 06:57:34,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+67,214,59,2024-08-04 13:38:28,FinalInspection,ReworkRequired,Weld Discontinuity,4,Weld Discontinuity identified during inspection; see NCR log.,0
+68,203,68,2023-03-18 04:03:42,InProcess,ReworkRequired,Material Porosity,12,Material Porosity identified during inspection; see NCR log.,0
+69,200,80,2023-12-13 04:05:12,Incoming,Pass,None,0,All measured parameters within specification.,1
+70,1,13,2023-03-11 03:51:05,Incoming,Fail,Foreign Object Debris (FOD),11,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+71,368,73,2025-05-06 07:22:38,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+72,156,42,2023-09-04 12:29:58,FinalInspection,Fail,Coating Thickness Deviation,9,Coating Thickness Deviation identified during inspection; see NCR log.,0
+73,387,61,2024-03-02 10:57:08,InProcess,Pass,None,0,All measured parameters within specification.,1
+74,280,43,2024-12-17 07:19:49,InProcess,Pass,None,0,All measured parameters within specification.,1
+75,375,68,2023-06-09 03:51:47,InProcess,Pass,None,0,All measured parameters within specification.,1
+76,146,56,2025-01-20 18:02:56,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+77,249,20,2023-01-08 10:52:23,InProcess,Pass,None,0,All measured parameters within specification.,1
+78,285,16,2024-01-14 07:32:58,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+79,7,55,2024-12-12 01:33:11,Incoming,ReworkRequired,Foreign Object Debris (FOD),8,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+80,278,47,2024-12-19 01:31:47,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+81,64,13,2025-09-21 00:54:34,Incoming,Pass,None,0,All measured parameters within specification.,1
+82,370,27,2025-01-30 10:03:52,Incoming,Pass,None,0,All measured parameters within specification.,1
+83,430,33,2024-12-02 13:36:34,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+84,407,61,2024-05-28 14:21:25,Audit,Fail,Foreign Object Debris (FOD),7,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+85,380,3,2024-07-21 11:05:30,Incoming,Pass,None,0,All measured parameters within specification.,1
+86,100,51,2025-05-01 20:53:14,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+87,39,61,2025-06-04 09:57:19,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+88,239,20,2025-09-28 19:09:02,Audit,Pass,None,0,All measured parameters within specification.,1
+89,401,37,2024-08-28 00:12:27,Incoming,Pass,None,0,All measured parameters within specification.,1
+90,432,6,2025-08-27 14:17:52,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+91,413,80,2024-06-17 10:48:58,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+92,401,37,2024-10-07 07:22:10,InProcess,Pass,None,0,All measured parameters within specification.,1
+93,178,68,2024-03-11 06:56:07,Incoming,Fail,Dimensional Tolerance Deviation,5,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+94,74,34,2024-05-04 08:40:39,FinalInspection,Fail,Fastener Torque Non-Conformance,4,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+95,129,28,2024-11-30 02:03:48,Incoming,Pass,None,0,All measured parameters within specification.,1
+96,75,7,2025-10-30 01:58:40,FinalInspection,ReworkRequired,Fastener Torque Non-Conformance,10,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+97,11,27,2025-06-20 14:37:22,InProcess,ReworkRequired,Surface Finish Defect,10,Surface Finish Defect identified during inspection; see NCR log.,0
+98,414,11,2024-12-12 11:21:23,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+99,387,27,2023-12-06 07:41:12,Incoming,Pass,None,0,All measured parameters within specification.,1
+100,444,52,2025-02-06 06:01:39,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+101,103,29,2024-11-28 11:06:33,InProcess,ReworkRequired,Fastener Torque Non-Conformance,6,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+102,4,34,2023-09-16 00:01:17,FinalInspection,Fail,Coating Thickness Deviation,12,Coating Thickness Deviation identified during inspection; see NCR log.,0
+103,183,8,2025-12-27 10:54:06,Incoming,ReworkRequired,Coating Thickness Deviation,6,Coating Thickness Deviation identified during inspection; see NCR log.,0
+104,476,63,2024-01-05 02:07:06,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+105,334,23,2024-11-23 11:43:18,Incoming,ReworkRequired,Surface Finish Defect,1,Surface Finish Defect identified during inspection; see NCR log.,0
+106,412,57,2024-10-10 06:05:58,InProcess,Pass,None,0,All measured parameters within specification.,1
+107,246,42,2024-12-23 04:02:06,InProcess,Pass,None,0,All measured parameters within specification.,1
+108,19,24,2025-04-11 17:56:04,Incoming,Fail,Coating Thickness Deviation,7,Coating Thickness Deviation identified during inspection; see NCR log.,0
+109,421,52,2023-01-14 11:43:12,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+110,482,45,2024-10-09 22:42:29,Incoming,Pass,None,0,All measured parameters within specification.,1
+111,265,78,2023-02-18 03:53:59,InProcess,Pass,None,0,All measured parameters within specification.,1
+112,487,24,2024-10-11 11:37:10,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+113,67,10,2024-07-25 09:48:17,Incoming,Pass,None,0,All measured parameters within specification.,1
+114,351,11,2024-03-18 12:53:24,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+115,202,80,2025-10-18 00:38:57,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+116,227,8,2024-09-18 18:44:40,Audit,Pass,None,0,All measured parameters within specification.,1
+117,277,46,2023-04-13 04:40:43,Audit,Pass,None,0,All measured parameters within specification.,1
+118,182,55,2023-02-04 08:48:41,Incoming,Pass,None,0,All measured parameters within specification.,1
+119,368,42,2023-09-30 05:02:25,InProcess,Pass,None,0,All measured parameters within specification.,1
+120,384,7,2025-03-23 12:15:24,Incoming,Pass,None,0,All measured parameters within specification.,1
+121,452,5,2024-05-04 11:27:47,FinalInspection,ReworkRequired,Fastener Torque Non-Conformance,3,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+122,299,60,2024-11-09 13:58:07,Incoming,Pass,None,0,All measured parameters within specification.,1
+123,386,2,2024-05-17 17:07:38,FinalInspection,Fail,Surface Finish Defect,10,Surface Finish Defect identified during inspection; see NCR log.,0
+124,261,37,2025-06-01 08:22:49,InProcess,Fail,Material Porosity,10,Material Porosity identified during inspection; see NCR log.,0
+125,19,56,2025-03-10 16:44:10,InProcess,Fail,Weld Discontinuity,5,Weld Discontinuity identified during inspection; see NCR log.,0
+126,95,15,2025-07-22 12:03:37,Incoming,Fail,Foreign Object Debris (FOD),5,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+127,318,19,2025-11-19 15:33:52,Audit,Pass,None,0,All measured parameters within specification.,1
+128,184,74,2023-11-17 00:24:43,InProcess,Pass,None,0,All measured parameters within specification.,1
+129,91,20,2024-09-07 08:45:24,Incoming,Pass,None,0,All measured parameters within specification.,1
+130,372,32,2024-06-19 20:29:59,InProcess,Pass,None,0,All measured parameters within specification.,1
+131,92,76,2025-05-21 04:28:53,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+132,185,31,2024-05-16 17:52:56,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+133,428,42,2024-05-14 10:57:13,Incoming,Pass,None,0,All measured parameters within specification.,1
+134,139,71,2025-04-03 17:38:50,InProcess,Pass,None,0,All measured parameters within specification.,1
+135,206,10,2024-06-24 20:07:43,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+136,209,73,2023-04-02 00:11:05,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+137,173,26,2023-10-07 03:10:08,InProcess,Pass,None,0,All measured parameters within specification.,1
+138,391,39,2025-08-30 18:20:04,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+139,316,26,2025-11-21 18:46:41,Incoming,Pass,None,0,All measured parameters within specification.,1
+140,102,30,2023-04-05 10:56:03,Incoming,Pass,None,0,All measured parameters within specification.,1
+141,48,46,2025-12-19 07:59:33,InProcess,Pass,None,0,All measured parameters within specification.,1
+142,23,74,2023-02-08 18:42:57,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+143,71,55,2023-12-23 04:51:11,InProcess,Pass,None,0,All measured parameters within specification.,1
+144,139,34,2023-03-25 17:41:35,Incoming,Pass,None,0,All measured parameters within specification.,1
+145,141,71,2025-02-19 05:45:38,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+146,281,6,2025-07-07 17:29:27,InProcess,Pass,None,0,All measured parameters within specification.,1
+147,392,50,2023-12-26 01:14:02,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+148,306,35,2025-08-10 14:08:44,Incoming,Pass,None,0,All measured parameters within specification.,1
+149,154,62,2024-11-30 06:28:07,InProcess,Fail,Material Porosity,10,Material Porosity identified during inspection; see NCR log.,0
+150,265,31,2025-04-21 19:59:57,Incoming,Pass,None,0,All measured parameters within specification.,1
+151,153,35,2024-05-29 19:01:22,InProcess,Pass,None,0,All measured parameters within specification.,1
+152,324,19,2025-06-21 14:30:18,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+153,1,76,2024-08-20 19:34:08,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+154,280,48,2025-05-23 11:24:47,Incoming,Pass,None,0,All measured parameters within specification.,1
+155,280,51,2023-03-27 23:18:43,Incoming,Pass,None,0,All measured parameters within specification.,1
+156,284,29,2025-05-15 23:19:07,Incoming,Fail,Material Porosity,2,Material Porosity identified during inspection; see NCR log.,0
+157,356,51,2025-09-13 13:18:19,Incoming,Pass,None,0,All measured parameters within specification.,1
+158,459,59,2024-11-24 02:39:50,Audit,Pass,None,0,All measured parameters within specification.,1
+159,295,80,2023-06-17 01:32:47,InProcess,Pass,None,0,All measured parameters within specification.,1
+160,45,30,2025-11-09 21:23:20,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+161,291,77,2024-10-13 22:07:21,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+162,305,22,2025-07-22 03:19:24,Incoming,Pass,None,0,All measured parameters within specification.,1
+163,69,15,2024-02-12 07:58:17,FinalInspection,Fail,Foreign Object Debris (FOD),5,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+164,78,75,2025-08-28 16:07:10,Incoming,Pass,None,0,All measured parameters within specification.,1
+165,101,11,2025-05-20 09:45:19,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+166,305,43,2025-05-20 00:17:57,InProcess,Fail,Fastener Torque Non-Conformance,8,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+167,480,53,2025-05-29 00:15:46,Incoming,Pass,None,0,All measured parameters within specification.,1
+168,89,24,2024-03-01 03:02:51,InProcess,Pass,None,0,All measured parameters within specification.,1
+169,17,40,2023-08-08 22:32:50,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+170,384,15,2023-06-22 15:22:20,Incoming,Pass,None,0,All measured parameters within specification.,1
+171,57,77,2025-01-08 21:41:51,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+172,396,57,2023-01-04 07:50:26,Incoming,Pass,None,0,All measured parameters within specification.,1
+173,493,49,2024-12-23 19:15:00,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+174,337,78,2023-05-12 07:19:37,Incoming,Pass,None,0,All measured parameters within specification.,1
+175,397,17,2024-08-19 12:23:03,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+176,499,63,2025-11-14 17:25:41,InProcess,Pass,None,0,All measured parameters within specification.,1
+177,40,7,2023-07-08 07:37:06,InProcess,Pass,None,0,All measured parameters within specification.,1
+178,38,62,2025-10-12 02:55:47,InProcess,Pass,None,0,All measured parameters within specification.,1
+179,239,57,2024-03-10 13:08:18,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+180,194,29,2024-06-26 03:05:25,FinalInspection,ReworkRequired,Weld Discontinuity,7,Weld Discontinuity identified during inspection; see NCR log.,0
+181,203,25,2023-09-16 02:56:11,FinalInspection,Fail,Weld Discontinuity,4,Weld Discontinuity identified during inspection; see NCR log.,0
+182,436,60,2024-01-02 05:39:45,Incoming,Pass,None,0,All measured parameters within specification.,1
+183,377,77,2023-11-01 23:03:07,Incoming,Pass,None,0,All measured parameters within specification.,1
+184,320,72,2025-02-16 15:23:02,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+185,213,49,2025-03-28 04:20:58,Audit,Fail,Fastener Torque Non-Conformance,9,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+186,169,25,2025-07-03 15:15:05,InProcess,Pass,None,0,All measured parameters within specification.,1
+187,39,74,2025-03-30 04:59:02,Incoming,Pass,None,0,All measured parameters within specification.,1
+188,450,63,2023-03-07 05:40:25,InProcess,Pass,None,0,All measured parameters within specification.,1
+189,356,33,2024-07-25 05:34:52,Incoming,Fail,Weld Discontinuity,9,Weld Discontinuity identified during inspection; see NCR log.,0
+190,451,72,2024-06-25 02:39:48,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+191,346,17,2024-11-22 03:39:12,Incoming,Pass,None,0,All measured parameters within specification.,1
+192,137,24,2024-10-17 11:57:04,Audit,Pass,None,0,All measured parameters within specification.,1
+193,236,11,2024-08-19 06:10:25,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+194,358,4,2024-06-10 22:17:39,InProcess,Pass,None,0,All measured parameters within specification.,1
+195,62,39,2023-03-08 17:28:57,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+196,414,54,2023-11-29 05:08:32,InProcess,Pass,None,0,All measured parameters within specification.,1
+197,49,70,2023-06-17 23:14:30,InProcess,Pass,None,0,All measured parameters within specification.,1
+198,270,52,2023-06-16 14:47:37,InProcess,Pass,None,0,All measured parameters within specification.,1
+199,76,78,2023-02-23 08:22:43,Audit,Pass,None,0,All measured parameters within specification.,1
+200,498,69,2024-10-06 00:09:40,InProcess,Pass,None,0,All measured parameters within specification.,1
+201,307,1,2024-04-27 23:36:47,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+202,305,3,2024-02-08 10:02:05,Incoming,ReworkRequired,Coating Thickness Deviation,2,Coating Thickness Deviation identified during inspection; see NCR log.,0
+203,1,8,2023-09-18 01:10:28,InProcess,Pass,None,0,All measured parameters within specification.,1
+204,133,25,2024-06-09 16:13:25,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+205,64,63,2025-07-25 10:33:06,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+206,370,37,2024-11-04 19:07:20,Incoming,Pass,None,0,All measured parameters within specification.,1
+207,364,73,2023-06-04 04:36:12,Incoming,Fail,Surface Finish Defect,3,Surface Finish Defect identified during inspection; see NCR log.,0
+208,322,8,2024-11-14 11:22:34,Incoming,Pass,None,0,All measured parameters within specification.,1
+209,396,73,2023-08-26 17:20:47,Incoming,Pass,None,0,All measured parameters within specification.,1
+210,291,28,2024-04-14 04:02:22,Audit,Pass,None,0,All measured parameters within specification.,1
+211,22,75,2024-03-16 21:33:48,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+212,204,35,2023-06-20 19:10:24,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+213,18,76,2023-12-18 03:20:56,Incoming,Pass,None,0,All measured parameters within specification.,1
+214,495,74,2024-11-05 15:57:54,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+215,426,65,2023-08-08 11:07:55,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+216,175,69,2023-04-28 06:06:52,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+217,296,7,2025-04-06 03:58:13,InProcess,Pass,None,0,All measured parameters within specification.,1
+218,481,24,2025-02-04 04:11:22,Incoming,Pass,None,0,All measured parameters within specification.,1
+219,479,51,2023-08-31 21:49:54,Incoming,ReworkRequired,Surface Finish Defect,11,Surface Finish Defect identified during inspection; see NCR log.,0
+220,208,2,2025-06-27 22:34:06,Audit,Pass,None,0,All measured parameters within specification.,1
+221,391,22,2024-09-30 21:36:47,FinalInspection,ReworkRequired,Coating Thickness Deviation,9,Coating Thickness Deviation identified during inspection; see NCR log.,0
+222,307,59,2023-07-02 04:22:34,InProcess,Pass,None,0,All measured parameters within specification.,1
+223,176,76,2023-01-11 03:15:19,Incoming,Pass,None,0,All measured parameters within specification.,1
+224,346,56,2025-07-24 13:40:05,Incoming,Pass,None,0,All measured parameters within specification.,1
+225,290,55,2023-02-20 08:30:17,FinalInspection,ReworkRequired,Dimensional Tolerance Deviation,7,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+226,332,62,2025-02-16 21:58:51,Incoming,Pass,None,0,All measured parameters within specification.,1
+227,70,20,2025-01-04 09:07:40,InProcess,Pass,None,0,All measured parameters within specification.,1
+228,222,69,2025-03-29 14:06:29,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+229,198,48,2024-02-08 19:30:23,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+230,263,17,2023-01-25 00:26:09,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+231,24,13,2025-03-10 02:58:46,Incoming,Pass,None,0,All measured parameters within specification.,1
+232,467,25,2024-10-10 10:20:16,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+233,25,51,2023-06-14 18:20:08,InProcess,Pass,None,0,All measured parameters within specification.,1
+234,54,47,2025-08-07 20:49:00,InProcess,ReworkRequired,Foreign Object Debris (FOD),2,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+235,200,13,2024-01-08 14:57:56,FinalInspection,ReworkRequired,Coating Thickness Deviation,12,Coating Thickness Deviation identified during inspection; see NCR log.,0
+236,223,21,2024-01-13 02:42:55,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+237,107,55,2024-09-14 00:33:04,Audit,Fail,Dimensional Tolerance Deviation,6,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+238,278,5,2024-12-17 23:27:21,InProcess,Pass,None,0,All measured parameters within specification.,1
+239,362,69,2025-05-19 04:50:15,InProcess,Pass,None,0,All measured parameters within specification.,1
+240,173,30,2025-06-26 21:28:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+241,419,80,2024-12-15 11:56:19,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+242,349,19,2024-07-05 20:04:56,InProcess,Pass,None,0,All measured parameters within specification.,1
+243,471,63,2024-04-22 15:17:49,InProcess,Pass,None,0,All measured parameters within specification.,1
+244,487,50,2025-01-07 06:01:04,InProcess,Pass,None,0,All measured parameters within specification.,1
+245,86,20,2024-06-18 09:43:51,Incoming,Pass,None,0,All measured parameters within specification.,1
+246,85,39,2025-09-20 11:21:43,Incoming,Pass,None,0,All measured parameters within specification.,1
+247,65,44,2025-05-06 09:07:36,InProcess,Pass,None,0,All measured parameters within specification.,1
+248,361,14,2023-02-04 10:19:15,InProcess,ReworkRequired,Foreign Object Debris (FOD),8,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+249,137,13,2024-02-09 21:32:33,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+250,497,58,2025-04-14 01:41:08,Incoming,Pass,None,0,All measured parameters within specification.,1
+251,477,36,2025-08-25 19:37:12,Incoming,ReworkRequired,Foreign Object Debris (FOD),9,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+252,252,19,2024-02-15 04:35:07,InProcess,Pass,None,0,All measured parameters within specification.,1
+253,279,50,2023-09-03 02:52:58,InProcess,Pass,None,0,All measured parameters within specification.,1
+254,75,78,2023-09-29 21:16:28,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+255,100,8,2024-09-08 19:32:29,InProcess,Pass,None,0,All measured parameters within specification.,1
+256,116,4,2023-06-27 01:32:38,InProcess,Pass,None,0,All measured parameters within specification.,1
+257,351,18,2025-12-13 01:14:36,Incoming,Pass,None,0,All measured parameters within specification.,1
+258,468,38,2024-05-09 04:37:55,FinalInspection,ReworkRequired,Coating Thickness Deviation,6,Coating Thickness Deviation identified during inspection; see NCR log.,0
+259,245,39,2023-01-02 03:25:53,InProcess,Pass,None,0,All measured parameters within specification.,1
+260,233,80,2023-10-04 23:31:55,InProcess,Pass,None,0,All measured parameters within specification.,1
+261,11,31,2025-04-16 05:01:02,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+262,58,4,2025-01-06 17:32:16,InProcess,Pass,None,0,All measured parameters within specification.,1
+263,268,43,2024-02-08 12:31:28,Incoming,Pass,None,0,All measured parameters within specification.,1
+264,381,25,2023-02-10 21:38:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+265,62,59,2025-09-23 15:17:21,Incoming,Pass,None,0,All measured parameters within specification.,1
+266,113,44,2024-09-12 02:30:56,Incoming,Pass,None,0,All measured parameters within specification.,1
+267,61,14,2025-09-12 08:21:20,Incoming,Pass,None,0,All measured parameters within specification.,1
+268,291,72,2024-06-02 15:57:38,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+269,407,37,2025-01-23 20:07:58,Incoming,Pass,None,0,All measured parameters within specification.,1
+270,54,10,2023-08-22 16:30:31,InProcess,Pass,None,0,All measured parameters within specification.,1
+271,173,36,2023-03-02 22:13:25,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+272,2,45,2024-07-30 02:36:14,Incoming,Pass,None,0,All measured parameters within specification.,1
+273,289,42,2023-04-14 09:19:17,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+274,328,23,2024-06-01 03:24:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+275,194,35,2025-05-02 02:37:09,Incoming,Pass,None,0,All measured parameters within specification.,1
+276,166,54,2024-09-07 16:26:52,Incoming,Pass,None,0,All measured parameters within specification.,1
+277,175,28,2023-01-28 23:06:16,FinalInspection,ReworkRequired,Fastener Torque Non-Conformance,9,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+278,341,1,2025-06-23 01:24:52,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+279,455,53,2025-01-03 23:56:18,Audit,ReworkRequired,Material Porosity,8,Material Porosity identified during inspection; see NCR log.,0
+280,488,27,2023-06-01 08:56:29,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+281,450,36,2023-10-11 22:18:47,InProcess,Pass,None,0,All measured parameters within specification.,1
+282,329,9,2025-05-19 09:35:49,InProcess,Pass,None,0,All measured parameters within specification.,1
+283,135,48,2023-08-31 03:00:33,Incoming,Pass,None,0,All measured parameters within specification.,1
+284,269,36,2024-09-14 08:10:40,InProcess,Pass,None,0,All measured parameters within specification.,1
+285,130,59,2024-04-09 05:17:55,Incoming,Pass,None,0,All measured parameters within specification.,1
+286,142,42,2024-10-25 13:21:49,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+287,82,1,2024-11-01 14:14:50,InProcess,Pass,None,0,All measured parameters within specification.,1
+288,251,47,2025-09-15 09:25:41,Incoming,Pass,None,0,All measured parameters within specification.,1
+289,33,15,2024-04-24 21:22:08,Incoming,Pass,None,0,All measured parameters within specification.,1
+290,402,37,2024-06-01 17:51:35,FinalInspection,Fail,Weld Discontinuity,12,Weld Discontinuity identified during inspection; see NCR log.,0
+291,490,49,2025-01-27 03:17:26,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+292,268,39,2024-12-26 09:55:36,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+293,39,69,2025-01-07 18:09:55,InProcess,Pass,None,0,All measured parameters within specification.,1
+294,31,4,2025-11-11 06:28:23,InProcess,ReworkRequired,Coating Thickness Deviation,5,Coating Thickness Deviation identified during inspection; see NCR log.,0
+295,305,51,2024-12-30 21:49:12,InProcess,ReworkRequired,Coating Thickness Deviation,3,Coating Thickness Deviation identified during inspection; see NCR log.,0
+296,108,5,2025-07-22 16:56:54,Incoming,Pass,None,0,All measured parameters within specification.,1
+297,191,43,2025-05-25 21:18:59,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+298,93,75,2024-01-20 15:22:12,FinalInspection,ReworkRequired,Surface Finish Defect,3,Surface Finish Defect identified during inspection; see NCR log.,0
+299,165,58,2025-08-27 19:14:07,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+300,190,78,2024-02-01 06:26:52,InProcess,Pass,None,0,All measured parameters within specification.,1
+301,131,22,2025-12-27 04:17:20,InProcess,Pass,None,0,All measured parameters within specification.,1
+302,36,31,2023-02-18 22:26:08,InProcess,Pass,None,0,All measured parameters within specification.,1
+303,212,7,2025-03-01 13:28:48,Audit,Pass,None,0,All measured parameters within specification.,1
+304,118,34,2025-11-16 18:05:33,Incoming,Pass,None,0,All measured parameters within specification.,1
+305,90,10,2025-12-21 16:23:26,InProcess,Pass,None,0,All measured parameters within specification.,1
+306,389,80,2024-06-10 17:51:04,InProcess,Pass,None,0,All measured parameters within specification.,1
+307,96,10,2025-02-03 06:24:06,InProcess,Pass,None,0,All measured parameters within specification.,1
+308,56,61,2025-05-01 13:29:53,Incoming,Pass,None,0,All measured parameters within specification.,1
+309,229,25,2025-11-14 14:27:40,Incoming,Pass,None,0,All measured parameters within specification.,1
+310,356,36,2023-01-18 07:24:47,Incoming,Pass,None,0,All measured parameters within specification.,1
+311,326,51,2025-05-07 11:36:42,Incoming,Pass,None,0,All measured parameters within specification.,1
+312,93,59,2024-03-12 02:50:52,InProcess,ReworkRequired,Fastener Torque Non-Conformance,5,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+313,401,31,2025-12-23 03:44:10,InProcess,Pass,None,0,All measured parameters within specification.,1
+314,354,71,2025-02-28 02:51:50,Incoming,Pass,None,0,All measured parameters within specification.,1
+315,163,27,2025-05-10 10:48:57,InProcess,Pass,None,0,All measured parameters within specification.,1
+316,59,4,2023-07-10 14:31:56,InProcess,Pass,None,0,All measured parameters within specification.,1
+317,100,16,2024-09-06 19:53:36,InProcess,ReworkRequired,Foreign Object Debris (FOD),6,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+318,4,56,2025-02-15 06:14:56,Incoming,Fail,Fastener Torque Non-Conformance,11,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+319,247,7,2023-02-15 07:12:30,Incoming,Pass,None,0,All measured parameters within specification.,1
+320,90,44,2023-05-09 18:34:27,InProcess,Fail,Surface Finish Defect,11,Surface Finish Defect identified during inspection; see NCR log.,0
+321,299,22,2024-10-27 04:34:41,Audit,Pass,None,0,All measured parameters within specification.,1
+322,381,41,2023-06-28 22:23:19,InProcess,Pass,None,0,All measured parameters within specification.,1
+323,285,19,2023-02-08 12:51:42,InProcess,Pass,None,0,All measured parameters within specification.,1
+324,7,48,2023-08-09 10:17:10,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+325,116,50,2024-04-20 21:00:37,InProcess,Fail,Surface Finish Defect,8,Surface Finish Defect identified during inspection; see NCR log.,0
+326,424,32,2023-10-25 12:56:52,InProcess,Pass,None,0,All measured parameters within specification.,1
+327,336,68,2023-04-26 22:25:20,FinalInspection,Fail,Coating Thickness Deviation,2,Coating Thickness Deviation identified during inspection; see NCR log.,0
+328,407,60,2024-12-19 07:35:46,Incoming,Pass,None,0,All measured parameters within specification.,1
+329,277,14,2023-09-08 23:18:16,Incoming,ReworkRequired,Dimensional Tolerance Deviation,12,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+330,41,64,2025-05-04 20:29:43,Incoming,Fail,Weld Discontinuity,5,Weld Discontinuity identified during inspection; see NCR log.,0
+331,161,68,2023-11-14 05:08:12,InProcess,Pass,None,0,All measured parameters within specification.,1
+332,373,24,2024-03-07 07:19:54,Incoming,Pass,None,0,All measured parameters within specification.,1
+333,130,78,2023-10-03 09:31:45,FinalInspection,Fail,Material Porosity,8,Material Porosity identified during inspection; see NCR log.,0
+334,239,70,2025-09-17 08:24:35,InProcess,Pass,None,0,All measured parameters within specification.,1
+335,324,56,2023-11-16 17:41:20,InProcess,Pass,None,0,All measured parameters within specification.,1
+336,66,65,2024-01-28 03:17:32,InProcess,Pass,None,0,All measured parameters within specification.,1
+337,166,11,2023-04-06 05:00:40,InProcess,Pass,None,0,All measured parameters within specification.,1
+338,418,23,2023-09-20 16:20:34,InProcess,Pass,None,0,All measured parameters within specification.,1
+339,288,14,2025-01-22 10:52:16,InProcess,Pass,None,0,All measured parameters within specification.,1
+340,2,60,2023-02-16 08:43:38,InProcess,Pass,None,0,All measured parameters within specification.,1
+341,369,12,2024-09-27 16:25:12,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+342,431,80,2025-05-16 18:32:14,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+343,208,7,2023-12-15 13:27:13,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+344,134,18,2024-07-27 22:57:07,Incoming,Pass,None,0,All measured parameters within specification.,1
+345,179,56,2023-02-21 06:59:25,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+346,365,72,2023-01-30 18:15:50,Incoming,Pass,None,0,All measured parameters within specification.,1
+347,277,5,2025-09-26 10:25:18,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+348,378,22,2025-08-14 12:01:56,Incoming,Pass,None,0,All measured parameters within specification.,1
+349,128,48,2025-05-11 23:03:33,InProcess,Pass,None,0,All measured parameters within specification.,1
+350,66,17,2023-02-11 08:23:20,InProcess,Pass,None,0,All measured parameters within specification.,1
+351,296,13,2023-11-06 01:45:03,Incoming,Pass,None,0,All measured parameters within specification.,1
+352,37,36,2025-11-01 10:16:17,FinalInspection,ReworkRequired,Foreign Object Debris (FOD),10,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+353,339,62,2024-07-29 17:52:54,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+354,358,61,2025-01-12 01:46:44,Incoming,Fail,Surface Finish Defect,12,Surface Finish Defect identified during inspection; see NCR log.,0
+355,254,24,2023-09-21 10:02:26,Incoming,Pass,None,0,All measured parameters within specification.,1
+356,207,76,2025-02-28 06:34:56,InProcess,ReworkRequired,Dimensional Tolerance Deviation,12,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+357,456,44,2025-06-16 14:40:52,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+358,143,9,2024-01-19 14:32:49,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+359,23,4,2024-12-16 16:47:07,InProcess,Pass,None,0,All measured parameters within specification.,1
+360,62,76,2025-07-26 05:54:04,FinalInspection,ReworkRequired,Coating Thickness Deviation,7,Coating Thickness Deviation identified during inspection; see NCR log.,0
+361,53,32,2023-08-02 06:13:54,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+362,370,62,2024-12-15 09:34:32,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+363,357,17,2023-04-12 15:02:02,FinalInspection,Fail,Surface Finish Defect,12,Surface Finish Defect identified during inspection; see NCR log.,0
+364,118,7,2023-12-08 13:34:05,InProcess,Pass,None,0,All measured parameters within specification.,1
+365,370,21,2023-05-29 12:48:32,Incoming,Pass,None,0,All measured parameters within specification.,1
+366,266,28,2025-12-11 22:21:11,InProcess,Fail,Surface Finish Defect,11,Surface Finish Defect identified during inspection; see NCR log.,0
+367,368,77,2023-08-25 13:38:14,InProcess,Pass,None,0,All measured parameters within specification.,1
+368,286,20,2024-06-21 06:46:00,Audit,Pass,None,0,All measured parameters within specification.,1
+369,335,12,2023-04-21 15:26:13,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+370,375,77,2023-11-02 03:51:12,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+371,455,35,2023-01-25 02:31:37,InProcess,ReworkRequired,Fastener Torque Non-Conformance,11,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+372,403,11,2024-06-12 12:15:40,InProcess,Pass,None,0,All measured parameters within specification.,1
+373,260,51,2023-11-11 08:49:25,Incoming,Pass,None,0,All measured parameters within specification.,1
+374,402,21,2024-06-04 15:35:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+375,463,32,2025-12-22 19:57:43,Incoming,Pass,None,0,All measured parameters within specification.,1
+376,254,9,2023-05-19 22:01:13,Incoming,Pass,None,0,All measured parameters within specification.,1
+377,404,50,2024-01-10 14:34:31,InProcess,Pass,None,0,All measured parameters within specification.,1
+378,365,78,2023-11-09 20:37:39,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+379,201,54,2023-05-02 03:36:53,FinalInspection,ReworkRequired,Coating Thickness Deviation,7,Coating Thickness Deviation identified during inspection; see NCR log.,0
+380,325,73,2024-12-05 03:02:13,Incoming,Fail,Dimensional Tolerance Deviation,4,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+381,5,1,2023-08-16 10:23:03,Incoming,Pass,None,0,All measured parameters within specification.,1
+382,273,69,2025-12-01 22:14:19,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+383,302,43,2024-03-18 23:22:04,InProcess,Pass,None,0,All measured parameters within specification.,1
+384,149,71,2023-09-02 11:58:04,InProcess,Pass,None,0,All measured parameters within specification.,1
+385,464,40,2025-08-07 12:51:13,FinalInspection,Fail,Surface Finish Defect,9,Surface Finish Defect identified during inspection; see NCR log.,0
+386,421,75,2025-11-16 04:46:38,InProcess,Pass,None,0,All measured parameters within specification.,1
+387,374,7,2024-12-17 04:09:37,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+388,65,15,2023-07-15 13:09:21,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+389,41,68,2025-12-16 01:22:12,InProcess,Pass,None,0,All measured parameters within specification.,1
+390,392,69,2024-06-16 13:25:58,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+391,116,24,2024-12-08 05:33:50,Incoming,Pass,None,0,All measured parameters within specification.,1
+392,93,54,2024-01-28 07:37:06,InProcess,ReworkRequired,Dimensional Tolerance Deviation,10,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+393,341,60,2025-09-22 08:31:16,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+394,211,54,2025-06-20 01:35:19,Incoming,Pass,None,0,All measured parameters within specification.,1
+395,142,67,2023-03-22 22:55:28,Incoming,Pass,None,0,All measured parameters within specification.,1
+396,39,53,2023-09-09 16:09:51,InProcess,Pass,None,0,All measured parameters within specification.,1
+397,141,44,2023-04-08 10:46:36,InProcess,ReworkRequired,Foreign Object Debris (FOD),9,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+398,101,13,2024-08-01 21:01:42,Audit,Pass,None,0,All measured parameters within specification.,1
+399,413,8,2024-12-11 15:17:20,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+400,7,53,2025-07-14 04:53:10,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+401,444,3,2023-10-10 17:51:19,Audit,Pass,None,0,All measured parameters within specification.,1
+402,39,26,2024-10-06 09:06:26,InProcess,Pass,None,0,All measured parameters within specification.,1
+403,123,11,2024-08-04 11:10:21,Incoming,Pass,None,0,All measured parameters within specification.,1
+404,130,44,2023-11-24 10:29:04,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+405,305,30,2023-08-21 08:23:26,InProcess,Fail,Weld Discontinuity,6,Weld Discontinuity identified during inspection; see NCR log.,0
+406,135,62,2025-10-23 19:35:25,InProcess,Pass,None,0,All measured parameters within specification.,1
+407,361,16,2024-04-14 18:14:46,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+408,328,62,2024-11-22 20:21:12,FinalInspection,ReworkRequired,Foreign Object Debris (FOD),9,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+409,207,15,2023-01-08 21:09:01,InProcess,Pass,None,0,All measured parameters within specification.,1
+410,329,15,2024-07-27 23:36:08,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+411,439,53,2023-04-16 18:15:37,InProcess,Pass,None,0,All measured parameters within specification.,1
+412,385,9,2024-04-23 19:23:22,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+413,274,1,2023-09-30 06:25:42,FinalInspection,Fail,Coating Thickness Deviation,2,Coating Thickness Deviation identified during inspection; see NCR log.,0
+414,431,76,2023-02-24 02:51:14,Incoming,Pass,None,0,All measured parameters within specification.,1
+415,161,35,2025-11-24 20:51:53,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+416,313,9,2023-01-15 05:19:10,InProcess,Pass,None,0,All measured parameters within specification.,1
+417,310,8,2025-10-24 05:21:11,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+418,299,48,2023-03-15 05:57:32,Audit,Pass,None,0,All measured parameters within specification.,1
+419,38,76,2025-05-27 21:51:15,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+420,355,2,2023-10-08 03:11:22,Incoming,Fail,Dimensional Tolerance Deviation,8,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+421,355,46,2024-12-17 09:23:22,Incoming,ReworkRequired,Foreign Object Debris (FOD),9,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+422,441,4,2023-07-07 15:33:13,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+423,124,52,2025-07-21 15:08:54,InProcess,Pass,None,0,All measured parameters within specification.,1
+424,165,23,2024-02-04 02:35:59,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+425,120,14,2025-03-14 18:21:51,Incoming,Pass,None,0,All measured parameters within specification.,1
+426,18,72,2023-09-26 09:10:07,InProcess,Fail,Material Porosity,1,Material Porosity identified during inspection; see NCR log.,0
+427,404,7,2023-02-23 22:34:25,InProcess,Pass,None,0,All measured parameters within specification.,1
+428,434,50,2023-12-23 23:23:00,Audit,Pass,None,0,All measured parameters within specification.,1
+429,217,35,2023-10-21 00:03:16,InProcess,ReworkRequired,Fastener Torque Non-Conformance,12,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+430,347,50,2025-12-27 10:04:50,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+431,19,73,2024-09-28 01:01:11,InProcess,Pass,None,0,All measured parameters within specification.,1
+432,191,76,2023-06-21 16:35:00,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+433,422,10,2023-04-29 19:20:50,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+434,451,13,2025-03-16 16:51:29,InProcess,Pass,None,0,All measured parameters within specification.,1
+435,372,18,2024-10-11 09:04:14,InProcess,Pass,None,0,All measured parameters within specification.,1
+436,90,15,2024-04-08 08:10:24,InProcess,Pass,None,0,All measured parameters within specification.,1
+437,252,58,2023-04-24 13:36:03,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+438,182,14,2023-03-26 00:11:33,InProcess,Pass,None,0,All measured parameters within specification.,1
+439,138,76,2025-07-22 08:28:47,InProcess,Pass,None,0,All measured parameters within specification.,1
+440,81,58,2024-11-22 18:27:43,InProcess,Pass,None,0,All measured parameters within specification.,1
+441,101,62,2023-10-09 08:01:52,InProcess,Pass,None,0,All measured parameters within specification.,1
+442,116,48,2025-12-08 19:58:08,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+443,214,36,2025-02-01 01:02:31,InProcess,Pass,None,0,All measured parameters within specification.,1
+444,311,64,2024-02-22 21:38:14,Incoming,ReworkRequired,Coating Thickness Deviation,6,Coating Thickness Deviation identified during inspection; see NCR log.,0
+445,160,30,2025-04-29 00:07:08,Incoming,Pass,None,0,All measured parameters within specification.,1
+446,498,51,2025-08-27 02:23:51,InProcess,Pass,None,0,All measured parameters within specification.,1
+447,402,57,2023-07-05 10:07:23,InProcess,ReworkRequired,Surface Finish Defect,10,Surface Finish Defect identified during inspection; see NCR log.,0
+448,109,36,2025-08-17 21:07:14,Incoming,Pass,None,0,All measured parameters within specification.,1
+449,485,33,2023-08-31 07:59:53,Incoming,Pass,None,0,All measured parameters within specification.,1
+450,125,30,2024-02-03 02:25:56,Incoming,Pass,None,0,All measured parameters within specification.,1
+451,167,12,2025-08-31 23:20:39,InProcess,Pass,None,0,All measured parameters within specification.,1
+452,452,77,2023-05-17 04:39:00,Incoming,ReworkRequired,Dimensional Tolerance Deviation,1,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+453,21,50,2024-06-29 11:01:13,InProcess,Fail,Foreign Object Debris (FOD),11,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+454,42,72,2023-02-17 07:05:38,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+455,82,18,2024-10-22 14:55:59,InProcess,Pass,None,0,All measured parameters within specification.,1
+456,299,26,2025-02-21 04:51:38,FinalInspection,Fail,Foreign Object Debris (FOD),7,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+457,414,58,2024-09-17 19:37:19,Incoming,Pass,None,0,All measured parameters within specification.,1
+458,442,24,2023-07-14 07:13:04,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+459,61,65,2023-05-16 08:01:06,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+460,124,37,2025-05-07 11:45:52,Incoming,Fail,Foreign Object Debris (FOD),12,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+461,45,73,2024-06-18 04:01:05,InProcess,Pass,None,0,All measured parameters within specification.,1
+462,369,42,2023-03-18 08:26:31,Incoming,Pass,None,0,All measured parameters within specification.,1
+463,358,6,2024-05-29 08:41:27,FinalInspection,Fail,Material Porosity,9,Material Porosity identified during inspection; see NCR log.,0
+464,312,37,2024-05-30 06:33:14,FinalInspection,Fail,Surface Finish Defect,7,Surface Finish Defect identified during inspection; see NCR log.,0
+465,90,45,2024-05-06 14:33:35,InProcess,Pass,None,0,All measured parameters within specification.,1
+466,59,19,2024-11-02 15:03:47,Incoming,ReworkRequired,Weld Discontinuity,1,Weld Discontinuity identified during inspection; see NCR log.,0
+467,49,47,2025-03-05 19:05:45,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+468,442,1,2024-07-17 01:27:57,Incoming,Pass,None,0,All measured parameters within specification.,1
+469,39,57,2024-04-06 18:02:10,Incoming,Pass,None,0,All measured parameters within specification.,1
+470,174,19,2025-11-04 11:31:58,Incoming,Pass,None,0,All measured parameters within specification.,1
+471,432,22,2025-04-25 00:04:50,Audit,Pass,None,0,All measured parameters within specification.,1
+472,387,35,2025-01-17 05:05:09,Audit,Pass,None,0,All measured parameters within specification.,1
+473,26,72,2023-05-03 01:00:19,Audit,Pass,None,0,All measured parameters within specification.,1
+474,357,19,2024-11-05 12:08:54,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+475,229,11,2023-12-06 04:32:09,Incoming,Pass,None,0,All measured parameters within specification.,1
+476,197,57,2023-06-25 15:42:42,Incoming,Pass,None,0,All measured parameters within specification.,1
+477,465,17,2023-11-05 14:18:40,Incoming,Pass,None,0,All measured parameters within specification.,1
+478,465,10,2025-11-16 05:50:42,Incoming,Pass,None,0,All measured parameters within specification.,1
+479,492,65,2023-06-14 16:42:12,Audit,Pass,None,0,All measured parameters within specification.,1
+480,302,13,2025-02-23 04:51:23,Incoming,Pass,None,0,All measured parameters within specification.,1
+481,208,28,2024-12-28 00:13:05,Incoming,Pass,None,0,All measured parameters within specification.,1
+482,138,45,2025-12-10 00:42:34,InProcess,Pass,None,0,All measured parameters within specification.,1
+483,302,4,2025-07-29 01:44:06,InProcess,Pass,None,0,All measured parameters within specification.,1
+484,392,48,2023-06-13 13:14:29,Incoming,Pass,None,0,All measured parameters within specification.,1
+485,142,20,2025-04-22 18:19:19,Audit,Pass,None,0,All measured parameters within specification.,1
+486,346,29,2024-06-23 22:07:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+487,265,11,2023-07-17 18:48:53,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+488,429,37,2024-09-04 10:00:26,Incoming,Pass,None,0,All measured parameters within specification.,1
+489,47,53,2025-02-21 14:45:59,InProcess,Pass,None,0,All measured parameters within specification.,1
+490,197,78,2025-10-23 01:56:33,Audit,ReworkRequired,Fastener Torque Non-Conformance,9,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+491,14,10,2024-09-10 23:00:38,InProcess,Fail,Foreign Object Debris (FOD),6,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+492,375,6,2023-02-25 22:43:14,Audit,Fail,Surface Finish Defect,6,Surface Finish Defect identified during inspection; see NCR log.,0
+493,314,63,2023-07-03 19:11:18,Audit,Pass,None,0,All measured parameters within specification.,1
+494,87,46,2024-08-08 04:49:52,FinalInspection,ReworkRequired,Dimensional Tolerance Deviation,5,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+495,118,36,2025-10-23 20:14:14,InProcess,Pass,None,0,All measured parameters within specification.,1
+496,113,37,2025-05-15 08:59:49,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+497,55,35,2024-02-21 14:11:21,InProcess,Pass,None,0,All measured parameters within specification.,1
+498,100,24,2023-09-07 02:16:27,InProcess,Fail,Fastener Torque Non-Conformance,5,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+499,226,71,2025-03-21 12:10:08,Audit,Pass,None,0,All measured parameters within specification.,1
+500,361,63,2023-12-10 02:28:05,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+501,469,42,2024-06-12 21:24:50,InProcess,Pass,None,0,All measured parameters within specification.,1
+502,488,2,2024-09-22 09:20:27,FinalInspection,Fail,Surface Finish Defect,2,Surface Finish Defect identified during inspection; see NCR log.,0
+503,241,44,2024-12-02 02:00:59,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+504,122,17,2025-04-21 09:25:09,InProcess,Pass,None,0,All measured parameters within specification.,1
+505,213,59,2025-05-18 23:58:47,InProcess,Fail,Surface Finish Defect,2,Surface Finish Defect identified during inspection; see NCR log.,0
+506,51,34,2023-09-11 10:43:29,Incoming,ReworkRequired,Material Porosity,11,Material Porosity identified during inspection; see NCR log.,0
+507,41,17,2024-08-07 18:55:35,InProcess,Pass,None,0,All measured parameters within specification.,1
+508,58,53,2024-01-16 04:11:19,InProcess,Fail,Fastener Torque Non-Conformance,6,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+509,392,60,2025-11-17 12:39:27,InProcess,ReworkRequired,Coating Thickness Deviation,11,Coating Thickness Deviation identified during inspection; see NCR log.,0
+510,397,14,2025-11-08 12:54:43,Incoming,Fail,Dimensional Tolerance Deviation,1,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+511,169,19,2024-07-10 17:57:57,Audit,Pass,None,0,All measured parameters within specification.,1
+512,293,77,2024-07-10 12:01:29,InProcess,ReworkRequired,Foreign Object Debris (FOD),11,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+513,304,43,2024-12-16 11:42:03,InProcess,Fail,Coating Thickness Deviation,3,Coating Thickness Deviation identified during inspection; see NCR log.,0
+514,480,13,2024-07-29 03:09:31,Incoming,Pass,None,0,All measured parameters within specification.,1
+515,66,55,2025-11-10 20:16:57,InProcess,Pass,None,0,All measured parameters within specification.,1
+516,88,44,2024-05-04 16:55:55,Audit,Pass,None,0,All measured parameters within specification.,1
+517,38,76,2025-09-22 00:30:12,FinalInspection,Fail,Surface Finish Defect,8,Surface Finish Defect identified during inspection; see NCR log.,0
+518,383,68,2024-04-14 23:40:44,Incoming,Pass,None,0,All measured parameters within specification.,1
+519,209,1,2024-11-23 20:53:14,InProcess,Pass,None,0,All measured parameters within specification.,1
+520,249,13,2023-08-29 04:57:16,Incoming,Pass,None,0,All measured parameters within specification.,1
+521,150,77,2024-04-25 17:51:38,InProcess,Pass,None,0,All measured parameters within specification.,1
+522,132,50,2025-12-13 16:01:50,Incoming,Pass,None,0,All measured parameters within specification.,1
+523,74,65,2023-04-03 18:45:04,Incoming,ReworkRequired,Surface Finish Defect,4,Surface Finish Defect identified during inspection; see NCR log.,0
+524,452,51,2023-01-01 20:43:14,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+525,449,27,2023-12-19 00:55:51,Incoming,Pass,None,0,All measured parameters within specification.,1
+526,236,61,2025-09-24 06:49:26,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+527,21,68,2023-05-11 22:29:54,Incoming,Pass,None,0,All measured parameters within specification.,1
+528,481,69,2025-04-04 13:23:26,Incoming,Pass,None,0,All measured parameters within specification.,1
+529,451,5,2025-05-07 20:25:23,Audit,Pass,None,0,All measured parameters within specification.,1
+530,35,64,2023-10-23 10:41:53,Incoming,Pass,None,0,All measured parameters within specification.,1
+531,376,2,2025-04-24 11:39:10,Incoming,Pass,None,0,All measured parameters within specification.,1
+532,326,55,2023-04-21 09:52:31,Incoming,Pass,None,0,All measured parameters within specification.,1
+533,120,78,2025-05-18 22:10:15,FinalInspection,Fail,Surface Finish Defect,2,Surface Finish Defect identified during inspection; see NCR log.,0
+534,372,72,2023-06-29 21:23:35,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+535,271,17,2023-02-16 17:55:31,Incoming,Fail,Fastener Torque Non-Conformance,9,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+536,483,46,2024-01-27 23:01:46,Audit,Pass,None,0,All measured parameters within specification.,1
+537,315,48,2023-04-10 23:26:59,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+538,326,54,2025-07-11 08:17:56,Incoming,Pass,None,0,All measured parameters within specification.,1
+539,86,68,2023-06-12 14:43:59,Incoming,Pass,None,0,All measured parameters within specification.,1
+540,8,49,2025-11-15 03:43:58,Incoming,Pass,None,0,All measured parameters within specification.,1
+541,242,21,2023-09-20 22:59:51,InProcess,Pass,None,0,All measured parameters within specification.,1
+542,418,17,2023-09-15 19:24:53,FinalInspection,ReworkRequired,Foreign Object Debris (FOD),7,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+543,126,56,2024-08-13 00:54:37,InProcess,Pass,None,0,All measured parameters within specification.,1
+544,436,14,2023-06-11 05:13:13,Incoming,Pass,None,0,All measured parameters within specification.,1
+545,91,29,2024-03-15 01:20:05,Incoming,Pass,None,0,All measured parameters within specification.,1
+546,17,79,2024-11-26 03:54:49,InProcess,Fail,Foreign Object Debris (FOD),7,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+547,10,31,2025-08-21 01:03:40,Incoming,Pass,None,0,All measured parameters within specification.,1
+548,428,69,2025-01-30 12:50:14,FinalInspection,Fail,Surface Finish Defect,8,Surface Finish Defect identified during inspection; see NCR log.,0
+549,287,27,2023-01-21 12:54:10,Incoming,Pass,None,0,All measured parameters within specification.,1
+550,90,69,2025-05-14 11:35:23,Audit,Pass,None,0,All measured parameters within specification.,1
+551,57,51,2024-10-21 09:26:48,Audit,Pass,None,0,All measured parameters within specification.,1
+552,362,55,2023-05-19 04:18:03,Incoming,Pass,None,0,All measured parameters within specification.,1
+553,142,25,2024-12-22 19:10:32,InProcess,Pass,None,0,All measured parameters within specification.,1
+554,486,61,2024-07-12 05:28:18,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+555,162,6,2024-02-17 08:40:20,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+556,61,30,2024-07-27 02:41:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+557,241,12,2025-01-24 17:02:35,InProcess,Pass,None,0,All measured parameters within specification.,1
+558,143,31,2023-01-25 19:54:11,FinalInspection,Fail,Coating Thickness Deviation,9,Coating Thickness Deviation identified during inspection; see NCR log.,0
+559,69,11,2024-06-29 07:09:10,InProcess,Pass,None,0,All measured parameters within specification.,1
+560,338,49,2023-08-10 00:51:03,InProcess,Fail,Coating Thickness Deviation,10,Coating Thickness Deviation identified during inspection; see NCR log.,0
+561,387,35,2024-05-22 23:04:28,Incoming,Pass,None,0,All measured parameters within specification.,1
+562,94,66,2025-08-18 02:36:03,FinalInspection,ReworkRequired,Dimensional Tolerance Deviation,5,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+563,402,46,2024-07-24 01:04:25,FinalInspection,Fail,Fastener Torque Non-Conformance,4,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+564,454,32,2023-06-30 05:43:08,InProcess,Pass,None,0,All measured parameters within specification.,1
+565,5,16,2023-02-18 00:48:32,Audit,Pass,None,0,All measured parameters within specification.,1
+566,100,76,2024-08-05 12:15:54,InProcess,Pass,None,0,All measured parameters within specification.,1
+567,96,30,2025-05-18 22:49:22,InProcess,Pass,None,0,All measured parameters within specification.,1
+568,400,67,2025-02-27 06:50:48,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+569,249,50,2024-05-20 11:26:30,Incoming,Pass,None,0,All measured parameters within specification.,1
+570,107,20,2023-11-07 09:18:47,InProcess,Pass,None,0,All measured parameters within specification.,1
+571,220,34,2024-04-09 16:31:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+572,173,46,2025-10-11 17:12:58,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+573,236,3,2023-08-13 06:06:48,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+574,303,49,2025-11-10 11:17:53,InProcess,Pass,None,0,All measured parameters within specification.,1
+575,392,77,2025-07-14 23:37:24,FinalInspection,ReworkRequired,Foreign Object Debris (FOD),9,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+576,259,42,2025-09-23 22:38:42,Incoming,Fail,Material Porosity,11,Material Porosity identified during inspection; see NCR log.,0
+577,185,6,2025-04-16 12:10:04,InProcess,Pass,None,0,All measured parameters within specification.,1
+578,472,50,2023-08-11 11:09:22,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+579,419,18,2024-05-14 01:23:59,InProcess,Fail,Surface Finish Defect,5,Surface Finish Defect identified during inspection; see NCR log.,0
+580,167,79,2025-10-18 20:08:48,Audit,Pass,None,0,All measured parameters within specification.,1
+581,246,52,2023-08-08 17:51:55,Incoming,Fail,Foreign Object Debris (FOD),2,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+582,288,69,2023-07-14 20:38:31,InProcess,Pass,None,0,All measured parameters within specification.,1
+583,18,79,2025-09-11 23:21:07,InProcess,Fail,Material Porosity,6,Material Porosity identified during inspection; see NCR log.,0
+584,229,22,2023-04-06 11:37:07,Incoming,Pass,None,0,All measured parameters within specification.,1
+585,87,55,2023-09-12 20:30:25,InProcess,Pass,None,0,All measured parameters within specification.,1
+586,204,48,2024-03-12 18:06:44,InProcess,Pass,None,0,All measured parameters within specification.,1
+587,129,70,2024-01-02 01:37:24,InProcess,Pass,None,0,All measured parameters within specification.,1
+588,456,66,2025-03-07 00:38:30,FinalInspection,ReworkRequired,Material Porosity,8,Material Porosity identified during inspection; see NCR log.,0
+589,403,15,2025-02-06 13:45:53,InProcess,Pass,None,0,All measured parameters within specification.,1
+590,391,64,2023-11-01 20:19:32,Incoming,Pass,None,0,All measured parameters within specification.,1
+591,181,11,2025-08-04 03:36:37,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+592,157,46,2024-01-19 21:54:37,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+593,123,41,2025-08-08 09:54:38,Audit,Pass,None,0,All measured parameters within specification.,1
+594,224,59,2024-04-05 12:09:48,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+595,76,46,2024-04-11 07:39:35,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+596,88,43,2024-03-10 23:25:00,InProcess,Pass,None,0,All measured parameters within specification.,1
+597,199,43,2025-06-04 06:25:16,InProcess,Pass,None,0,All measured parameters within specification.,1
+598,23,42,2024-07-11 11:48:25,InProcess,Pass,None,0,All measured parameters within specification.,1
+599,408,2,2024-08-29 17:01:44,InProcess,Pass,None,0,All measured parameters within specification.,1
+600,466,75,2024-10-06 01:33:57,Incoming,Pass,None,0,All measured parameters within specification.,1
+601,42,9,2024-10-16 11:57:16,InProcess,Pass,None,0,All measured parameters within specification.,1
+602,211,17,2023-11-12 15:00:49,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+603,241,33,2024-03-21 22:21:02,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+604,147,66,2025-03-16 07:35:10,InProcess,Pass,None,0,All measured parameters within specification.,1
+605,240,72,2025-05-13 14:15:37,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+606,132,52,2025-03-30 11:41:03,Audit,Pass,None,0,All measured parameters within specification.,1
+607,343,38,2024-07-16 04:17:51,Audit,Pass,None,0,All measured parameters within specification.,1
+608,429,46,2025-10-06 21:52:58,FinalInspection,Fail,Fastener Torque Non-Conformance,5,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+609,305,45,2023-06-15 03:22:53,InProcess,Pass,None,0,All measured parameters within specification.,1
+610,489,16,2025-02-20 05:37:01,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+611,223,30,2023-04-01 22:15:35,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+612,113,61,2023-09-12 03:14:00,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+613,344,68,2023-07-11 16:31:50,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+614,41,57,2025-11-26 19:52:20,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+615,38,67,2023-01-22 01:44:04,Audit,Pass,None,0,All measured parameters within specification.,1
+616,421,64,2025-12-08 09:43:25,InProcess,Fail,Material Porosity,2,Material Porosity identified during inspection; see NCR log.,0
+617,193,24,2025-01-16 16:10:25,InProcess,Pass,None,0,All measured parameters within specification.,1
+618,204,27,2023-07-01 06:18:34,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+619,354,1,2024-02-04 13:17:05,InProcess,Pass,None,0,All measured parameters within specification.,1
+620,491,2,2025-05-29 06:45:49,InProcess,Pass,None,0,All measured parameters within specification.,1
+621,424,39,2023-07-21 12:10:06,Audit,Pass,None,0,All measured parameters within specification.,1
+622,204,70,2023-06-20 02:53:32,InProcess,Pass,None,0,All measured parameters within specification.,1
+623,402,73,2023-05-07 10:26:13,Incoming,Pass,None,0,All measured parameters within specification.,1
+624,25,26,2024-06-05 01:54:05,InProcess,Pass,None,0,All measured parameters within specification.,1
+625,417,41,2024-01-07 20:15:38,Incoming,Pass,None,0,All measured parameters within specification.,1
+626,111,59,2025-07-14 21:11:46,InProcess,Pass,None,0,All measured parameters within specification.,1
+627,189,78,2024-09-28 14:24:53,Incoming,Pass,None,0,All measured parameters within specification.,1
+628,500,46,2024-05-19 16:04:25,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+629,373,50,2023-11-04 09:12:49,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+630,364,5,2023-01-04 20:51:16,Incoming,Pass,None,0,All measured parameters within specification.,1
+631,304,41,2024-04-24 04:44:59,Audit,Pass,None,0,All measured parameters within specification.,1
+632,200,6,2023-06-05 15:57:53,InProcess,Pass,None,0,All measured parameters within specification.,1
+633,422,27,2023-08-15 14:18:13,InProcess,Pass,None,0,All measured parameters within specification.,1
+634,471,6,2024-02-13 05:34:44,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+635,226,32,2024-03-28 09:36:18,Incoming,Pass,None,0,All measured parameters within specification.,1
+636,23,11,2025-02-08 05:48:08,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+637,88,14,2024-06-20 17:18:10,Incoming,Pass,None,0,All measured parameters within specification.,1
+638,208,29,2025-04-28 06:43:40,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+639,335,26,2025-03-21 21:38:08,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+640,342,69,2024-01-27 23:11:02,FinalInspection,Fail,Material Porosity,6,Material Porosity identified during inspection; see NCR log.,0
+641,405,42,2025-06-18 00:56:27,FinalInspection,Fail,Material Porosity,9,Material Porosity identified during inspection; see NCR log.,0
+642,17,48,2025-09-05 05:34:33,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+643,362,53,2023-09-04 01:04:07,InProcess,Pass,None,0,All measured parameters within specification.,1
+644,226,10,2023-09-01 04:03:08,Incoming,Pass,None,0,All measured parameters within specification.,1
+645,325,19,2024-04-26 01:49:27,InProcess,Pass,None,0,All measured parameters within specification.,1
+646,401,10,2025-11-25 09:27:49,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+647,418,73,2024-06-19 07:29:01,Incoming,Fail,Foreign Object Debris (FOD),4,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+648,201,65,2023-08-24 11:12:44,Audit,Pass,None,0,All measured parameters within specification.,1
+649,186,45,2024-07-04 22:34:50,InProcess,Pass,None,0,All measured parameters within specification.,1
+650,318,16,2024-07-25 05:20:59,Incoming,Pass,None,0,All measured parameters within specification.,1
+651,267,69,2023-03-12 13:56:28,Incoming,Pass,None,0,All measured parameters within specification.,1
+652,340,73,2023-08-21 10:47:38,InProcess,Pass,None,0,All measured parameters within specification.,1
+653,59,50,2024-09-22 12:37:57,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+654,359,43,2023-01-06 06:26:51,Incoming,Pass,None,0,All measured parameters within specification.,1
+655,388,59,2025-04-14 08:05:05,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+656,185,14,2023-02-07 12:31:11,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+657,168,15,2023-01-08 06:29:20,Incoming,Pass,None,0,All measured parameters within specification.,1
+658,309,74,2023-07-04 19:56:49,Audit,Pass,None,0,All measured parameters within specification.,1
+659,210,17,2024-08-21 19:50:53,InProcess,Pass,None,0,All measured parameters within specification.,1
+660,210,62,2023-09-28 18:48:13,InProcess,Pass,None,0,All measured parameters within specification.,1
+661,483,65,2024-08-20 22:12:07,Audit,Pass,None,0,All measured parameters within specification.,1
+662,268,28,2025-12-12 15:03:45,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+663,436,46,2023-03-02 15:49:29,Incoming,Pass,None,0,All measured parameters within specification.,1
+664,121,38,2024-07-14 09:04:22,Incoming,Pass,None,0,All measured parameters within specification.,1
+665,380,54,2023-06-25 21:03:49,Incoming,Pass,None,0,All measured parameters within specification.,1
+666,130,19,2024-06-12 23:07:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+667,35,64,2024-07-12 23:21:29,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+668,25,64,2025-06-08 21:55:56,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+669,100,10,2024-05-19 01:02:04,InProcess,Pass,None,0,All measured parameters within specification.,1
+670,61,20,2023-09-24 23:35:42,InProcess,Pass,None,0,All measured parameters within specification.,1
+671,427,61,2023-01-20 14:50:15,InProcess,Pass,None,0,All measured parameters within specification.,1
+672,439,1,2025-08-28 14:15:59,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+673,398,14,2025-07-21 21:50:32,InProcess,Pass,None,0,All measured parameters within specification.,1
+674,272,40,2023-09-20 04:10:33,InProcess,ReworkRequired,Weld Discontinuity,6,Weld Discontinuity identified during inspection; see NCR log.,0
+675,3,12,2025-07-19 10:48:04,InProcess,ReworkRequired,Dimensional Tolerance Deviation,10,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+676,222,2,2025-08-30 23:33:23,InProcess,Pass,None,0,All measured parameters within specification.,1
+677,216,18,2023-03-02 22:01:59,Incoming,Fail,Surface Finish Defect,8,Surface Finish Defect identified during inspection; see NCR log.,0
+678,263,58,2025-04-23 22:48:09,Incoming,Pass,None,0,All measured parameters within specification.,1
+679,482,44,2025-05-21 18:32:37,Incoming,Pass,None,0,All measured parameters within specification.,1
+680,426,66,2023-02-14 11:53:24,FinalInspection,Fail,Fastener Torque Non-Conformance,12,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+681,384,40,2023-05-07 05:18:20,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+682,26,12,2025-08-14 01:28:06,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+683,406,8,2024-08-24 23:15:46,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+684,59,57,2023-07-18 21:49:08,InProcess,Pass,None,0,All measured parameters within specification.,1
+685,453,72,2025-12-30 21:58:26,Audit,Pass,None,0,All measured parameters within specification.,1
+686,269,12,2025-01-30 08:53:29,Incoming,Pass,None,0,All measured parameters within specification.,1
+687,106,72,2023-04-18 16:18:28,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+688,38,31,2023-01-16 03:08:06,InProcess,Pass,None,0,All measured parameters within specification.,1
+689,247,9,2023-12-08 12:31:19,InProcess,Pass,None,0,All measured parameters within specification.,1
+690,469,1,2025-12-15 20:20:57,InProcess,Pass,None,0,All measured parameters within specification.,1
+691,120,80,2025-10-15 05:45:33,Incoming,Pass,None,0,All measured parameters within specification.,1
+692,456,79,2024-06-20 09:18:23,Incoming,Pass,None,0,All measured parameters within specification.,1
+693,500,12,2023-05-01 19:55:21,InProcess,Pass,None,0,All measured parameters within specification.,1
+694,460,37,2023-01-26 18:50:19,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+695,257,77,2024-04-08 00:50:55,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+696,206,72,2025-04-22 19:42:49,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+697,283,36,2024-01-08 18:10:00,InProcess,Pass,None,0,All measured parameters within specification.,1
+698,20,69,2024-04-25 08:33:03,InProcess,Pass,None,0,All measured parameters within specification.,1
+699,56,32,2025-02-01 00:43:33,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+700,486,11,2024-09-10 14:47:49,InProcess,Pass,None,0,All measured parameters within specification.,1
+701,356,27,2024-07-11 14:37:22,Incoming,Pass,None,0,All measured parameters within specification.,1
+702,174,34,2024-10-18 06:13:25,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+703,480,30,2025-08-13 23:25:10,InProcess,Pass,None,0,All measured parameters within specification.,1
+704,414,29,2024-04-09 14:57:44,Incoming,Pass,None,0,All measured parameters within specification.,1
+705,290,2,2024-05-08 18:51:22,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+706,161,12,2025-01-06 09:21:15,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+707,422,43,2024-01-06 06:19:51,Incoming,Pass,None,0,All measured parameters within specification.,1
+708,52,43,2023-05-31 07:55:28,InProcess,Pass,None,0,All measured parameters within specification.,1
+709,174,33,2025-07-17 04:25:29,FinalInspection,Fail,Foreign Object Debris (FOD),2,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+710,353,16,2025-06-27 14:06:35,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+711,289,5,2025-07-13 20:28:43,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+712,439,11,2025-09-13 19:36:48,Incoming,Pass,None,0,All measured parameters within specification.,1
+713,89,5,2023-05-10 08:44:10,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+714,389,35,2025-02-16 08:26:16,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+715,259,27,2024-06-30 15:05:08,Audit,Pass,None,0,All measured parameters within specification.,1
+716,248,61,2023-07-22 13:25:46,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+717,329,80,2023-04-11 15:02:21,Incoming,Fail,Material Porosity,6,Material Porosity identified during inspection; see NCR log.,0
+718,28,63,2025-01-16 00:08:03,InProcess,Pass,None,0,All measured parameters within specification.,1
+719,51,72,2023-09-07 09:39:21,Incoming,Pass,None,0,All measured parameters within specification.,1
+720,224,17,2024-04-25 05:21:41,Audit,Pass,None,0,All measured parameters within specification.,1
+721,359,1,2025-10-16 11:09:20,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+722,139,62,2024-09-24 00:42:08,Audit,Pass,None,0,All measured parameters within specification.,1
+723,195,54,2024-05-23 16:29:40,InProcess,Pass,None,0,All measured parameters within specification.,1
+724,115,41,2025-04-12 08:45:15,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+725,314,28,2023-08-17 22:03:12,Incoming,Pass,None,0,All measured parameters within specification.,1
+726,202,58,2024-06-01 04:30:38,Incoming,Pass,None,0,All measured parameters within specification.,1
+727,33,69,2024-03-03 13:36:09,FinalInspection,Fail,Coating Thickness Deviation,10,Coating Thickness Deviation identified during inspection; see NCR log.,0
+728,280,54,2025-09-15 21:37:42,Incoming,Pass,None,0,All measured parameters within specification.,1
+729,461,18,2023-09-11 08:17:08,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+730,77,67,2024-07-26 09:48:34,Incoming,Pass,None,0,All measured parameters within specification.,1
+731,245,44,2025-07-27 01:33:48,Incoming,Pass,None,0,All measured parameters within specification.,1
+732,144,48,2024-11-03 13:18:53,FinalInspection,ReworkRequired,Coating Thickness Deviation,12,Coating Thickness Deviation identified during inspection; see NCR log.,0
+733,189,18,2025-03-21 03:04:35,InProcess,Pass,None,0,All measured parameters within specification.,1
+734,196,50,2023-03-25 13:16:34,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+735,258,73,2024-06-17 07:53:28,InProcess,Pass,None,0,All measured parameters within specification.,1
+736,44,9,2024-06-13 17:32:35,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+737,137,19,2024-08-02 03:00:53,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+738,493,26,2024-04-18 22:55:53,Incoming,Pass,None,0,All measured parameters within specification.,1
+739,147,27,2025-07-31 18:46:42,InProcess,Pass,None,0,All measured parameters within specification.,1
+740,429,19,2025-07-24 02:35:42,InProcess,Pass,None,0,All measured parameters within specification.,1
+741,148,21,2025-08-19 00:56:26,InProcess,Pass,None,0,All measured parameters within specification.,1
+742,299,26,2024-06-15 15:23:57,Incoming,Pass,None,0,All measured parameters within specification.,1
+743,352,30,2023-08-10 09:55:57,Incoming,Pass,None,0,All measured parameters within specification.,1
+744,126,30,2023-08-19 20:09:32,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+745,46,40,2024-10-05 06:50:08,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+746,61,15,2024-04-16 04:51:33,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+747,410,69,2023-08-27 00:03:50,InProcess,Pass,None,0,All measured parameters within specification.,1
+748,86,10,2024-01-13 23:58:30,InProcess,Pass,None,0,All measured parameters within specification.,1
+749,341,59,2025-07-02 21:02:19,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+750,495,18,2024-03-02 17:48:36,InProcess,Pass,None,0,All measured parameters within specification.,1
+751,418,60,2025-12-11 03:17:44,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+752,379,22,2024-04-10 21:18:16,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+753,372,11,2024-08-10 03:12:53,Audit,Pass,None,0,All measured parameters within specification.,1
+754,141,6,2024-10-13 14:23:59,InProcess,ReworkRequired,Foreign Object Debris (FOD),7,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+755,239,23,2025-05-26 07:50:16,Audit,Pass,None,0,All measured parameters within specification.,1
+756,100,32,2024-03-25 12:11:42,Audit,Pass,None,0,All measured parameters within specification.,1
+757,366,43,2024-11-30 05:12:42,Incoming,ReworkRequired,Coating Thickness Deviation,1,Coating Thickness Deviation identified during inspection; see NCR log.,0
+758,441,26,2024-11-23 16:06:49,InProcess,Pass,None,0,All measured parameters within specification.,1
+759,494,19,2023-03-09 20:21:47,InProcess,Pass,None,0,All measured parameters within specification.,1
+760,87,40,2024-01-21 08:36:09,InProcess,Pass,None,0,All measured parameters within specification.,1
+761,292,53,2025-07-12 18:55:07,Incoming,Pass,None,0,All measured parameters within specification.,1
+762,172,80,2025-01-01 03:55:37,FinalInspection,ReworkRequired,Dimensional Tolerance Deviation,4,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+763,202,13,2025-09-11 14:52:03,InProcess,Pass,None,0,All measured parameters within specification.,1
+764,93,64,2023-12-31 15:23:06,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+765,289,18,2025-10-07 23:03:03,FinalInspection,Fail,Dimensional Tolerance Deviation,12,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+766,111,34,2023-08-09 19:23:16,FinalInspection,Fail,Material Porosity,9,Material Porosity identified during inspection; see NCR log.,0
+767,10,27,2023-03-09 14:33:50,Incoming,Pass,None,0,All measured parameters within specification.,1
+768,5,34,2024-08-08 23:31:41,InProcess,ReworkRequired,Fastener Torque Non-Conformance,7,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+769,495,64,2024-11-03 19:42:48,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+770,136,78,2023-05-25 06:28:48,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+771,282,50,2023-04-22 18:51:17,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+772,310,70,2025-10-31 09:27:21,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+773,138,73,2023-10-14 01:03:55,Incoming,Pass,None,0,All measured parameters within specification.,1
+774,373,78,2024-02-01 03:26:08,Incoming,Pass,None,0,All measured parameters within specification.,1
+775,104,62,2023-01-01 13:29:09,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+776,55,55,2023-10-10 16:52:47,FinalInspection,ReworkRequired,Weld Discontinuity,3,Weld Discontinuity identified during inspection; see NCR log.,0
+777,280,33,2025-02-21 21:09:25,Incoming,Pass,None,0,All measured parameters within specification.,1
+778,8,72,2024-11-10 21:19:14,InProcess,Pass,None,0,All measured parameters within specification.,1
+779,263,3,2025-05-21 18:19:22,Incoming,Pass,None,0,All measured parameters within specification.,1
+780,34,67,2024-05-21 08:49:33,Audit,Pass,None,0,All measured parameters within specification.,1
+781,22,14,2023-07-29 00:43:01,Audit,Pass,None,0,All measured parameters within specification.,1
+782,134,51,2025-09-03 01:43:38,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+783,491,76,2025-05-13 15:08:28,Incoming,Pass,None,0,All measured parameters within specification.,1
+784,204,27,2023-01-30 21:43:27,FinalInspection,Fail,Coating Thickness Deviation,12,Coating Thickness Deviation identified during inspection; see NCR log.,0
+785,56,11,2023-01-16 08:58:17,FinalInspection,ReworkRequired,Coating Thickness Deviation,2,Coating Thickness Deviation identified during inspection; see NCR log.,0
+786,399,61,2023-08-14 07:19:23,InProcess,Pass,None,0,All measured parameters within specification.,1
+787,245,24,2025-05-25 13:39:05,InProcess,Pass,None,0,All measured parameters within specification.,1
+788,313,66,2025-05-31 10:49:07,InProcess,Pass,None,0,All measured parameters within specification.,1
+789,175,2,2023-12-02 16:34:22,InProcess,Pass,None,0,All measured parameters within specification.,1
+790,288,63,2023-04-07 20:39:13,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+791,142,60,2025-05-16 01:03:11,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+792,297,26,2025-11-16 01:21:19,Audit,Pass,None,0,All measured parameters within specification.,1
+793,281,70,2023-08-27 07:26:44,Audit,Pass,None,0,All measured parameters within specification.,1
+794,11,66,2024-10-26 02:32:19,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+795,445,32,2024-11-20 17:10:38,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+796,339,26,2023-09-13 10:52:18,Incoming,Pass,None,0,All measured parameters within specification.,1
+797,290,30,2023-02-13 02:04:08,Incoming,Pass,None,0,All measured parameters within specification.,1
+798,88,39,2024-01-07 18:02:19,FinalInspection,ReworkRequired,Coating Thickness Deviation,1,Coating Thickness Deviation identified during inspection; see NCR log.,0
+799,489,78,2023-03-17 10:24:09,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+800,148,66,2024-12-28 09:39:43,Audit,Pass,None,0,All measured parameters within specification.,1
+801,81,71,2025-11-01 12:35:20,InProcess,ReworkRequired,Coating Thickness Deviation,11,Coating Thickness Deviation identified during inspection; see NCR log.,0
+802,466,20,2025-04-03 00:42:32,InProcess,Fail,Weld Discontinuity,5,Weld Discontinuity identified during inspection; see NCR log.,0
+803,75,24,2024-02-14 09:39:36,Incoming,Pass,None,0,All measured parameters within specification.,1
+804,469,4,2023-04-22 12:46:17,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+805,416,45,2025-07-02 02:31:37,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+806,407,70,2024-05-23 10:32:33,InProcess,Fail,Foreign Object Debris (FOD),3,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+807,172,58,2024-11-01 14:22:28,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+808,204,53,2025-05-27 06:10:29,InProcess,Fail,Surface Finish Defect,12,Surface Finish Defect identified during inspection; see NCR log.,0
+809,267,67,2023-03-09 18:21:36,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+810,241,48,2025-10-07 03:14:56,InProcess,Fail,Weld Discontinuity,5,Weld Discontinuity identified during inspection; see NCR log.,0
+811,261,27,2024-07-18 16:52:05,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+812,101,20,2023-09-20 00:23:48,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+813,357,61,2025-03-14 09:11:36,Incoming,Pass,None,0,All measured parameters within specification.,1
+814,230,44,2023-08-01 00:11:32,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+815,155,75,2025-08-17 10:19:09,InProcess,ReworkRequired,Coating Thickness Deviation,4,Coating Thickness Deviation identified during inspection; see NCR log.,0
+816,252,35,2023-04-21 16:58:12,Incoming,Pass,None,0,All measured parameters within specification.,1
+817,368,39,2023-07-31 03:26:29,Incoming,Pass,None,0,All measured parameters within specification.,1
+818,129,19,2024-01-20 07:44:25,Incoming,Fail,Coating Thickness Deviation,9,Coating Thickness Deviation identified during inspection; see NCR log.,0
+819,226,64,2025-12-30 15:13:05,Incoming,Pass,None,0,All measured parameters within specification.,1
+820,102,63,2025-11-10 23:26:58,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+821,436,17,2025-10-26 00:44:57,Incoming,Pass,None,0,All measured parameters within specification.,1
+822,128,60,2024-11-02 21:50:21,InProcess,Pass,None,0,All measured parameters within specification.,1
+823,493,40,2024-05-05 16:45:18,InProcess,ReworkRequired,Material Porosity,11,Material Porosity identified during inspection; see NCR log.,0
+824,423,18,2024-04-27 05:26:31,InProcess,Pass,None,0,All measured parameters within specification.,1
+825,109,36,2024-02-14 03:46:46,InProcess,Pass,None,0,All measured parameters within specification.,1
+826,282,42,2024-03-08 19:14:11,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+827,133,54,2023-01-29 04:40:22,InProcess,Fail,Foreign Object Debris (FOD),2,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+828,96,48,2025-02-11 11:52:34,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+829,145,72,2025-09-22 14:51:46,Incoming,Pass,None,0,All measured parameters within specification.,1
+830,227,2,2025-03-30 04:19:10,InProcess,Pass,None,0,All measured parameters within specification.,1
+831,129,69,2025-05-08 12:35:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+832,211,51,2025-05-21 19:56:23,Incoming,Pass,None,0,All measured parameters within specification.,1
+833,337,18,2024-12-31 12:43:13,InProcess,Pass,None,0,All measured parameters within specification.,1
+834,318,31,2024-09-09 16:40:24,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+835,385,4,2024-05-21 05:30:26,InProcess,Pass,None,0,All measured parameters within specification.,1
+836,322,47,2025-08-01 19:16:27,Audit,Pass,None,0,All measured parameters within specification.,1
+837,208,53,2025-01-05 21:45:31,Incoming,Pass,None,0,All measured parameters within specification.,1
+838,438,40,2025-09-30 07:55:39,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+839,495,56,2025-11-09 13:20:04,InProcess,Pass,None,0,All measured parameters within specification.,1
+840,58,9,2023-10-17 02:08:14,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+841,469,23,2024-04-12 22:20:45,FinalInspection,ReworkRequired,Weld Discontinuity,7,Weld Discontinuity identified during inspection; see NCR log.,0
+842,359,64,2023-12-11 07:59:32,InProcess,Pass,None,0,All measured parameters within specification.,1
+843,102,10,2024-08-30 09:15:46,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+844,402,24,2023-11-07 10:15:43,InProcess,Pass,None,0,All measured parameters within specification.,1
+845,210,79,2025-04-20 18:23:58,Incoming,ReworkRequired,Weld Discontinuity,2,Weld Discontinuity identified during inspection; see NCR log.,0
+846,83,33,2025-05-31 16:28:16,InProcess,Pass,None,0,All measured parameters within specification.,1
+847,280,79,2023-05-27 13:30:35,Audit,Pass,None,0,All measured parameters within specification.,1
+848,264,21,2023-09-12 08:50:24,InProcess,ReworkRequired,Material Porosity,9,Material Porosity identified during inspection; see NCR log.,0
+849,354,8,2025-08-11 06:40:41,Incoming,Pass,None,0,All measured parameters within specification.,1
+850,319,1,2024-08-18 10:32:33,Incoming,Pass,None,0,All measured parameters within specification.,1
+851,175,77,2024-11-18 09:13:41,InProcess,Pass,None,0,All measured parameters within specification.,1
+852,183,48,2023-04-25 06:08:18,Incoming,Pass,None,0,All measured parameters within specification.,1
+853,195,33,2025-06-16 17:20:34,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+854,185,37,2023-12-25 09:11:47,Incoming,Pass,None,0,All measured parameters within specification.,1
+855,387,44,2023-01-08 09:15:46,Incoming,Pass,None,0,All measured parameters within specification.,1
+856,271,11,2024-06-26 01:12:37,Audit,Pass,None,0,All measured parameters within specification.,1
+857,139,9,2025-02-28 11:47:21,Incoming,Pass,None,0,All measured parameters within specification.,1
+858,327,20,2024-12-15 07:46:43,Incoming,Pass,None,0,All measured parameters within specification.,1
+859,482,60,2023-09-28 04:41:46,Incoming,Pass,None,0,All measured parameters within specification.,1
+860,367,17,2024-08-25 17:53:22,Audit,Pass,None,0,All measured parameters within specification.,1
+861,405,17,2024-06-28 04:06:50,Incoming,Pass,None,0,All measured parameters within specification.,1
+862,83,6,2023-09-06 05:28:16,Incoming,Pass,None,0,All measured parameters within specification.,1
+863,351,2,2025-03-21 16:45:55,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+864,81,47,2024-04-10 16:48:50,InProcess,Pass,None,0,All measured parameters within specification.,1
+865,34,55,2023-11-30 02:07:07,Incoming,Pass,None,0,All measured parameters within specification.,1
+866,336,80,2023-10-09 15:51:02,InProcess,Pass,None,0,All measured parameters within specification.,1
+867,127,33,2024-11-11 18:44:41,Incoming,Pass,None,0,All measured parameters within specification.,1
+868,460,5,2025-09-24 18:16:30,InProcess,Pass,None,0,All measured parameters within specification.,1
+869,398,39,2024-06-10 01:43:15,Incoming,Fail,Surface Finish Defect,8,Surface Finish Defect identified during inspection; see NCR log.,0
+870,2,42,2024-05-28 18:41:21,InProcess,Pass,None,0,All measured parameters within specification.,1
+871,390,68,2023-09-30 10:55:13,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+872,499,24,2025-08-12 13:00:40,FinalInspection,ReworkRequired,Surface Finish Defect,7,Surface Finish Defect identified during inspection; see NCR log.,0
+873,113,78,2025-02-01 20:18:12,FinalInspection,ReworkRequired,Surface Finish Defect,10,Surface Finish Defect identified during inspection; see NCR log.,0
+874,327,21,2025-05-19 12:01:12,Incoming,Pass,None,0,All measured parameters within specification.,1
+875,303,39,2023-01-06 00:05:01,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+876,359,31,2023-01-07 08:19:46,InProcess,Pass,None,0,All measured parameters within specification.,1
+877,399,61,2024-01-19 10:24:17,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+878,142,77,2023-07-21 06:56:57,Audit,Pass,None,0,All measured parameters within specification.,1
+879,292,29,2023-03-05 20:45:53,Incoming,Pass,None,0,All measured parameters within specification.,1
+880,369,62,2025-06-15 09:37:38,InProcess,Pass,None,0,All measured parameters within specification.,1
+881,365,30,2023-09-20 14:22:56,InProcess,Pass,None,0,All measured parameters within specification.,1
+882,108,1,2025-01-12 11:18:13,InProcess,Fail,Surface Finish Defect,6,Surface Finish Defect identified during inspection; see NCR log.,0
+883,154,49,2025-11-16 09:44:34,InProcess,Pass,None,0,All measured parameters within specification.,1
+884,157,72,2023-08-15 23:09:50,InProcess,Pass,None,0,All measured parameters within specification.,1
+885,284,45,2023-09-25 01:48:52,InProcess,Pass,None,0,All measured parameters within specification.,1
+886,189,79,2023-04-20 15:22:24,Incoming,Pass,None,0,All measured parameters within specification.,1
+887,181,78,2023-02-20 20:25:09,InProcess,Pass,None,0,All measured parameters within specification.,1
+888,310,56,2023-07-01 09:04:03,InProcess,Pass,None,0,All measured parameters within specification.,1
+889,428,49,2023-03-06 04:25:58,Incoming,Pass,None,0,All measured parameters within specification.,1
+890,292,37,2025-10-17 17:10:39,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+891,394,54,2024-11-07 05:02:53,Audit,Pass,None,0,All measured parameters within specification.,1
+892,212,30,2023-08-24 23:30:47,Audit,Pass,None,0,All measured parameters within specification.,1
+893,25,65,2025-03-02 09:27:01,Incoming,Pass,None,0,All measured parameters within specification.,1
+894,464,48,2023-07-29 22:44:21,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+895,14,40,2025-07-09 04:06:18,Audit,Pass,None,0,All measured parameters within specification.,1
+896,131,27,2024-09-01 13:51:43,Audit,Pass,None,0,All measured parameters within specification.,1
+897,144,28,2025-03-29 01:39:46,Incoming,Pass,None,0,All measured parameters within specification.,1
+898,227,72,2023-04-26 21:22:24,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+899,147,31,2025-01-28 05:30:28,Audit,Fail,Foreign Object Debris (FOD),5,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+900,397,24,2025-10-07 09:35:34,Audit,ReworkRequired,Weld Discontinuity,5,Weld Discontinuity identified during inspection; see NCR log.,0
+901,408,70,2023-03-07 20:23:53,Incoming,Pass,None,0,All measured parameters within specification.,1
+902,42,71,2025-08-05 09:38:05,FinalInspection,Fail,Surface Finish Defect,9,Surface Finish Defect identified during inspection; see NCR log.,0
+903,386,69,2025-05-11 03:38:11,Incoming,Pass,None,0,All measured parameters within specification.,1
+904,365,25,2025-01-19 22:04:33,Incoming,Pass,None,0,All measured parameters within specification.,1
+905,473,9,2023-09-25 22:13:56,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+906,325,24,2025-11-30 01:46:41,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+907,247,19,2024-09-04 19:19:23,InProcess,Pass,None,0,All measured parameters within specification.,1
+908,145,16,2025-11-26 20:37:04,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+909,466,52,2024-01-06 14:32:03,InProcess,Pass,None,0,All measured parameters within specification.,1
+910,311,21,2023-10-03 01:02:34,InProcess,Fail,Weld Discontinuity,12,Weld Discontinuity identified during inspection; see NCR log.,0
+911,321,27,2023-02-09 10:47:27,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+912,312,21,2023-04-01 17:52:09,FinalInspection,Fail,Fastener Torque Non-Conformance,12,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+913,118,65,2023-05-13 18:51:20,InProcess,Pass,None,0,All measured parameters within specification.,1
+914,224,49,2025-02-06 20:31:13,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+915,480,21,2024-04-29 04:32:46,Incoming,Pass,None,0,All measured parameters within specification.,1
+916,87,17,2024-06-26 13:51:26,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+917,450,36,2025-02-12 13:31:47,Incoming,Pass,None,0,All measured parameters within specification.,1
+918,290,10,2024-12-15 00:17:46,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+919,488,49,2024-06-30 09:42:23,InProcess,Pass,None,0,All measured parameters within specification.,1
+920,220,5,2023-04-29 00:10:19,InProcess,Pass,None,0,All measured parameters within specification.,1
+921,262,18,2023-12-11 04:19:40,Incoming,Pass,None,0,All measured parameters within specification.,1
+922,81,27,2024-11-08 02:05:13,Audit,Pass,None,0,All measured parameters within specification.,1
+923,137,12,2023-01-29 05:59:44,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+924,356,68,2024-06-29 03:07:23,Audit,Pass,None,0,All measured parameters within specification.,1
+925,305,4,2023-01-24 04:57:03,InProcess,Pass,None,0,All measured parameters within specification.,1
+926,204,38,2025-04-25 17:38:34,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+927,182,50,2024-04-02 18:50:26,Incoming,Pass,None,0,All measured parameters within specification.,1
+928,465,45,2025-03-22 20:15:54,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+929,128,69,2023-03-17 03:45:29,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+930,236,35,2025-01-25 05:09:09,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+931,184,28,2023-02-11 02:20:42,Audit,Fail,Dimensional Tolerance Deviation,11,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+932,366,47,2024-08-16 06:35:50,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+933,401,47,2025-08-07 05:06:16,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+934,83,73,2024-01-13 08:40:05,InProcess,Fail,Material Porosity,9,Material Porosity identified during inspection; see NCR log.,0
+935,404,27,2025-04-30 08:23:53,Audit,Pass,None,0,All measured parameters within specification.,1
+936,17,80,2024-10-11 06:49:42,Audit,Pass,None,0,All measured parameters within specification.,1
+937,38,56,2023-09-03 17:58:34,InProcess,Pass,None,0,All measured parameters within specification.,1
+938,447,53,2023-01-13 02:45:23,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+939,47,19,2024-02-03 15:16:51,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+940,29,9,2023-06-22 13:16:34,InProcess,Pass,None,0,All measured parameters within specification.,1
+941,288,32,2024-12-24 17:27:58,Incoming,Pass,None,0,All measured parameters within specification.,1
+942,25,33,2023-10-26 15:49:55,InProcess,Pass,None,0,All measured parameters within specification.,1
+943,200,28,2023-12-25 19:56:42,Incoming,Pass,None,0,All measured parameters within specification.,1
+944,413,70,2023-07-31 22:01:26,InProcess,Fail,Dimensional Tolerance Deviation,9,Dimensional Tolerance Deviation identified during inspection; see NCR log.,0
+945,38,69,2025-05-03 05:44:39,Incoming,Pass,None,0,All measured parameters within specification.,1
+946,80,44,2023-11-29 18:06:03,Audit,Pass,None,0,All measured parameters within specification.,1
+947,428,40,2025-06-12 09:32:01,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+948,303,31,2024-09-03 06:52:58,InProcess,Pass,None,0,All measured parameters within specification.,1
+949,258,46,2023-03-07 20:35:47,InProcess,Pass,None,0,All measured parameters within specification.,1
+950,139,77,2023-01-21 10:56:10,Incoming,Pass,None,0,All measured parameters within specification.,1
+951,309,45,2024-06-13 09:46:51,InProcess,Pass,None,0,All measured parameters within specification.,1
+952,342,62,2025-09-16 12:28:52,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+953,311,35,2023-10-05 01:27:36,InProcess,Pass,None,0,All measured parameters within specification.,1
+954,13,74,2024-10-02 09:25:23,InProcess,ReworkRequired,Fastener Torque Non-Conformance,6,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+955,149,47,2023-10-03 08:30:21,InProcess,Fail,Foreign Object Debris (FOD),1,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+956,187,79,2025-01-14 20:55:31,InProcess,Pass,None,0,All measured parameters within specification.,1
+957,427,69,2023-05-03 11:47:43,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+958,71,25,2023-09-08 04:55:28,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+959,21,18,2024-06-22 15:44:31,InProcess,Fail,Coating Thickness Deviation,6,Coating Thickness Deviation identified during inspection; see NCR log.,0
+960,338,22,2024-08-17 23:29:43,Incoming,ReworkRequired,Foreign Object Debris (FOD),1,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+961,330,68,2025-03-06 10:37:10,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+962,143,61,2023-03-04 02:40:14,Audit,Pass,None,0,All measured parameters within specification.,1
+963,117,79,2025-08-11 04:22:51,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+964,360,14,2023-06-05 08:40:29,InProcess,Pass,None,0,All measured parameters within specification.,1
+965,480,21,2024-10-19 14:50:42,Audit,Pass,None,0,All measured parameters within specification.,1
+966,154,64,2025-10-18 00:13:23,InProcess,Pass,None,0,All measured parameters within specification.,1
+967,495,50,2023-12-24 20:11:08,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+968,441,80,2024-04-04 12:45:26,InProcess,Pass,None,0,All measured parameters within specification.,1
+969,437,55,2023-10-23 23:11:05,InProcess,Pass,None,0,All measured parameters within specification.,1
+970,488,3,2024-03-16 14:25:10,InProcess,Pass,None,0,All measured parameters within specification.,1
+971,142,39,2024-06-02 07:49:35,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+972,74,29,2023-05-20 05:40:18,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+973,466,4,2025-02-05 20:12:26,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+974,290,1,2023-02-21 21:58:04,InProcess,Pass,None,0,All measured parameters within specification.,1
+975,394,78,2025-03-22 00:21:52,Incoming,ReworkRequired,Surface Finish Defect,5,Surface Finish Defect identified during inspection; see NCR log.,0
+976,212,7,2024-08-21 20:05:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+977,273,60,2024-12-24 09:07:55,InProcess,Pass,None,0,All measured parameters within specification.,1
+978,122,72,2025-07-20 08:51:40,Audit,Pass,None,0,All measured parameters within specification.,1
+979,373,21,2024-03-17 09:46:15,Incoming,Pass,None,0,All measured parameters within specification.,1
+980,424,9,2023-11-23 15:12:21,Audit,Pass,None,0,All measured parameters within specification.,1
+981,422,44,2024-09-25 23:06:07,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+982,154,67,2024-05-24 02:03:44,Incoming,Pass,None,0,All measured parameters within specification.,1
+983,122,66,2024-10-03 18:51:46,Incoming,Pass,None,0,All measured parameters within specification.,1
+984,273,52,2023-07-23 16:42:52,Incoming,Fail,Weld Discontinuity,5,Weld Discontinuity identified during inspection; see NCR log.,0
+985,414,75,2025-12-21 00:09:06,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+986,468,42,2023-12-03 16:21:12,Incoming,Pass,None,0,All measured parameters within specification.,1
+987,384,77,2025-10-14 23:48:57,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+988,2,78,2023-05-28 11:49:50,Incoming,Fail,Weld Discontinuity,6,Weld Discontinuity identified during inspection; see NCR log.,0
+989,466,13,2024-04-05 05:01:51,InProcess,Pass,None,0,All measured parameters within specification.,1
+990,32,65,2023-01-06 16:42:55,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+991,109,50,2025-03-13 04:31:08,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+992,212,31,2025-01-31 02:55:17,InProcess,Pass,None,0,All measured parameters within specification.,1
+993,56,69,2023-05-26 03:36:00,InProcess,Pass,None,0,All measured parameters within specification.,1
+994,14,23,2025-10-11 02:47:11,Audit,Pass,None,0,All measured parameters within specification.,1
+995,140,30,2023-05-03 06:58:15,InProcess,ReworkRequired,Foreign Object Debris (FOD),2,Foreign Object Debris (FOD) identified during inspection; see NCR log.,0
+996,310,33,2024-09-20 10:09:30,InProcess,ReworkRequired,Fastener Torque Non-Conformance,1,Fastener Torque Non-Conformance identified during inspection; see NCR log.,0
+997,157,64,2024-04-11 17:28:53,FinalInspection,Pass,None,0,All measured parameters within specification.,1
+998,271,63,2025-02-06 08:35:24,Audit,Fail,Surface Finish Defect,7,Surface Finish Defect identified during inspection; see NCR log.,0
+999,253,64,2024-11-15 23:25:02,InProcess,Pass,None,0,All measured parameters within specification.,1
+1000,190,13,2025-02-20 00:06:30,Incoming,ReworkRequired,Material Porosity,7,Material Porosity identified during inspection; see NCR log.,0

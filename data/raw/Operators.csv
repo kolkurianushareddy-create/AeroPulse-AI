@@ -1,0 +1,81 @@
+OperatorID,EmployeeCode,FullName,Shift,Certification,HireDate,IsActive,CreatedAt
+1,EMP-0001,Kristina Young,Day,Welding Inspector CWI,2021-03-25,1,2021-03-25 00:00:00
+2,EMP-0002,Rebecca Roberts,Day,CNC Programming Certified,2020-01-13,1,2020-01-13 00:00:00
+3,EMP-0003,Tammy Hughes,Evening,Six Sigma Green Belt,2021-05-25,1,2021-05-25 00:00:00
+4,EMP-0004,Vanessa Edwards,Night,AS9100 Machinist Level II,2016-10-10,1,2016-10-10 00:00:00
+5,EMP-0005,Alexandria King,Day,Non-Destructive Testing Level II,2022-04-13,1,2022-04-13 00:00:00
+6,EMP-0006,Priscilla Berg,Day,CNC Programming Certified,2019-09-24,1,2019-09-24 00:00:00
+7,EMP-0007,Susan Bush,Night,Quality Auditor ISO 9001,2018-10-29,1,2018-10-29 00:00:00
+8,EMP-0008,Nicole Payne,Night,Non-Destructive Testing Level II,2022-05-13,1,2022-05-13 00:00:00
+9,EMP-0009,Patty Brandt,Day,NADCAP Composite Cert,2025-03-06,1,2025-03-06 00:00:00
+10,EMP-0010,Christopher Fleming,Night,Six Sigma Green Belt,2023-02-03,1,2023-02-03 00:00:00
+11,EMP-0011,Christopher Palmer,Night,AS9100 Machinist Level II,2017-01-03,1,2017-01-03 00:00:00
+12,EMP-0012,Jeffrey Hawkins,Day,Quality Auditor ISO 9001,2017-02-08,1,2017-02-08 00:00:00
+13,EMP-0013,Kevin Scott,Night,Quality Auditor ISO 9001,2022-07-27,1,2022-07-27 00:00:00
+14,EMP-0014,Michael Moore,Night,Non-Destructive Testing Level II,2020-08-14,0,2020-08-14 00:00:00
+15,EMP-0015,Frank Williams,Night,Quality Auditor ISO 9001,2019-06-05,1,2019-06-05 00:00:00
+16,EMP-0016,Lisa Stanley,Day,NADCAP Composite Cert,2023-08-22,1,2023-08-22 00:00:00
+17,EMP-0017,Kenneth Howard DDS,Day,Quality Auditor ISO 9001,2017-10-23,0,2017-10-23 00:00:00
+18,EMP-0018,Daniel White,Day,CNC Programming Certified,2024-02-27,1,2024-02-27 00:00:00
+19,EMP-0019,Jonathan Perry,Evening,Non-Destructive Testing Level II,2022-03-03,1,2022-03-03 00:00:00
+20,EMP-0020,Anna Walker,Day,AS9100 Machinist Level II,2023-07-02,1,2023-07-02 00:00:00
+21,EMP-0021,Gary Ward,Evening,CNC Programming Certified,2020-05-26,1,2020-05-26 00:00:00
+22,EMP-0022,Paul Moreno,Day,Quality Auditor ISO 9001,2017-07-30,1,2017-07-30 00:00:00
+23,EMP-0023,Samantha Zavala MD,Evening,AS9100 Machinist Level II,2025-02-24,1,2025-02-24 00:00:00
+24,EMP-0024,Jill Conway,Day,Six Sigma Green Belt,2021-07-22,1,2021-07-22 00:00:00
+25,EMP-0025,Lisa Haley,Day,Six Sigma Green Belt,2023-12-01,1,2023-12-01 00:00:00
+26,EMP-0026,Erica Moon,Night,CNC Programming Certified,2021-12-26,0,2021-12-26 00:00:00
+27,EMP-0027,Janice Fernandez,Night,Welding Inspector CWI,2024-01-22,1,2024-01-22 00:00:00
+28,EMP-0028,Thomas Short,Evening,AS9100 Machinist Level II,2021-04-06,1,2021-04-06 00:00:00
+29,EMP-0029,Robert Griffin,Night,Quality Auditor ISO 9001,2020-08-12,1,2020-08-12 00:00:00
+30,EMP-0030,Steven Lee,Evening,NADCAP Composite Cert,2022-06-11,1,2022-06-11 00:00:00
+31,EMP-0031,Tiffany Jackson,Evening,Welding Inspector CWI,2021-01-06,1,2021-01-06 00:00:00
+32,EMP-0032,Kimberly Smith,Night,CNC Programming Certified,2016-08-08,1,2016-08-08 00:00:00
+33,EMP-0033,Michael Ayala,Night,Quality Auditor ISO 9001,2017-02-09,1,2017-02-09 00:00:00
+34,EMP-0034,Jessica Garcia,Day,NADCAP Composite Cert,2022-08-15,1,2022-08-15 00:00:00
+35,EMP-0035,Michele Cherry,Evening,CNC Programming Certified,2017-10-28,1,2017-10-28 00:00:00
+36,EMP-0036,Maria Case,Night,Six Sigma Green Belt,2018-01-31,1,2018-01-31 00:00:00
+37,EMP-0037,Brittany Stevens,Night,Quality Auditor ISO 9001,2024-02-07,1,2024-02-07 00:00:00
+38,EMP-0038,Brandon Brown,Night,Quality Auditor ISO 9001,2024-05-20,1,2024-05-20 00:00:00
+39,EMP-0039,Kristin Andrews,Night,Quality Auditor ISO 9001,2019-12-16,1,2019-12-16 00:00:00
+40,EMP-0040,David Hughes,Day,Welding Inspector CWI,2023-07-23,1,2023-07-23 00:00:00
+41,EMP-0041,Jessica Smith,Day,Quality Auditor ISO 9001,2022-07-23,1,2022-07-23 00:00:00
+42,EMP-0042,Kimberly May,Day,Welding Inspector CWI,2017-08-23,1,2017-08-23 00:00:00
+43,EMP-0043,Nicole Richards,Evening,Six Sigma Green Belt,2023-07-14,1,2023-07-14 00:00:00
+44,EMP-0044,Angel Reilly,Day,Six Sigma Green Belt,2021-04-15,1,2021-04-15 00:00:00
+45,EMP-0045,Richard Turner,Day,NADCAP Composite Cert,2019-05-23,1,2019-05-23 00:00:00
+46,EMP-0046,Preston Kim,Day,Non-Destructive Testing Level II,2024-06-28,1,2024-06-28 00:00:00
+47,EMP-0047,Matthew Wells,Night,NADCAP Composite Cert,2020-02-02,1,2020-02-02 00:00:00
+48,EMP-0048,Brandy Myers,Evening,Six Sigma Green Belt,2018-02-16,1,2018-02-16 00:00:00
+49,EMP-0049,Kimberly Choi,Night,Six Sigma Green Belt,2023-04-22,1,2023-04-22 00:00:00
+50,EMP-0050,Michael Sloan,Night,Welding Inspector CWI,2024-02-07,1,2024-02-07 00:00:00
+51,EMP-0051,Monica Brooks,Evening,Non-Destructive Testing Level II,2022-09-15,1,2022-09-15 00:00:00
+52,EMP-0052,Kristen Peters,Day,AS9100 Machinist Level II,2023-12-28,1,2023-12-28 00:00:00
+53,EMP-0053,Aaron Carlson,Day,Non-Destructive Testing Level II,2021-10-15,1,2021-10-15 00:00:00
+54,EMP-0054,Theresa Torres,Day,Quality Auditor ISO 9001,2020-10-25,1,2020-10-25 00:00:00
+55,EMP-0055,Stephanie Cooper,Evening,NADCAP Composite Cert,2017-12-13,1,2017-12-13 00:00:00
+56,EMP-0056,Matthew Hunt,Night,CNC Programming Certified,2022-09-21,1,2022-09-21 00:00:00
+57,EMP-0057,Daniel Davenport,Night,Six Sigma Green Belt,2016-12-10,1,2016-12-10 00:00:00
+58,EMP-0058,Christopher Marsh,Day,CNC Programming Certified,2017-04-22,0,2017-04-22 00:00:00
+59,EMP-0059,Sarah Randolph,Day,NADCAP Composite Cert,2023-04-21,1,2023-04-21 00:00:00
+60,EMP-0060,Julia Dunn MD,Evening,Welding Inspector CWI,2020-06-30,1,2020-06-30 00:00:00
+61,EMP-0061,Brett Swanson,Night,Non-Destructive Testing Level II,2018-07-11,1,2018-07-11 00:00:00
+62,EMP-0062,Mr. Carl Rios,Day,NADCAP Composite Cert,2021-12-22,1,2021-12-22 00:00:00
+63,EMP-0063,Manuel Mccullough,Day,NADCAP Composite Cert,2021-01-10,1,2021-01-10 00:00:00
+64,EMP-0064,Jerry Jensen,Evening,CNC Programming Certified,2019-12-04,0,2019-12-04 00:00:00
+65,EMP-0065,Kevin Cunningham,Night,Six Sigma Green Belt,2020-11-25,0,2020-11-25 00:00:00
+66,EMP-0066,Eugene Patterson,Day,Quality Auditor ISO 9001,2020-03-14,1,2020-03-14 00:00:00
+67,EMP-0067,David Walker,Day,Six Sigma Green Belt,2024-12-16,1,2024-12-16 00:00:00
+68,EMP-0068,Jessica Larsen,Day,CNC Programming Certified,2025-04-28,1,2025-04-28 00:00:00
+69,EMP-0069,Nicholas Humphrey,Night,Quality Auditor ISO 9001,2023-03-17,1,2023-03-17 00:00:00
+70,EMP-0070,Ian Torres,Night,Quality Auditor ISO 9001,2021-06-15,1,2021-06-15 00:00:00
+71,EMP-0071,Casey Obrien,Evening,CNC Programming Certified,2024-04-25,1,2024-04-25 00:00:00
+72,EMP-0072,Shannon Taylor,Night,Non-Destructive Testing Level II,2022-06-19,1,2022-06-19 00:00:00
+73,EMP-0073,Deborah Mercado,Evening,AS9100 Machinist Level II,2023-01-19,1,2023-01-19 00:00:00
+74,EMP-0074,Bernard Smith,Night,NADCAP Composite Cert,2024-07-18,1,2024-07-18 00:00:00
+75,EMP-0075,Amanda Perkins,Day,Welding Inspector CWI,2020-03-27,1,2020-03-27 00:00:00
+76,EMP-0076,Kevin Escobar,Evening,Quality Auditor ISO 9001,2021-11-13,1,2021-11-13 00:00:00
+77,EMP-0077,Kimberly Lutz,Night,CNC Programming Certified,2023-09-16,1,2023-09-16 00:00:00
+78,EMP-0078,Reginald Diaz,Day,AS9100 Machinist Level II,2024-05-13,1,2024-05-13 00:00:00
+79,EMP-0079,Raymond Quinn,Night,Quality Auditor ISO 9001,2019-09-14,1,2019-09-14 00:00:00
+80,EMP-0080,John Dixon,Night,Six Sigma Green Belt,2020-12-09,1,2020-12-09 00:00:00

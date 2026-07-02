@@ -1,0 +1,601 @@
+MaintenanceLogID,MachineID,OperatorID,MaintenanceType,StartTime,EndTime,DescriptionOfWork,Cost,Status,MaintenanceDurationHours,IsUnplanned
+1,19,1,Predictive,2025-08-08 15:41:23,2025-08-08 18:50:40,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1031.67,Completed,3.155,0
+2,33,15,Corrective,2025-05-24 13:50:54,2025-05-24 22:20:08,Corrective repair performed following identified fault or performance degradation.,4968.47,InProgress,8.487,1
+3,13,50,Preventive,2025-08-03 05:44:28,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,279.84,Cancelled,0.0,0
+4,20,38,Preventive,2023-06-12 17:47:26,2023-06-12 19:09:49,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1268.83,InProgress,1.373,0
+5,13,4,Corrective,2023-08-03 07:46:57,2023-08-03 14:08:24,Corrective repair performed following identified fault or performance degradation.,2560.41,Completed,6.358,1
+6,35,1,Corrective,2025-02-09 15:43:36,2025-02-10 03:07:07,Corrective repair performed following identified fault or performance degradation.,2033.89,Completed,11.392,1
+7,3,29,Preventive,2024-03-18 12:43:58,2024-03-18 13:56:50,Routine scheduled preventive maintenance performed per manufacturer guidelines.,743.24,Completed,1.214,0
+8,19,63,Predictive,2025-06-14 10:03:51,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,546.36,Cancelled,0.0,0
+9,12,18,Corrective,2024-09-15 03:42:11,2024-09-15 10:55:51,Corrective repair performed following identified fault or performance degradation.,4751.65,Completed,7.228,1
+10,5,68,Emergency,2024-08-23 13:09:22,2024-08-24 00:37:26,Unplanned emergency repair following unexpected machine failure.,12063.16,Completed,11.468,1
+11,19,49,Predictive,2023-10-11 13:02:29,2023-10-11 20:21:28,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1183.1,Completed,7.316,0
+12,10,38,Preventive,2024-05-20 11:58:21,2024-05-20 16:38:41,Routine scheduled preventive maintenance performed per manufacturer guidelines.,629.53,Completed,4.672,0
+13,2,21,Corrective,2024-11-24 09:58:22,2024-11-24 14:23:57,Corrective repair performed following identified fault or performance degradation.,4209.32,Completed,4.426,1
+14,16,65,Predictive,2023-12-04 17:56:04,2023-12-04 20:45:32,Maintenance triggered by predictive analytics / sensor anomaly threshold.,516.65,Completed,2.824,0
+15,7,12,Preventive,2025-05-12 17:47:40,2025-05-12 22:08:49,Routine scheduled preventive maintenance performed per manufacturer guidelines.,601.47,Completed,4.352,0
+16,7,29,Corrective,2025-11-14 12:08:14,2025-11-14 20:43:50,Corrective repair performed following identified fault or performance degradation.,1481.41,Completed,8.593,1
+17,10,44,Emergency,2023-11-15 18:54:32,2023-11-16 13:24:51,Unplanned emergency repair following unexpected machine failure.,2080.24,Completed,18.505,1
+18,25,72,Corrective,2025-06-02 19:18:39,,Corrective repair performed following identified fault or performance degradation.,2680.49,Scheduled,0.0,1
+19,30,38,Preventive,2024-04-14 07:15:16,2024-04-14 11:30:02,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1452.85,Completed,4.246,0
+20,28,27,Emergency,2024-01-11 12:09:15,2024-01-12 12:08:40,Unplanned emergency repair following unexpected machine failure.,2295.81,Completed,23.99,1
+21,4,44,Predictive,2023-02-23 05:57:14,2023-02-23 09:45:29,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3295.45,Completed,3.804,0
+22,29,15,Predictive,2025-06-06 12:17:26,2025-06-06 15:23:20,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2042.14,Completed,3.098,0
+23,7,77,Corrective,2025-12-04 17:32:04,2025-12-04 23:27:50,Corrective repair performed following identified fault or performance degradation.,5072.1,Completed,5.929,1
+24,11,5,Preventive,2023-08-04 23:33:29,2023-08-05 03:35:04,Routine scheduled preventive maintenance performed per manufacturer guidelines.,265.58,Completed,4.026,0
+25,33,16,Emergency,2023-05-01 15:57:32,2023-05-02 14:10:18,Unplanned emergency repair following unexpected machine failure.,11584.8,Completed,22.213,1
+26,14,43,Preventive,2023-02-04 05:54:48,2023-02-04 08:22:18,Routine scheduled preventive maintenance performed per manufacturer guidelines.,266.25,Completed,2.458,0
+27,3,74,Emergency,2025-09-28 16:47:32,2025-09-29 09:31:15,Unplanned emergency repair following unexpected machine failure.,3577.64,Completed,16.729,1
+28,13,42,Corrective,2023-03-21 20:46:44,2023-03-22 02:53:28,Corrective repair performed following identified fault or performance degradation.,5341.43,InProgress,6.112,1
+29,7,19,Predictive,2025-03-29 20:47:25,2025-03-30 00:49:08,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2623.39,Completed,4.029,0
+30,14,62,Predictive,2025-08-04 14:17:44,2025-08-04 21:12:24,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1873.61,Completed,6.911,0
+31,1,21,Preventive,2023-08-23 14:21:54,2023-08-23 16:54:47,Routine scheduled preventive maintenance performed per manufacturer guidelines.,885.16,InProgress,2.548,0
+32,18,20,Corrective,2025-01-23 20:40:11,2025-01-24 08:20:14,Corrective repair performed following identified fault or performance degradation.,3182.85,Completed,11.668,1
+33,35,1,Corrective,2025-08-18 18:50:57,2025-08-19 00:28:05,Corrective repair performed following identified fault or performance degradation.,3303.74,Completed,5.619,1
+34,8,48,Corrective,2024-12-13 03:53:44,,Corrective repair performed following identified fault or performance degradation.,3179.14,Scheduled,0.0,1
+35,16,47,Preventive,2024-02-10 21:32:20,2024-02-10 23:23:30,Routine scheduled preventive maintenance performed per manufacturer guidelines.,224.24,InProgress,1.853,0
+36,14,22,Emergency,2024-03-16 10:14:30,2024-03-17 07:49:17,Unplanned emergency repair following unexpected machine failure.,14077.53,Completed,21.58,1
+37,2,34,Corrective,2024-10-04 02:49:59,2024-10-04 11:11:30,Corrective repair performed following identified fault or performance degradation.,5261.08,Completed,8.359,1
+38,7,63,Preventive,2025-07-27 03:51:48,2025-07-27 05:59:52,Routine scheduled preventive maintenance performed per manufacturer guidelines.,378.68,Completed,2.134,0
+39,11,60,Preventive,2024-02-05 07:25:42,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,411.2,Scheduled,0.0,0
+40,18,77,Corrective,2023-09-18 13:06:16,2023-09-18 15:16:59,Corrective repair performed following identified fault or performance degradation.,2942.78,Completed,2.179,1
+41,9,25,Preventive,2025-05-21 00:25:50,2025-05-21 03:18:32,Routine scheduled preventive maintenance performed per manufacturer guidelines.,415.7,Completed,2.878,0
+42,8,1,Corrective,2024-09-30 00:08:13,2024-09-30 11:47:53,Corrective repair performed following identified fault or performance degradation.,4300.48,InProgress,11.661,1
+43,5,34,Corrective,2023-12-29 02:32:57,2023-12-29 11:34:20,Corrective repair performed following identified fault or performance degradation.,3960.37,Completed,9.023,1
+44,6,70,Preventive,2023-05-29 21:50:14,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,601.4,Scheduled,0.0,0
+45,19,13,Corrective,2025-03-25 10:34:43,2025-03-25 20:00:30,Corrective repair performed following identified fault or performance degradation.,2521.14,InProgress,9.43,1
+46,20,76,Preventive,2024-09-28 22:10:33,2024-09-29 03:12:33,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1099.8,Completed,5.033,0
+47,17,23,Predictive,2025-08-03 09:52:33,2025-08-03 13:59:52,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3338.99,Completed,4.122,0
+48,10,15,Predictive,2024-03-21 13:31:40,2024-03-21 15:28:35,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2697.76,Completed,1.949,0
+49,33,43,Predictive,2024-03-17 11:05:45,2024-03-17 14:55:54,Maintenance triggered by predictive analytics / sensor anomaly threshold.,976.22,Completed,3.836,0
+50,9,6,Preventive,2024-07-17 00:52:09,2024-07-17 02:40:08,Routine scheduled preventive maintenance performed per manufacturer guidelines.,501.73,Completed,1.8,0
+51,16,19,Preventive,2025-12-14 06:07:21,2025-12-14 08:50:44,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1182.75,Completed,2.723,0
+52,31,64,Corrective,2025-12-14 19:47:37,2025-12-14 22:38:51,Corrective repair performed following identified fault or performance degradation.,2414.14,Completed,2.854,1
+53,4,20,Predictive,2025-08-30 07:01:58,2025-08-30 13:40:31,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3912.01,InProgress,6.642,0
+54,32,23,Preventive,2023-12-05 14:15:05,2023-12-05 16:19:10,Routine scheduled preventive maintenance performed per manufacturer guidelines.,287.4,Completed,2.068,0
+55,5,56,Preventive,2024-04-20 12:50:24,2024-04-20 15:04:53,Routine scheduled preventive maintenance performed per manufacturer guidelines.,214.75,Completed,2.241,0
+56,22,36,Corrective,2024-01-11 23:36:29,2024-01-12 09:50:00,Corrective repair performed following identified fault or performance degradation.,4444.2,Completed,10.225,1
+57,1,36,Preventive,2025-03-26 03:26:59,2025-03-26 06:23:50,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1308.38,Completed,2.948,0
+58,10,29,Preventive,2025-03-01 13:17:55,2025-03-01 14:32:41,Routine scheduled preventive maintenance performed per manufacturer guidelines.,313.25,Completed,1.246,0
+59,17,63,Preventive,2023-03-11 21:32:08,2023-03-12 00:14:44,Routine scheduled preventive maintenance performed per manufacturer guidelines.,809.04,Completed,2.71,0
+60,2,53,Preventive,2024-08-04 02:03:12,2024-08-04 06:35:48,Routine scheduled preventive maintenance performed per manufacturer guidelines.,831.96,Completed,4.543,0
+61,12,58,Corrective,2025-12-28 09:21:28,2025-12-28 16:40:51,Corrective repair performed following identified fault or performance degradation.,5784.6,Completed,7.323,1
+62,28,4,Preventive,2023-03-16 13:30:12,2023-03-16 16:39:49,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1087.13,Completed,3.16,0
+63,34,1,Corrective,2024-06-23 20:24:49,2024-06-24 07:59:57,Corrective repair performed following identified fault or performance degradation.,5373.03,Completed,11.586,1
+64,34,25,Corrective,2025-02-05 17:26:03,2025-02-06 00:03:29,Corrective repair performed following identified fault or performance degradation.,2381.47,Completed,6.624,1
+65,19,62,Corrective,2025-02-13 05:58:08,2025-02-13 14:36:45,Corrective repair performed following identified fault or performance degradation.,5605.59,Completed,8.644,1
+66,12,26,Corrective,2024-10-18 22:09:17,2024-10-19 00:55:33,Corrective repair performed following identified fault or performance degradation.,1929.35,Completed,2.771,1
+67,13,34,Preventive,2025-09-01 16:42:18,2025-09-01 19:24:56,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1007.52,Completed,2.711,0
+68,16,31,Preventive,2024-07-23 16:22:46,2024-07-23 22:08:19,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1394.64,Completed,5.759,0
+69,11,38,Preventive,2025-12-07 06:18:30,2025-12-07 09:44:25,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1366.13,Completed,3.432,0
+70,34,28,Preventive,2025-10-01 14:31:01,2025-10-01 19:29:07,Routine scheduled preventive maintenance performed per manufacturer guidelines.,578.84,Completed,4.968,0
+71,31,51,Corrective,2025-10-18 10:53:14,2025-10-18 13:31:31,Corrective repair performed following identified fault or performance degradation.,5815.43,Completed,2.638,1
+72,5,1,Preventive,2023-05-19 00:53:57,2023-05-19 06:49:18,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1363.8,Completed,5.922,0
+73,23,43,Preventive,2024-01-07 04:06:57,2024-01-07 09:18:25,Routine scheduled preventive maintenance performed per manufacturer guidelines.,649.0,Completed,5.191,0
+74,32,43,Predictive,2023-12-31 18:53:09,2023-12-31 21:38:31,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3917.49,Completed,2.756,0
+75,28,20,Preventive,2024-02-12 08:56:38,2024-02-12 13:10:59,Routine scheduled preventive maintenance performed per manufacturer guidelines.,374.57,Completed,4.239,0
+76,11,29,Corrective,2025-12-19 09:24:12,,Corrective repair performed following identified fault or performance degradation.,1401.75,Scheduled,0.0,1
+77,13,77,Preventive,2024-04-13 21:32:14,2024-04-13 23:50:56,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1317.82,Completed,2.312,0
+78,5,49,Corrective,2023-05-30 06:48:05,2023-05-30 11:53:16,Corrective repair performed following identified fault or performance degradation.,5585.85,InProgress,5.086,1
+79,11,14,Predictive,2024-06-03 22:54:40,2024-06-04 03:03:01,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2361.18,InProgress,4.139,0
+80,1,61,Emergency,2023-03-04 01:23:25,2023-03-04 08:15:14,Unplanned emergency repair following unexpected machine failure.,4564.78,Completed,6.864,1
+81,7,62,Corrective,2025-01-23 00:40:29,2025-01-23 08:35:17,Corrective repair performed following identified fault or performance degradation.,1944.62,Completed,7.913,1
+82,24,55,Corrective,2025-03-31 19:49:40,2025-04-01 04:21:58,Corrective repair performed following identified fault or performance degradation.,5889.47,Completed,8.538,1
+83,29,69,Preventive,2025-04-16 03:24:42,2025-04-16 04:34:01,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1251.07,Completed,1.155,0
+84,32,52,Corrective,2024-05-23 01:43:28,,Corrective repair performed following identified fault or performance degradation.,3300.04,Cancelled,0.0,1
+85,31,64,Preventive,2024-02-02 06:43:28,2024-02-02 09:48:51,Routine scheduled preventive maintenance performed per manufacturer guidelines.,801.47,Completed,3.09,0
+86,21,17,Corrective,2025-02-03 11:52:12,2025-02-03 14:13:42,Corrective repair performed following identified fault or performance degradation.,4969.6,Completed,2.358,1
+87,32,44,Preventive,2023-11-13 19:21:21,2023-11-14 00:01:25,Routine scheduled preventive maintenance performed per manufacturer guidelines.,419.96,Completed,4.668,0
+88,13,41,Preventive,2025-09-07 12:30:37,2025-09-07 14:09:13,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1073.62,Completed,1.643,0
+89,30,25,Emergency,2023-05-09 00:13:54,2023-05-09 23:28:38,Unplanned emergency repair following unexpected machine failure.,13896.82,Completed,23.246,1
+90,31,32,Preventive,2024-12-12 07:11:24,2024-12-12 09:08:21,Routine scheduled preventive maintenance performed per manufacturer guidelines.,272.76,Completed,1.949,0
+91,23,23,Predictive,2023-10-02 21:52:42,2023-10-02 23:34:18,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2163.08,InProgress,1.693,0
+92,20,58,Preventive,2024-09-16 13:54:58,2024-09-16 15:39:06,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1030.33,Completed,1.736,0
+93,1,57,Preventive,2025-11-09 15:47:57,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,388.4,Scheduled,0.0,0
+94,10,39,Corrective,2024-10-10 09:46:59,2024-10-10 19:01:48,Corrective repair performed following identified fault or performance degradation.,2364.82,InProgress,9.247,1
+95,25,71,Preventive,2025-04-10 08:04:28,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,459.58,Scheduled,0.0,0
+96,1,51,Preventive,2025-01-17 11:23:17,2025-01-17 14:56:36,Routine scheduled preventive maintenance performed per manufacturer guidelines.,929.06,Completed,3.555,0
+97,26,64,Preventive,2025-11-23 07:19:48,2025-11-23 13:16:57,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1097.38,Completed,5.952,0
+98,30,27,Corrective,2024-08-17 11:08:16,,Corrective repair performed following identified fault or performance degradation.,5521.62,Scheduled,0.0,1
+99,6,65,Preventive,2023-10-09 08:32:09,2023-10-09 13:44:02,Routine scheduled preventive maintenance performed per manufacturer guidelines.,365.0,Completed,5.198,0
+100,6,79,Preventive,2024-04-11 13:53:37,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,726.07,Cancelled,0.0,0
+101,25,46,Emergency,2024-06-21 09:33:02,2024-06-22 06:08:34,Unplanned emergency repair following unexpected machine failure.,3020.36,Completed,20.592,1
+102,26,76,Corrective,2023-07-02 11:07:19,2023-07-02 17:56:19,Corrective repair performed following identified fault or performance degradation.,5126.81,Completed,6.817,1
+103,9,6,Corrective,2023-09-20 15:05:46,2023-09-20 18:05:08,Corrective repair performed following identified fault or performance degradation.,3184.38,Completed,2.989,1
+104,26,38,Corrective,2023-01-02 23:59:26,2023-01-03 08:18:37,Corrective repair performed following identified fault or performance degradation.,2875.34,Completed,8.32,1
+105,11,74,Preventive,2025-08-13 13:09:10,2025-08-13 18:12:34,Routine scheduled preventive maintenance performed per manufacturer guidelines.,751.14,Completed,5.057,0
+106,8,7,Corrective,2024-07-24 11:31:32,2024-07-24 15:53:02,Corrective repair performed following identified fault or performance degradation.,1331.5,Completed,4.358,1
+107,2,68,Corrective,2024-12-09 11:28:10,,Corrective repair performed following identified fault or performance degradation.,1048.1,Cancelled,0.0,1
+108,35,53,Emergency,2025-11-18 17:31:11,2025-11-19 10:00:36,Unplanned emergency repair following unexpected machine failure.,6206.93,Completed,16.49,1
+109,28,35,Preventive,2023-01-24 20:41:56,2023-01-24 21:49:14,Routine scheduled preventive maintenance performed per manufacturer guidelines.,616.65,Completed,1.122,0
+110,2,79,Corrective,2024-01-04 15:55:00,2024-01-04 20:11:36,Corrective repair performed following identified fault or performance degradation.,3351.53,Completed,4.277,1
+111,17,49,Preventive,2024-05-30 06:03:28,2024-05-30 09:52:20,Routine scheduled preventive maintenance performed per manufacturer guidelines.,938.71,Completed,3.814,0
+112,23,29,Predictive,2023-10-09 19:39:59,2023-10-10 02:07:12,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1537.14,Completed,6.454,0
+113,25,74,Corrective,2023-01-15 17:24:16,2023-01-16 04:58:38,Corrective repair performed following identified fault or performance degradation.,2823.91,Completed,11.573,1
+114,22,24,Corrective,2023-06-21 00:04:28,2023-06-21 11:36:19,Corrective repair performed following identified fault or performance degradation.,4572.92,Completed,11.531,1
+115,5,66,Preventive,2023-12-08 14:21:50,2023-12-08 18:35:40,Routine scheduled preventive maintenance performed per manufacturer guidelines.,560.05,Completed,4.231,0
+116,24,6,Preventive,2023-05-14 19:20:30,2023-05-14 21:06:50,Routine scheduled preventive maintenance performed per manufacturer guidelines.,611.72,Completed,1.772,0
+117,31,21,Preventive,2025-10-13 19:48:59,2025-10-13 21:38:01,Routine scheduled preventive maintenance performed per manufacturer guidelines.,326.62,Completed,1.817,0
+118,33,19,Preventive,2025-10-13 00:26:20,2025-10-13 04:51:00,Routine scheduled preventive maintenance performed per manufacturer guidelines.,705.79,Completed,4.411,0
+119,33,19,Preventive,2025-07-16 02:51:39,2025-07-16 08:28:31,Routine scheduled preventive maintenance performed per manufacturer guidelines.,791.96,Completed,5.614,0
+120,20,2,Preventive,2023-07-30 18:10:06,2023-07-30 22:42:06,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1194.8,Completed,4.533,0
+121,31,70,Corrective,2024-01-14 06:42:32,2024-01-14 12:21:58,Corrective repair performed following identified fault or performance degradation.,3480.36,Completed,5.657,1
+122,27,58,Emergency,2023-05-01 09:58:50,2023-05-01 17:38:02,Unplanned emergency repair following unexpected machine failure.,8699.52,Completed,7.653,1
+123,3,28,Preventive,2023-11-02 08:17:36,2023-11-02 09:23:04,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1067.56,Completed,1.091,0
+124,9,55,Predictive,2025-06-07 20:25:16,2025-06-08 00:28:16,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2579.17,Completed,4.05,0
+125,32,60,Predictive,2025-05-11 22:49:27,2025-05-12 03:23:03,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2056.15,Completed,4.56,0
+126,19,37,Corrective,2024-07-02 10:03:39,2024-07-02 13:50:08,Corrective repair performed following identified fault or performance degradation.,5196.25,Completed,3.775,1
+127,34,43,Corrective,2025-05-23 20:30:57,2025-05-23 23:35:39,Corrective repair performed following identified fault or performance degradation.,5304.9,Completed,3.078,1
+128,15,9,Preventive,2025-07-24 19:02:55,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1427.29,Scheduled,0.0,0
+129,9,35,Preventive,2025-05-16 23:00:51,2025-05-17 04:49:11,Routine scheduled preventive maintenance performed per manufacturer guidelines.,748.88,Completed,5.806,0
+130,24,27,Emergency,2024-07-29 06:21:27,2024-07-29 12:10:17,Unplanned emergency repair following unexpected machine failure.,2301.31,InProgress,5.814,1
+131,31,13,Preventive,2024-07-31 23:24:47,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,952.03,Scheduled,0.0,0
+132,6,49,Corrective,2024-01-13 03:39:16,2024-01-13 12:10:29,Corrective repair performed following identified fault or performance degradation.,3478.64,Completed,8.52,1
+133,14,61,Corrective,2023-12-23 02:00:53,2023-12-23 07:16:15,Corrective repair performed following identified fault or performance degradation.,3112.15,Completed,5.256,1
+134,27,56,Preventive,2025-03-13 16:49:12,2025-03-13 18:33:02,Routine scheduled preventive maintenance performed per manufacturer guidelines.,662.11,Completed,1.731,0
+135,33,42,Preventive,2025-07-25 03:38:32,2025-07-25 04:42:30,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1078.89,Completed,1.066,0
+136,22,77,Preventive,2025-07-29 04:01:57,2025-07-29 09:56:17,Routine scheduled preventive maintenance performed per manufacturer guidelines.,770.18,Completed,5.906,0
+137,15,54,Preventive,2023-08-03 18:20:35,2023-08-03 21:07:35,Routine scheduled preventive maintenance performed per manufacturer guidelines.,260.9,Completed,2.783,0
+138,30,31,Preventive,2024-04-02 08:18:14,2024-04-02 09:44:36,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1045.93,Completed,1.439,0
+139,28,40,Predictive,2025-12-02 19:27:07,2025-12-02 21:28:47,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1704.28,Completed,2.028,0
+140,2,71,Preventive,2025-10-07 19:51:28,2025-10-08 01:37:26,Routine scheduled preventive maintenance performed per manufacturer guidelines.,605.05,Completed,5.766,0
+141,14,53,Corrective,2023-11-24 17:33:01,2023-11-24 20:54:42,Corrective repair performed following identified fault or performance degradation.,1582.77,Completed,3.361,1
+142,9,12,Corrective,2024-05-04 00:23:58,2024-05-04 07:13:23,Corrective repair performed following identified fault or performance degradation.,1388.07,Completed,6.824,1
+143,11,80,Predictive,2024-12-08 21:23:58,2024-12-09 02:25:47,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1181.34,Completed,5.03,0
+144,26,46,Corrective,2025-09-30 05:50:16,2025-09-30 10:00:45,Corrective repair performed following identified fault or performance degradation.,5317.26,Completed,4.175,1
+145,9,14,Preventive,2024-04-30 20:52:20,2024-04-30 22:50:29,Routine scheduled preventive maintenance performed per manufacturer guidelines.,611.41,Completed,1.969,0
+146,18,26,Corrective,2023-03-28 13:38:09,2023-03-28 16:00:55,Corrective repair performed following identified fault or performance degradation.,2997.68,Completed,2.379,1
+147,17,42,Corrective,2024-07-18 04:50:04,,Corrective repair performed following identified fault or performance degradation.,2698.91,Cancelled,0.0,1
+148,10,20,Predictive,2024-06-14 04:54:41,2024-06-14 11:53:16,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3307.47,Completed,6.976,0
+149,17,32,Corrective,2025-08-21 19:45:20,2025-08-22 05:11:05,Corrective repair performed following identified fault or performance degradation.,5742.33,Completed,9.429,1
+150,26,32,Preventive,2025-02-04 17:48:59,2025-02-04 23:33:19,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1212.86,Completed,5.739,0
+151,1,77,Predictive,2025-01-07 05:51:06,2025-01-07 11:33:58,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1205.21,Completed,5.714,0
+152,26,24,Corrective,2025-09-21 05:49:41,2025-09-21 10:18:14,Corrective repair performed following identified fault or performance degradation.,4267.21,Completed,4.476,1
+153,8,15,Preventive,2023-09-05 05:08:20,2023-09-05 06:49:51,Routine scheduled preventive maintenance performed per manufacturer guidelines.,393.11,Completed,1.692,0
+154,27,41,Corrective,2025-04-13 02:25:55,2025-04-13 04:58:17,Corrective repair performed following identified fault or performance degradation.,3092.84,Completed,2.539,1
+155,26,29,Predictive,2023-09-07 05:11:51,2023-09-07 11:59:40,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1917.02,Completed,6.797,0
+156,14,43,Corrective,2025-03-10 03:01:16,2025-03-10 14:46:56,Corrective repair performed following identified fault or performance degradation.,5388.66,Completed,11.761,1
+157,12,62,Preventive,2023-10-28 09:22:39,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,489.14,Scheduled,0.0,0
+158,14,62,Corrective,2025-02-05 21:12:19,2025-02-06 06:29:49,Corrective repair performed following identified fault or performance degradation.,5097.07,Completed,9.292,1
+159,21,44,Preventive,2023-05-22 02:23:12,2023-05-22 06:41:54,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1265.77,Completed,4.312,0
+160,5,74,Preventive,2025-10-25 14:31:59,2025-10-25 16:32:44,Routine scheduled preventive maintenance performed per manufacturer guidelines.,293.15,Completed,2.013,0
+161,33,2,Predictive,2023-07-05 08:42:34,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2719.44,Cancelled,0.0,0
+162,30,54,Preventive,2025-10-14 18:51:34,2025-10-14 22:17:35,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1386.04,Completed,3.434,0
+163,31,60,Corrective,2024-06-08 11:11:11,2024-06-08 18:28:00,Corrective repair performed following identified fault or performance degradation.,2378.07,Completed,7.28,1
+164,26,72,Predictive,2025-08-08 19:58:19,2025-08-09 03:53:56,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1153.0,InProgress,7.927,0
+165,27,53,Corrective,2025-01-03 19:34:18,2025-01-03 23:59:18,Corrective repair performed following identified fault or performance degradation.,2468.46,InProgress,4.417,1
+166,22,66,Preventive,2023-03-21 05:33:48,2023-03-21 07:03:12,Routine scheduled preventive maintenance performed per manufacturer guidelines.,774.25,Completed,1.49,0
+167,16,29,Corrective,2024-01-17 20:41:28,2024-01-18 08:15:02,Corrective repair performed following identified fault or performance degradation.,3455.49,Completed,11.559,1
+168,30,36,Predictive,2025-06-16 02:28:50,2025-06-16 08:13:11,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1097.62,InProgress,5.739,0
+169,29,67,Corrective,2025-09-03 06:06:25,2025-09-03 16:43:57,Corrective repair performed following identified fault or performance degradation.,2183.2,Completed,10.626,1
+170,19,23,Preventive,2024-01-10 17:23:47,2024-01-10 19:27:35,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1008.81,Completed,2.063,0
+171,32,11,Predictive,2024-05-27 15:23:55,2024-05-27 16:27:53,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3017.15,Completed,1.066,0
+172,17,70,Predictive,2023-10-23 05:35:57,2023-10-23 12:44:34,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3088.06,Completed,7.144,0
+173,31,12,Corrective,2025-08-04 11:35:13,2025-08-04 22:27:15,Corrective repair performed following identified fault or performance degradation.,2030.91,Completed,10.867,1
+174,25,14,Preventive,2025-07-15 12:25:39,2025-07-15 13:53:25,Routine scheduled preventive maintenance performed per manufacturer guidelines.,356.64,Completed,1.463,0
+175,10,80,Corrective,2024-09-28 02:45:25,2024-09-28 05:04:51,Corrective repair performed following identified fault or performance degradation.,3921.82,InProgress,2.324,1
+176,35,23,Preventive,2024-12-08 12:10:30,2024-12-08 15:37:52,Routine scheduled preventive maintenance performed per manufacturer guidelines.,681.25,Completed,3.456,0
+177,10,1,Preventive,2023-10-30 09:15:17,2023-10-30 11:47:47,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1261.25,Completed,2.542,0
+178,19,14,Preventive,2023-05-17 09:29:54,2023-05-17 13:44:49,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1403.77,Completed,4.249,0
+179,22,54,Preventive,2023-03-14 00:04:29,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,889.74,Scheduled,0.0,0
+180,25,3,Preventive,2025-01-30 20:21:11,2025-01-30 21:59:33,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1103.04,Completed,1.639,0
+181,33,15,Preventive,2025-04-05 09:43:27,2025-04-05 11:37:43,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1387.1,Completed,1.904,0
+182,28,17,Predictive,2024-06-25 15:24:38,2024-06-25 18:13:29,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3948.33,Completed,2.814,0
+183,6,60,Preventive,2025-10-17 04:29:17,2025-10-17 07:54:21,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1023.24,Completed,3.418,0
+184,33,70,Preventive,2024-03-20 07:53:37,2024-03-20 13:34:44,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1172.72,Completed,5.685,0
+185,6,50,Predictive,2024-12-08 09:30:15,2024-12-08 10:30:51,Maintenance triggered by predictive analytics / sensor anomaly threshold.,931.28,Completed,1.01,0
+186,26,3,Preventive,2025-07-04 01:01:20,2025-07-04 04:32:44,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1176.05,InProgress,3.523,0
+187,24,60,Preventive,2024-02-25 23:32:16,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1070.3,Cancelled,0.0,0
+188,3,73,Predictive,2024-05-09 03:46:48,2024-05-09 08:14:27,Maintenance triggered by predictive analytics / sensor anomaly threshold.,786.55,Completed,4.461,0
+189,33,60,Emergency,2023-09-14 00:44:17,2023-09-14 19:13:03,Unplanned emergency repair following unexpected machine failure.,12807.37,Completed,18.479,1
+190,35,22,Preventive,2024-10-07 17:50:09,2024-10-07 21:48:03,Routine scheduled preventive maintenance performed per manufacturer guidelines.,942.1,Completed,3.965,0
+191,22,19,Emergency,2025-06-14 21:35:46,2025-06-15 08:10:28,Unplanned emergency repair following unexpected machine failure.,6821.11,Completed,10.578,1
+192,6,65,Predictive,2025-10-20 13:15:46,2025-10-20 18:12:03,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3374.3,Completed,4.938,0
+193,28,36,Preventive,2024-02-27 18:22:57,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,825.9,Scheduled,0.0,0
+194,10,46,Corrective,2024-05-22 06:25:39,2024-05-22 11:40:37,Corrective repair performed following identified fault or performance degradation.,1189.52,Completed,5.249,1
+195,7,53,Emergency,2024-11-06 17:21:18,2024-11-07 03:58:30,Unplanned emergency repair following unexpected machine failure.,8301.43,Completed,10.62,1
+196,12,23,Corrective,2025-10-26 03:16:37,2025-10-26 14:18:57,Corrective repair performed following identified fault or performance degradation.,3778.28,Completed,11.039,1
+197,6,70,Emergency,2025-06-24 23:52:42,2025-06-25 10:08:43,Unplanned emergency repair following unexpected machine failure.,9072.8,Completed,10.267,1
+198,5,59,Emergency,2023-11-13 13:58:29,2023-11-14 11:16:17,Unplanned emergency repair following unexpected machine failure.,2684.16,Completed,21.297,1
+199,16,46,Preventive,2024-06-13 07:26:27,2024-06-13 09:46:31,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1363.96,Completed,2.334,0
+200,5,2,Predictive,2023-08-12 06:51:04,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2063.94,Scheduled,0.0,0
+201,8,29,Corrective,2023-03-02 05:48:25,2023-03-02 09:50:47,Corrective repair performed following identified fault or performance degradation.,1228.54,InProgress,4.039,1
+202,6,54,Preventive,2025-11-25 03:47:32,2025-11-25 06:47:56,Routine scheduled preventive maintenance performed per manufacturer guidelines.,828.01,InProgress,3.007,0
+203,30,30,Corrective,2024-05-17 07:01:44,,Corrective repair performed following identified fault or performance degradation.,5452.32,Scheduled,0.0,1
+204,15,20,Preventive,2025-12-17 07:43:53,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,252.22,Scheduled,0.0,0
+205,29,49,Corrective,2023-01-10 23:27:51,2023-01-11 01:46:21,Corrective repair performed following identified fault or performance degradation.,5241.99,Completed,2.308,1
+206,16,48,Preventive,2023-09-13 20:42:59,2023-09-14 01:51:01,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1448.1,InProgress,5.134,0
+207,10,74,Preventive,2024-02-06 08:08:44,2024-02-06 14:01:11,Routine scheduled preventive maintenance performed per manufacturer guidelines.,209.7,Completed,5.874,0
+208,26,79,Preventive,2023-12-31 17:21:47,2023-12-31 20:12:58,Routine scheduled preventive maintenance performed per manufacturer guidelines.,953.11,Completed,2.853,0
+209,32,46,Preventive,2023-06-04 17:49:56,2023-06-04 22:27:30,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1284.07,Completed,4.626,0
+210,7,17,Preventive,2024-02-26 09:14:53,2024-02-26 13:15:15,Routine scheduled preventive maintenance performed per manufacturer guidelines.,517.03,InProgress,4.006,0
+211,35,8,Preventive,2024-01-20 11:12:16,2024-01-20 16:56:44,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1150.75,Completed,5.741,0
+212,11,65,Preventive,2024-09-10 16:40:21,2024-09-10 19:10:32,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1435.49,InProgress,2.503,0
+213,34,35,Preventive,2023-06-03 13:46:21,2023-06-03 18:50:57,Routine scheduled preventive maintenance performed per manufacturer guidelines.,494.6,Completed,5.077,0
+214,10,78,Predictive,2024-02-11 19:34:40,2024-02-12 01:44:57,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3811.16,InProgress,6.171,0
+215,32,59,Preventive,2023-10-18 13:45:18,2023-10-18 18:53:28,Routine scheduled preventive maintenance performed per manufacturer guidelines.,268.93,Completed,5.136,0
+216,21,43,Preventive,2023-09-09 23:49:53,2023-09-10 02:14:24,Routine scheduled preventive maintenance performed per manufacturer guidelines.,349.95,Completed,2.409,0
+217,9,44,Predictive,2024-02-12 23:11:50,2024-02-13 05:08:05,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1043.72,Completed,5.938,0
+218,28,1,Corrective,2023-01-15 01:18:01,2023-01-15 08:41:34,Corrective repair performed following identified fault or performance degradation.,3835.91,Completed,7.392,1
+219,32,27,Preventive,2024-12-12 02:52:27,2024-12-12 04:12:18,Routine scheduled preventive maintenance performed per manufacturer guidelines.,263.05,Completed,1.331,0
+220,14,9,Corrective,2024-04-19 07:08:16,2024-04-19 17:12:26,Corrective repair performed following identified fault or performance degradation.,3649.52,InProgress,10.069,1
+221,24,19,Corrective,2023-03-14 10:47:20,2023-03-14 17:00:49,Corrective repair performed following identified fault or performance degradation.,880.09,Completed,6.225,1
+222,17,67,Preventive,2025-08-29 14:55:49,2025-08-29 20:53:51,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1291.16,Completed,5.967,0
+223,24,3,Predictive,2023-12-31 05:06:56,2023-12-31 11:53:39,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1455.97,Completed,6.779,0
+224,5,57,Preventive,2024-09-16 03:27:51,2024-09-16 05:41:58,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1104.44,InProgress,2.235,0
+225,26,77,Predictive,2025-06-12 18:11:37,2025-06-12 21:15:23,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1181.72,Completed,3.063,0
+226,20,4,Preventive,2024-02-07 10:26:16,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,898.26,Scheduled,0.0,0
+227,5,79,Emergency,2023-04-01 02:16:47,2023-04-02 00:14:50,Unplanned emergency repair following unexpected machine failure.,11802.85,Completed,21.968,1
+228,18,25,Preventive,2024-10-29 17:23:32,2024-10-29 18:57:33,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1422.05,Completed,1.567,0
+229,11,45,Corrective,2025-02-09 00:46:07,2025-02-09 10:39:24,Corrective repair performed following identified fault or performance degradation.,4113.57,Completed,9.888,1
+230,23,69,Corrective,2024-01-23 22:34:49,2024-01-24 06:11:05,Corrective repair performed following identified fault or performance degradation.,5949.96,Completed,7.604,1
+231,20,63,Preventive,2024-12-20 22:12:28,2024-12-21 02:40:06,Routine scheduled preventive maintenance performed per manufacturer guidelines.,496.23,Completed,4.461,0
+232,34,4,Preventive,2025-05-31 06:10:13,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,440.19,Scheduled,0.0,0
+233,1,8,Preventive,2025-04-16 22:01:22,2025-04-17 03:13:10,Routine scheduled preventive maintenance performed per manufacturer guidelines.,373.55,Completed,5.197,0
+234,25,58,Predictive,2025-10-02 04:43:26,2025-10-02 12:39:00,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1147.71,Completed,7.926,0
+235,35,13,Corrective,2024-05-03 01:56:39,2024-05-03 13:23:36,Corrective repair performed following identified fault or performance degradation.,3328.4,InProgress,11.449,1
+236,30,31,Corrective,2023-11-12 03:20:22,2023-11-12 12:56:02,Corrective repair performed following identified fault or performance degradation.,2203.34,Completed,9.594,1
+237,15,64,Predictive,2024-03-07 21:43:11,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2883.51,Scheduled,0.0,0
+238,27,49,Corrective,2023-05-07 17:28:37,2023-05-08 02:10:37,Corrective repair performed following identified fault or performance degradation.,2676.23,Completed,8.7,1
+239,31,61,Emergency,2025-01-25 12:53:00,,Unplanned emergency repair following unexpected machine failure.,5500.97,Cancelled,0.0,1
+240,7,72,Emergency,2025-11-26 19:16:59,2025-11-27 09:24:58,Unplanned emergency repair following unexpected machine failure.,9645.1,Completed,14.133,1
+241,10,66,Preventive,2023-02-19 20:47:04,2023-02-19 22:12:57,Routine scheduled preventive maintenance performed per manufacturer guidelines.,290.99,Completed,1.431,0
+242,15,41,Corrective,2024-06-15 14:04:32,2024-06-15 20:02:41,Corrective repair performed following identified fault or performance degradation.,1904.2,Completed,5.969,1
+243,25,22,Corrective,2023-04-04 04:29:12,,Corrective repair performed following identified fault or performance degradation.,5737.47,Scheduled,0.0,1
+244,32,61,Preventive,2025-10-16 07:09:06,2025-10-16 08:48:46,Routine scheduled preventive maintenance performed per manufacturer guidelines.,618.92,Completed,1.661,0
+245,20,66,Corrective,2024-07-24 03:15:42,2024-07-24 14:08:25,Corrective repair performed following identified fault or performance degradation.,2351.12,InProgress,10.879,1
+246,23,21,Emergency,2023-04-07 02:02:05,2023-04-07 13:21:41,Unplanned emergency repair following unexpected machine failure.,13917.09,Completed,11.327,1
+247,5,26,Corrective,2023-08-23 03:57:21,,Corrective repair performed following identified fault or performance degradation.,3042.64,Cancelled,0.0,1
+248,7,41,Corrective,2023-04-16 22:31:35,2023-04-17 09:34:17,Corrective repair performed following identified fault or performance degradation.,4155.71,InProgress,11.045,1
+249,22,27,Preventive,2024-01-15 16:49:27,2024-01-15 21:19:47,Routine scheduled preventive maintenance performed per manufacturer guidelines.,552.33,Completed,4.506,0
+250,17,35,Emergency,2024-06-10 13:42:38,2024-06-10 19:30:52,Unplanned emergency repair following unexpected machine failure.,2461.22,Completed,5.804,1
+251,17,59,Preventive,2023-02-24 12:38:38,2023-02-24 14:56:51,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1196.92,Completed,2.304,0
+252,3,64,Preventive,2023-07-05 04:52:15,2023-07-05 08:31:34,Routine scheduled preventive maintenance performed per manufacturer guidelines.,503.41,Completed,3.655,0
+253,26,25,Predictive,2023-03-16 16:14:25,2023-03-16 17:35:01,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1506.39,Completed,1.343,0
+254,14,76,Preventive,2023-03-31 06:55:27,2023-03-31 09:37:45,Routine scheduled preventive maintenance performed per manufacturer guidelines.,258.06,Completed,2.705,0
+255,30,31,Emergency,2023-01-01 18:25:30,2023-01-02 06:13:12,Unplanned emergency repair following unexpected machine failure.,5980.89,Completed,11.795,1
+256,33,26,Corrective,2024-09-13 08:23:48,2024-09-13 13:06:07,Corrective repair performed following identified fault or performance degradation.,3373.56,Completed,4.705,1
+257,26,78,Preventive,2023-03-14 11:40:28,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,655.07,Scheduled,0.0,0
+258,28,71,Preventive,2023-06-07 22:08:17,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,331.04,Scheduled,0.0,0
+259,6,76,Preventive,2025-02-07 11:55:04,2025-02-07 14:46:37,Routine scheduled preventive maintenance performed per manufacturer guidelines.,625.82,Completed,2.859,0
+260,24,50,Emergency,2023-04-29 09:46:05,2023-04-30 05:19:17,Unplanned emergency repair following unexpected machine failure.,4818.41,Completed,19.553,1
+261,26,43,Emergency,2025-08-25 05:49:16,2025-08-25 23:00:37,Unplanned emergency repair following unexpected machine failure.,11536.19,Completed,17.189,1
+262,8,80,Corrective,2023-08-24 07:22:07,2023-08-24 18:27:07,Corrective repair performed following identified fault or performance degradation.,3432.32,Completed,11.083,1
+263,35,29,Corrective,2025-07-21 22:43:37,2025-07-22 01:00:30,Corrective repair performed following identified fault or performance degradation.,5617.43,Completed,2.281,1
+264,9,71,Preventive,2023-08-16 13:23:26,2023-08-16 17:08:20,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1008.84,Completed,3.748,0
+265,15,52,Corrective,2025-08-22 20:58:28,2025-08-22 23:27:12,Corrective repair performed following identified fault or performance degradation.,5209.29,Completed,2.479,1
+266,12,36,Corrective,2023-05-14 01:27:47,2023-05-14 10:43:34,Corrective repair performed following identified fault or performance degradation.,1589.07,Completed,9.263,1
+267,25,44,Preventive,2023-05-09 20:09:21,2023-05-10 01:48:04,Routine scheduled preventive maintenance performed per manufacturer guidelines.,294.93,Completed,5.645,0
+268,1,45,Corrective,2024-12-10 04:15:45,2024-12-10 07:15:46,Corrective repair performed following identified fault or performance degradation.,1573.83,Completed,3.0,1
+269,30,61,Preventive,2023-07-04 10:47:11,2023-07-04 13:35:48,Routine scheduled preventive maintenance performed per manufacturer guidelines.,572.83,Completed,2.81,0
+270,19,76,Preventive,2023-12-29 22:52:14,2023-12-30 01:37:58,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1459.79,Completed,2.762,0
+271,27,27,Preventive,2025-04-02 14:09:47,2025-04-02 15:43:07,Routine scheduled preventive maintenance performed per manufacturer guidelines.,735.67,Completed,1.556,0
+272,23,28,Emergency,2024-04-21 01:33:46,2024-04-21 23:47:22,Unplanned emergency repair following unexpected machine failure.,5475.57,Completed,22.227,1
+273,29,22,Emergency,2025-04-16 20:08:34,2025-04-17 00:38:43,Unplanned emergency repair following unexpected machine failure.,14571.34,Completed,4.502,1
+274,15,12,Corrective,2023-07-31 05:02:34,2023-07-31 16:21:05,Corrective repair performed following identified fault or performance degradation.,4893.28,Completed,11.309,1
+275,29,29,Preventive,2025-07-08 10:54:19,2025-07-08 15:14:01,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1264.3,Completed,4.328,0
+276,22,19,Preventive,2024-06-22 14:05:02,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1094.71,Cancelled,0.0,0
+277,27,37,Emergency,2025-09-16 12:58:01,,Unplanned emergency repair following unexpected machine failure.,12650.08,Scheduled,0.0,1
+278,25,54,Predictive,2023-07-17 18:21:22,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1799.74,Scheduled,0.0,0
+279,8,5,Corrective,2024-01-24 03:13:08,2024-01-24 10:09:24,Corrective repair performed following identified fault or performance degradation.,5838.63,Completed,6.938,1
+280,15,8,Predictive,2024-06-23 07:52:59,2024-06-23 15:13:27,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1520.8,Completed,7.341,0
+281,15,10,Corrective,2024-11-20 20:18:32,,Corrective repair performed following identified fault or performance degradation.,1472.92,Cancelled,0.0,1
+282,7,26,Preventive,2023-01-28 15:43:24,2023-01-28 19:03:37,Routine scheduled preventive maintenance performed per manufacturer guidelines.,757.97,Completed,3.337,0
+283,7,69,Corrective,2024-06-13 19:47:48,,Corrective repair performed following identified fault or performance degradation.,4858.81,Cancelled,0.0,1
+284,10,19,Preventive,2025-02-24 01:42:08,2025-02-24 05:10:34,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1411.14,Completed,3.474,0
+285,12,15,Corrective,2023-06-25 15:19:02,,Corrective repair performed following identified fault or performance degradation.,1111.88,Scheduled,0.0,1
+286,35,18,Predictive,2025-01-20 17:30:02,2025-01-20 23:54:24,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3056.44,Completed,6.406,0
+287,24,37,Corrective,2023-06-11 10:16:09,2023-06-11 15:12:34,Corrective repair performed following identified fault or performance degradation.,1930.74,Completed,4.94,1
+288,28,65,Predictive,2023-10-25 07:23:06,2023-10-25 14:18:14,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3275.35,Completed,6.919,0
+289,26,46,Emergency,2025-03-08 07:03:19,2025-03-09 00:23:38,Unplanned emergency repair following unexpected machine failure.,3439.34,InProgress,17.339,1
+290,26,76,Preventive,2025-11-07 12:13:29,2025-11-07 17:47:49,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1438.86,Completed,5.572,0
+291,30,71,Emergency,2025-04-01 15:35:18,2025-04-01 20:47:40,Unplanned emergency repair following unexpected machine failure.,11475.85,Completed,5.206,1
+292,2,44,Preventive,2025-07-18 09:55:56,2025-07-18 11:16:56,Routine scheduled preventive maintenance performed per manufacturer guidelines.,704.78,Completed,1.35,0
+293,1,51,Predictive,2024-11-05 01:30:24,2024-11-05 06:07:15,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3568.86,Completed,4.614,0
+294,35,17,Preventive,2024-02-20 01:41:48,2024-02-20 05:21:33,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1440.28,Completed,3.662,0
+295,19,22,Preventive,2024-04-28 09:10:56,2024-04-28 11:11:37,Routine scheduled preventive maintenance performed per manufacturer guidelines.,569.38,Completed,2.011,0
+296,15,55,Predictive,2024-07-21 01:49:42,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3722.19,Cancelled,0.0,0
+297,15,67,Corrective,2024-10-07 11:41:11,,Corrective repair performed following identified fault or performance degradation.,1917.58,Scheduled,0.0,1
+298,9,43,Preventive,2023-03-14 15:24:40,2023-03-14 17:53:36,Routine scheduled preventive maintenance performed per manufacturer guidelines.,367.75,Completed,2.482,0
+299,5,16,Corrective,2025-08-07 03:13:33,2025-08-07 13:55:04,Corrective repair performed following identified fault or performance degradation.,1541.38,Completed,10.692,1
+300,24,38,Preventive,2024-09-23 14:41:26,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,883.25,Cancelled,0.0,0
+301,13,4,Corrective,2025-03-04 06:31:02,2025-03-04 12:48:33,Corrective repair performed following identified fault or performance degradation.,5641.39,Completed,6.292,1
+302,31,4,Preventive,2024-10-20 08:25:36,2024-10-20 11:39:39,Routine scheduled preventive maintenance performed per manufacturer guidelines.,595.95,Completed,3.234,0
+303,34,42,Corrective,2024-11-23 14:09:28,2024-11-24 00:19:22,Corrective repair performed following identified fault or performance degradation.,5519.84,Completed,10.165,1
+304,32,80,Preventive,2023-07-21 14:23:10,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1359.75,Scheduled,0.0,0
+305,27,13,Preventive,2025-09-07 21:12:19,2025-09-08 02:56:32,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1492.95,Completed,5.737,0
+306,1,12,Preventive,2025-11-23 05:53:24,2025-11-23 07:08:53,Routine scheduled preventive maintenance performed per manufacturer guidelines.,518.6,InProgress,1.258,0
+307,34,30,Preventive,2023-12-15 13:21:29,2023-12-15 18:53:12,Routine scheduled preventive maintenance performed per manufacturer guidelines.,632.59,Completed,5.529,0
+308,31,34,Corrective,2024-10-21 16:46:00,2024-10-21 19:12:43,Corrective repair performed following identified fault or performance degradation.,2066.1,Completed,2.445,1
+309,28,62,Preventive,2024-05-19 04:15:29,2024-05-19 08:53:22,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1007.63,Completed,4.631,0
+310,11,65,Preventive,2023-03-30 04:17:58,2023-03-30 08:10:40,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1078.1,Completed,3.878,0
+311,10,43,Predictive,2025-09-17 06:20:51,2025-09-17 13:00:23,Maintenance triggered by predictive analytics / sensor anomaly threshold.,769.33,Completed,6.659,0
+312,15,69,Corrective,2023-07-03 17:10:25,2023-07-03 23:32:58,Corrective repair performed following identified fault or performance degradation.,1335.52,Completed,6.376,1
+313,6,61,Predictive,2023-12-09 22:55:37,2023-12-10 06:38:12,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2520.38,Completed,7.71,0
+314,14,30,Preventive,2023-10-21 01:56:26,2023-10-21 04:54:26,Routine scheduled preventive maintenance performed per manufacturer guidelines.,429.31,Completed,2.967,0
+315,23,54,Corrective,2024-05-21 10:46:29,2024-05-21 17:42:37,Corrective repair performed following identified fault or performance degradation.,3349.69,Completed,6.936,1
+316,24,32,Preventive,2023-06-24 15:09:06,2023-06-24 20:24:10,Routine scheduled preventive maintenance performed per manufacturer guidelines.,208.6,Completed,5.251,0
+317,3,2,Preventive,2024-02-13 23:04:24,2024-02-14 01:05:32,Routine scheduled preventive maintenance performed per manufacturer guidelines.,452.5,Completed,2.019,0
+318,19,70,Corrective,2024-05-11 21:09:08,2024-05-11 23:19:25,Corrective repair performed following identified fault or performance degradation.,1325.59,Completed,2.171,1
+319,14,47,Corrective,2023-02-22 12:33:03,2023-02-22 21:37:28,Corrective repair performed following identified fault or performance degradation.,3153.64,Completed,9.074,1
+320,21,10,Predictive,2024-10-07 23:35:26,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2834.02,Scheduled,0.0,0
+321,11,70,Preventive,2025-08-26 00:27:45,2025-08-26 03:16:11,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1394.58,Completed,2.807,0
+322,10,38,Preventive,2025-05-20 07:03:17,2025-05-20 08:32:02,Routine scheduled preventive maintenance performed per manufacturer guidelines.,871.48,InProgress,1.479,0
+323,11,64,Preventive,2023-02-20 21:01:24,2023-02-20 23:25:19,Routine scheduled preventive maintenance performed per manufacturer guidelines.,413.59,Completed,2.399,0
+324,33,11,Preventive,2025-10-29 06:05:50,2025-10-29 07:26:59,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1358.76,Completed,1.352,0
+325,26,16,Emergency,2025-02-27 22:48:46,2025-02-28 15:09:05,Unplanned emergency repair following unexpected machine failure.,5498.66,Completed,16.339,1
+326,14,5,Corrective,2023-03-28 09:27:15,2023-03-28 13:56:09,Corrective repair performed following identified fault or performance degradation.,1146.27,Completed,4.482,1
+327,13,37,Preventive,2023-05-23 03:18:55,2023-05-23 06:36:56,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1200.72,Completed,3.3,0
+328,9,65,Emergency,2024-06-15 23:20:35,,Unplanned emergency repair following unexpected machine failure.,9410.79,Scheduled,0.0,1
+329,19,19,Corrective,2025-09-26 14:01:35,2025-09-26 21:20:42,Corrective repair performed following identified fault or performance degradation.,3263.51,Completed,7.319,1
+330,22,13,Preventive,2023-04-29 12:54:38,2023-04-29 14:36:50,Routine scheduled preventive maintenance performed per manufacturer guidelines.,749.39,Completed,1.703,0
+331,2,49,Preventive,2025-07-31 23:00:34,2025-08-01 03:53:24,Routine scheduled preventive maintenance performed per manufacturer guidelines.,662.58,Completed,4.881,0
+332,17,48,Preventive,2024-11-19 11:11:25,2024-11-19 16:52:13,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1009.27,InProgress,5.68,0
+333,17,78,Predictive,2025-10-05 18:27:55,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,861.16,Scheduled,0.0,0
+334,6,40,Preventive,2023-08-16 15:31:30,2023-08-16 16:35:15,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1207.5,Completed,1.062,0
+335,12,32,Preventive,2023-07-24 12:13:46,2023-07-24 17:35:57,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1492.86,InProgress,5.37,0
+336,10,26,Corrective,2024-07-30 01:02:23,2024-07-30 09:37:33,Corrective repair performed following identified fault or performance degradation.,1770.09,Completed,8.586,1
+337,23,8,Corrective,2024-09-12 04:35:58,2024-09-12 11:03:28,Corrective repair performed following identified fault or performance degradation.,2721.82,Completed,6.458,1
+338,6,58,Preventive,2024-05-14 00:21:34,2024-05-14 03:57:32,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1156.52,Completed,3.599,0
+339,10,61,Emergency,2025-07-29 11:54:23,2025-07-30 07:59:50,Unplanned emergency repair following unexpected machine failure.,2455.19,Completed,20.091,1
+340,13,71,Emergency,2024-07-01 03:01:41,2024-07-01 09:27:06,Unplanned emergency repair following unexpected machine failure.,11697.79,Completed,6.424,1
+341,31,79,Corrective,2025-07-19 02:23:03,2025-07-19 07:09:48,Corrective repair performed following identified fault or performance degradation.,3011.65,Completed,4.779,1
+342,24,77,Corrective,2025-01-19 14:46:04,2025-01-19 22:49:43,Corrective repair performed following identified fault or performance degradation.,1560.32,Completed,8.061,1
+343,15,79,Preventive,2025-08-09 20:59:31,2025-08-09 23:36:53,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1425.95,Completed,2.623,0
+344,26,1,Emergency,2023-02-12 03:09:43,2023-02-12 10:33:46,Unplanned emergency repair following unexpected machine failure.,3670.46,Completed,7.401,1
+345,25,35,Preventive,2025-06-23 06:38:01,2025-06-23 08:25:19,Routine scheduled preventive maintenance performed per manufacturer guidelines.,795.21,InProgress,1.788,0
+346,27,15,Corrective,2023-05-19 12:45:29,2023-05-20 00:00:28,Corrective repair performed following identified fault or performance degradation.,4974.71,Completed,11.25,1
+347,22,78,Corrective,2023-05-09 20:32:50,2023-05-10 04:29:19,Corrective repair performed following identified fault or performance degradation.,3688.05,InProgress,7.941,1
+348,5,71,Corrective,2025-12-14 17:51:02,2025-12-14 20:22:44,Corrective repair performed following identified fault or performance degradation.,1437.85,Completed,2.528,1
+349,27,78,Preventive,2025-09-04 19:38:05,2025-09-04 20:41:04,Routine scheduled preventive maintenance performed per manufacturer guidelines.,958.89,Completed,1.05,0
+350,6,55,Preventive,2024-11-18 09:00:50,2024-11-18 11:08:04,Routine scheduled preventive maintenance performed per manufacturer guidelines.,914.39,Completed,2.121,0
+351,7,39,Corrective,2023-02-09 20:59:22,2023-02-10 04:22:33,Corrective repair performed following identified fault or performance degradation.,5664.89,Completed,7.386,1
+352,18,26,Corrective,2023-04-01 12:39:52,2023-04-01 16:22:24,Corrective repair performed following identified fault or performance degradation.,1791.61,Completed,3.709,1
+353,34,7,Emergency,2023-03-15 15:32:14,2023-03-15 20:40:55,Unplanned emergency repair following unexpected machine failure.,6179.51,Completed,5.145,1
+354,17,68,Preventive,2023-06-03 23:06:20,2023-06-04 02:24:52,Routine scheduled preventive maintenance performed per manufacturer guidelines.,898.9,Completed,3.309,0
+355,2,27,Preventive,2023-04-21 07:54:28,2023-04-21 13:41:10,Routine scheduled preventive maintenance performed per manufacturer guidelines.,458.93,Completed,5.778,0
+356,34,20,Emergency,2025-11-07 21:48:18,2025-11-08 19:24:38,Unplanned emergency repair following unexpected machine failure.,12746.8,Completed,21.606,1
+357,34,37,Preventive,2025-12-14 10:06:55,2025-12-14 14:09:12,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1408.58,Completed,4.038,0
+358,34,1,Corrective,2025-12-19 01:31:12,2025-12-19 12:00:08,Corrective repair performed following identified fault or performance degradation.,3803.02,Completed,10.482,1
+359,19,62,Corrective,2025-08-03 08:48:30,,Corrective repair performed following identified fault or performance degradation.,4636.48,Cancelled,0.0,1
+360,20,42,Preventive,2024-05-17 01:40:40,2024-05-17 05:45:16,Routine scheduled preventive maintenance performed per manufacturer guidelines.,792.84,Completed,4.077,0
+361,32,8,Preventive,2025-09-28 08:15:22,2025-09-28 12:50:47,Routine scheduled preventive maintenance performed per manufacturer guidelines.,675.97,Completed,4.59,0
+362,6,77,Preventive,2024-02-12 14:53:49,2024-02-12 19:00:40,Routine scheduled preventive maintenance performed per manufacturer guidelines.,871.69,Completed,4.114,0
+363,17,25,Corrective,2025-07-28 00:59:17,2025-07-28 12:57:00,Corrective repair performed following identified fault or performance degradation.,3009.35,Completed,11.962,1
+364,34,75,Corrective,2025-04-21 23:50:18,2025-04-22 04:02:06,Corrective repair performed following identified fault or performance degradation.,3452.31,Completed,4.197,1
+365,20,63,Preventive,2024-09-28 12:02:24,2024-09-28 16:11:45,Routine scheduled preventive maintenance performed per manufacturer guidelines.,822.83,Completed,4.156,0
+366,4,80,Predictive,2024-05-17 19:51:34,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1323.6,Scheduled,0.0,0
+367,26,11,Predictive,2024-12-28 15:23:43,2024-12-28 22:23:35,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2298.35,Completed,6.998,0
+368,30,47,Corrective,2025-05-09 21:16:05,2025-05-10 00:42:36,Corrective repair performed following identified fault or performance degradation.,5649.59,Completed,3.442,1
+369,7,23,Preventive,2023-11-20 12:38:28,2023-11-20 15:22:29,Routine scheduled preventive maintenance performed per manufacturer guidelines.,213.99,InProgress,2.734,0
+370,25,56,Emergency,2024-03-19 06:30:05,,Unplanned emergency repair following unexpected machine failure.,9734.59,Cancelled,0.0,1
+371,7,77,Preventive,2024-03-27 04:40:40,2024-03-27 07:24:45,Routine scheduled preventive maintenance performed per manufacturer guidelines.,508.63,Completed,2.735,0
+372,13,25,Preventive,2023-03-08 10:50:24,2023-03-08 14:51:15,Routine scheduled preventive maintenance performed per manufacturer guidelines.,612.71,Completed,4.014,0
+373,4,18,Preventive,2023-10-31 02:50:19,2023-10-31 07:47:43,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1404.86,Completed,4.957,0
+374,15,76,Emergency,2024-02-23 07:18:31,2024-02-24 02:57:09,Unplanned emergency repair following unexpected machine failure.,5034.48,Completed,19.644,1
+375,6,63,Preventive,2024-08-05 13:21:53,2024-08-05 14:48:50,Routine scheduled preventive maintenance performed per manufacturer guidelines.,909.74,Completed,1.449,0
+376,23,49,Corrective,2025-06-21 17:55:20,2025-06-22 03:31:26,Corrective repair performed following identified fault or performance degradation.,4111.26,Completed,9.602,1
+377,1,78,Corrective,2025-05-06 09:42:50,,Corrective repair performed following identified fault or performance degradation.,1905.9,Scheduled,0.0,1
+378,6,74,Predictive,2025-12-28 01:01:16,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1823.38,Scheduled,0.0,0
+379,22,75,Preventive,2024-02-16 18:42:44,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1013.81,Scheduled,0.0,0
+380,10,24,Preventive,2023-09-16 04:17:59,2023-09-16 06:29:05,Routine scheduled preventive maintenance performed per manufacturer guidelines.,251.72,Completed,2.185,0
+381,35,49,Predictive,2025-01-21 20:49:52,2025-01-21 23:28:23,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2035.04,InProgress,2.642,0
+382,17,13,Corrective,2023-10-17 02:19:27,2023-10-17 08:43:48,Corrective repair performed following identified fault or performance degradation.,2444.94,InProgress,6.406,1
+383,13,52,Corrective,2024-09-14 03:11:14,2024-09-14 11:25:15,Corrective repair performed following identified fault or performance degradation.,5668.08,Completed,8.234,1
+384,28,37,Predictive,2024-09-21 03:47:18,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1891.26,Scheduled,0.0,0
+385,7,50,Corrective,2024-08-13 09:49:46,2024-08-13 19:00:41,Corrective repair performed following identified fault or performance degradation.,1578.16,Completed,9.182,1
+386,3,77,Preventive,2024-02-20 01:48:32,2024-02-20 02:57:16,Routine scheduled preventive maintenance performed per manufacturer guidelines.,797.33,Completed,1.146,0
+387,13,47,Preventive,2025-06-09 14:51:54,2025-06-09 16:14:02,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1483.82,Completed,1.369,0
+388,2,30,Preventive,2024-08-19 15:38:15,2024-08-19 19:21:28,Routine scheduled preventive maintenance performed per manufacturer guidelines.,914.06,Completed,3.72,0
+389,2,38,Preventive,2024-08-17 11:12:41,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1289.89,Scheduled,0.0,0
+390,4,55,Predictive,2024-10-22 01:20:36,2024-10-22 07:09:12,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2215.61,Completed,5.81,0
+391,9,34,Corrective,2024-01-01 05:30:12,2024-01-01 12:13:55,Corrective repair performed following identified fault or performance degradation.,4061.99,Completed,6.729,1
+392,20,12,Predictive,2025-02-02 06:39:15,2025-02-02 14:34:45,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1625.29,Completed,7.925,0
+393,3,69,Corrective,2024-02-09 10:26:52,2024-02-09 14:38:48,Corrective repair performed following identified fault or performance degradation.,3652.65,Completed,4.199,1
+394,6,40,Corrective,2024-07-02 08:25:49,2024-07-02 13:52:44,Corrective repair performed following identified fault or performance degradation.,2002.76,Completed,5.449,1
+395,17,78,Preventive,2025-06-13 03:21:41,2025-06-13 08:53:09,Routine scheduled preventive maintenance performed per manufacturer guidelines.,791.32,Completed,5.524,0
+396,2,36,Corrective,2025-06-23 01:51:25,2025-06-23 11:46:04,Corrective repair performed following identified fault or performance degradation.,2100.89,Completed,9.911,1
+397,23,2,Preventive,2025-12-19 01:32:45,2025-12-19 06:53:42,Routine scheduled preventive maintenance performed per manufacturer guidelines.,358.27,Completed,5.349,0
+398,33,39,Preventive,2023-12-04 11:53:02,2023-12-04 13:28:24,Routine scheduled preventive maintenance performed per manufacturer guidelines.,871.55,Completed,1.589,0
+399,18,4,Preventive,2024-12-18 07:41:12,2024-12-18 13:40:12,Routine scheduled preventive maintenance performed per manufacturer guidelines.,562.88,Completed,5.983,0
+400,22,17,Preventive,2023-07-09 19:56:58,2023-07-09 21:13:46,Routine scheduled preventive maintenance performed per manufacturer guidelines.,849.46,Completed,1.28,0
+401,23,3,Corrective,2024-10-06 22:20:42,2024-10-07 05:31:36,Corrective repair performed following identified fault or performance degradation.,4052.32,Completed,7.182,1
+402,1,60,Predictive,2023-01-19 00:49:28,2023-01-19 07:08:24,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3848.35,Completed,6.316,0
+403,22,42,Corrective,2023-07-13 06:20:33,2023-07-13 18:08:38,Corrective repair performed following identified fault or performance degradation.,5014.13,Completed,11.801,1
+404,22,55,Corrective,2024-07-27 17:33:09,2024-07-27 23:21:16,Corrective repair performed following identified fault or performance degradation.,4614.03,Completed,5.802,1
+405,11,9,Corrective,2023-09-03 16:24:43,2023-09-03 21:34:42,Corrective repair performed following identified fault or performance degradation.,1122.94,Completed,5.166,1
+406,12,75,Preventive,2024-05-22 11:57:02,2024-05-22 15:51:07,Routine scheduled preventive maintenance performed per manufacturer guidelines.,224.28,Completed,3.901,0
+407,16,13,Preventive,2024-04-17 09:29:03,2024-04-17 14:35:10,Routine scheduled preventive maintenance performed per manufacturer guidelines.,708.22,Completed,5.102,0
+408,28,75,Preventive,2025-05-05 05:38:47,2025-05-05 11:05:50,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1212.51,Completed,5.451,0
+409,24,6,Preventive,2025-06-16 12:10:40,2025-06-16 17:30:33,Routine scheduled preventive maintenance performed per manufacturer guidelines.,470.57,Completed,5.331,0
+410,1,33,Preventive,2023-03-15 11:06:46,2023-03-15 15:37:16,Routine scheduled preventive maintenance performed per manufacturer guidelines.,702.21,Completed,4.508,0
+411,29,62,Corrective,2025-05-20 20:03:32,,Corrective repair performed following identified fault or performance degradation.,2956.42,Scheduled,0.0,1
+412,18,59,Preventive,2025-06-19 14:26:41,2025-06-19 15:40:06,Routine scheduled preventive maintenance performed per manufacturer guidelines.,273.82,Completed,1.224,0
+413,25,36,Preventive,2024-08-23 07:38:52,2024-08-23 11:15:26,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1269.96,Completed,3.609,0
+414,31,41,Preventive,2025-12-19 17:02:55,2025-12-19 22:48:39,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1356.77,Completed,5.762,0
+415,26,67,Preventive,2023-12-22 06:23:50,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,482.26,Cancelled,0.0,0
+416,12,64,Preventive,2023-06-09 02:39:46,2023-06-09 08:07:09,Routine scheduled preventive maintenance performed per manufacturer guidelines.,395.68,InProgress,5.456,0
+417,4,57,Preventive,2024-10-08 01:03:36,2024-10-08 03:15:03,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1265.56,Completed,2.191,0
+418,29,68,Preventive,2025-05-14 02:11:04,2025-05-14 04:36:36,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1134.44,Completed,2.426,0
+419,6,21,Corrective,2024-03-11 18:49:35,2024-03-12 04:18:01,Corrective repair performed following identified fault or performance degradation.,2615.25,Completed,9.474,1
+420,13,29,Corrective,2025-09-10 08:36:08,,Corrective repair performed following identified fault or performance degradation.,1849.7,Scheduled,0.0,1
+421,14,61,Corrective,2023-12-11 12:19:11,2023-12-11 20:08:12,Corrective repair performed following identified fault or performance degradation.,4244.93,Completed,7.817,1
+422,27,77,Predictive,2024-10-07 05:13:44,2024-10-07 07:03:05,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3750.47,Completed,1.822,0
+423,29,48,Predictive,2025-11-28 02:14:21,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2986.35,Scheduled,0.0,0
+424,12,77,Predictive,2025-07-28 18:57:35,2025-07-28 21:42:16,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3692.27,Completed,2.745,0
+425,28,22,Preventive,2023-04-25 23:08:42,2023-04-26 00:39:41,Routine scheduled preventive maintenance performed per manufacturer guidelines.,245.53,Completed,1.516,0
+426,10,18,Preventive,2025-02-22 16:36:52,2025-02-22 21:18:58,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1386.77,Completed,4.702,0
+427,6,65,Corrective,2023-03-03 09:11:06,,Corrective repair performed following identified fault or performance degradation.,2276.05,Scheduled,0.0,1
+428,6,73,Preventive,2025-12-30 13:15:39,2025-12-30 14:33:48,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1364.78,Completed,1.302,0
+429,17,26,Corrective,2025-10-28 23:20:51,2025-10-29 08:54:29,Corrective repair performed following identified fault or performance degradation.,1686.48,Completed,9.561,1
+430,1,39,Preventive,2024-10-30 23:32:07,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1217.79,Scheduled,0.0,0
+431,3,13,Preventive,2023-04-27 20:37:07,2023-04-27 23:31:25,Routine scheduled preventive maintenance performed per manufacturer guidelines.,297.79,Completed,2.905,0
+432,29,67,Corrective,2024-11-21 23:33:04,2024-11-22 06:19:26,Corrective repair performed following identified fault or performance degradation.,2389.43,Completed,6.773,1
+433,9,3,Preventive,2023-05-21 02:37:57,2023-05-21 08:04:16,Routine scheduled preventive maintenance performed per manufacturer guidelines.,743.69,InProgress,5.439,0
+434,28,11,Preventive,2023-04-04 17:30:13,2023-04-04 18:56:13,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1191.61,Completed,1.433,0
+435,18,31,Preventive,2025-02-14 00:03:39,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1067.04,Scheduled,0.0,0
+436,2,29,Corrective,2025-10-22 11:55:08,2025-10-22 21:03:50,Corrective repair performed following identified fault or performance degradation.,4369.28,Completed,9.145,1
+437,7,43,Preventive,2023-06-26 22:57:28,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1346.62,Scheduled,0.0,0
+438,19,20,Corrective,2023-02-15 06:52:47,2023-02-15 18:17:27,Corrective repair performed following identified fault or performance degradation.,1100.36,InProgress,11.411,1
+439,21,16,Preventive,2024-01-13 16:14:12,2024-01-13 17:52:46,Routine scheduled preventive maintenance performed per manufacturer guidelines.,480.53,Completed,1.643,0
+440,30,23,Preventive,2023-07-06 23:52:16,2023-07-07 03:27:23,Routine scheduled preventive maintenance performed per manufacturer guidelines.,811.88,Completed,3.585,0
+441,29,45,Preventive,2025-10-31 10:26:44,2025-10-31 14:22:34,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1076.54,Completed,3.931,0
+442,8,64,Corrective,2025-09-27 05:36:20,2025-09-27 09:45:25,Corrective repair performed following identified fault or performance degradation.,1760.66,Completed,4.151,1
+443,14,7,Preventive,2024-07-07 14:19:49,2024-07-07 15:21:54,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1360.03,InProgress,1.035,0
+444,11,52,Preventive,2024-04-15 23:04:09,2024-04-16 03:06:59,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1170.33,Completed,4.047,0
+445,31,42,Emergency,2025-08-25 07:54:14,2025-08-25 20:03:17,Unplanned emergency repair following unexpected machine failure.,8417.1,InProgress,12.151,1
+446,12,71,Emergency,2024-12-23 08:54:15,2024-12-23 17:35:01,Unplanned emergency repair following unexpected machine failure.,8966.28,InProgress,8.679,1
+447,29,37,Predictive,2025-07-02 21:07:35,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2035.43,Scheduled,0.0,0
+448,24,38,Preventive,2023-03-04 07:56:24,2023-03-04 10:21:26,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1054.37,Completed,2.417,0
+449,4,25,Preventive,2023-09-07 21:15:25,2023-09-08 00:14:45,Routine scheduled preventive maintenance performed per manufacturer guidelines.,342.75,Completed,2.989,0
+450,20,77,Preventive,2024-05-13 06:49:08,2024-05-13 10:29:25,Routine scheduled preventive maintenance performed per manufacturer guidelines.,830.05,Completed,3.671,0
+451,20,9,Corrective,2025-11-11 21:44:05,2025-11-12 07:52:39,Corrective repair performed following identified fault or performance degradation.,4162.09,Completed,10.143,1
+452,28,72,Preventive,2024-10-22 04:11:28,2024-10-22 10:00:35,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1204.69,Completed,5.819,0
+453,12,8,Preventive,2024-12-24 03:16:25,2024-12-24 08:54:39,Routine scheduled preventive maintenance performed per manufacturer guidelines.,838.1,Completed,5.637,0
+454,1,52,Preventive,2025-09-23 07:33:55,2025-09-23 11:37:14,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1207.94,Completed,4.055,0
+455,20,36,Preventive,2023-09-17 01:01:39,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,423.15,Cancelled,0.0,0
+456,34,45,Corrective,2025-04-15 19:30:08,2025-04-15 22:01:04,Corrective repair performed following identified fault or performance degradation.,3499.43,Completed,2.516,1
+457,8,52,Preventive,2025-08-07 19:57:58,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1016.66,Scheduled,0.0,0
+458,35,6,Corrective,2025-08-15 15:13:22,2025-08-15 23:10:15,Corrective repair performed following identified fault or performance degradation.,5972.13,InProgress,7.948,1
+459,22,61,Predictive,2025-11-23 23:23:31,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3269.87,Scheduled,0.0,0
+460,33,23,Corrective,2025-05-15 21:42:49,2025-05-16 01:02:07,Corrective repair performed following identified fault or performance degradation.,3936.39,InProgress,3.322,1
+461,33,39,Corrective,2024-07-22 03:52:27,2024-07-22 15:00:37,Corrective repair performed following identified fault or performance degradation.,2766.53,Completed,11.136,1
+462,35,46,Preventive,2025-03-04 13:12:39,2025-03-04 14:45:04,Routine scheduled preventive maintenance performed per manufacturer guidelines.,363.98,Completed,1.54,0
+463,23,44,Corrective,2024-08-04 12:39:56,2024-08-04 19:58:26,Corrective repair performed following identified fault or performance degradation.,4411.82,Completed,7.308,1
+464,12,3,Preventive,2025-03-09 01:56:12,2025-03-09 03:54:24,Routine scheduled preventive maintenance performed per manufacturer guidelines.,597.34,Completed,1.97,0
+465,17,16,Predictive,2025-12-17 21:37:33,2025-12-18 03:08:37,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1319.76,Completed,5.518,0
+466,21,57,Preventive,2024-08-11 12:36:49,2024-08-11 17:05:55,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1272.81,Completed,4.485,0
+467,34,42,Corrective,2024-04-28 18:20:50,,Corrective repair performed following identified fault or performance degradation.,3854.99,Cancelled,0.0,1
+468,33,21,Preventive,2024-09-13 02:48:54,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1267.71,Scheduled,0.0,0
+469,27,79,Preventive,2025-07-22 21:35:13,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1446.04,Scheduled,0.0,0
+470,9,12,Preventive,2025-06-13 18:18:19,2025-06-13 22:38:47,Routine scheduled preventive maintenance performed per manufacturer guidelines.,542.19,Completed,4.341,0
+471,22,4,Emergency,2025-02-23 18:25:05,2025-02-24 12:06:29,Unplanned emergency repair following unexpected machine failure.,11240.01,Completed,17.69,1
+472,13,3,Preventive,2025-10-29 10:05:06,2025-10-29 16:01:38,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1309.96,Completed,5.942,0
+473,4,62,Corrective,2023-10-21 16:19:57,2023-10-22 01:55:11,Corrective repair performed following identified fault or performance degradation.,4820.88,Completed,9.587,1
+474,32,3,Preventive,2024-01-23 01:09:40,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,700.59,Scheduled,0.0,0
+475,16,57,Emergency,2025-11-18 16:35:24,2025-11-19 07:22:27,Unplanned emergency repair following unexpected machine failure.,8243.63,Completed,14.784,1
+476,27,44,Preventive,2025-10-10 22:28:40,2025-10-11 01:00:15,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1046.71,Completed,2.526,0
+477,35,54,Preventive,2023-12-02 15:42:35,2023-12-02 19:25:37,Routine scheduled preventive maintenance performed per manufacturer guidelines.,838.19,Completed,3.717,0
+478,19,2,Preventive,2024-05-07 12:04:49,2024-05-07 16:47:06,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1239.92,Completed,4.705,0
+479,21,27,Corrective,2024-08-09 11:19:17,,Corrective repair performed following identified fault or performance degradation.,4771.31,Cancelled,0.0,1
+480,30,15,Corrective,2023-12-07 09:27:52,2023-12-07 12:38:20,Corrective repair performed following identified fault or performance degradation.,2044.53,Completed,3.174,1
+481,12,1,Predictive,2023-02-05 15:03:12,2023-02-05 21:55:14,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3451.18,InProgress,6.867,0
+482,8,70,Preventive,2023-11-01 09:53:21,2023-11-01 13:32:24,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1159.67,Completed,3.651,0
+483,32,75,Corrective,2023-12-19 08:46:55,2023-12-19 17:04:49,Corrective repair performed following identified fault or performance degradation.,5829.5,Completed,8.298,1
+484,11,70,Preventive,2023-06-13 07:38:10,2023-06-13 09:18:57,Routine scheduled preventive maintenance performed per manufacturer guidelines.,321.62,Completed,1.68,0
+485,17,55,Preventive,2023-10-10 15:51:00,2023-10-10 21:49:31,Routine scheduled preventive maintenance performed per manufacturer guidelines.,812.12,Completed,5.975,0
+486,18,49,Corrective,2024-02-14 10:49:02,2024-02-14 15:43:17,Corrective repair performed following identified fault or performance degradation.,1293.04,Completed,4.904,1
+487,27,42,Predictive,2024-06-01 20:46:11,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1676.2,Scheduled,0.0,0
+488,24,78,Corrective,2023-11-03 16:41:09,2023-11-04 02:38:18,Corrective repair performed following identified fault or performance degradation.,1584.25,Completed,9.952,1
+489,12,58,Corrective,2025-06-15 02:03:50,2025-06-15 11:38:14,Corrective repair performed following identified fault or performance degradation.,1859.16,Completed,9.573,1
+490,23,72,Preventive,2025-03-31 10:33:28,2025-03-31 13:26:39,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1068.43,Completed,2.886,0
+491,18,4,Corrective,2025-12-27 13:43:27,2025-12-28 00:06:52,Corrective repair performed following identified fault or performance degradation.,1788.01,Completed,10.39,1
+492,33,24,Predictive,2024-07-19 03:06:53,2024-07-19 10:29:19,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1384.9,Completed,7.374,0
+493,8,69,Corrective,2024-04-20 08:15:45,,Corrective repair performed following identified fault or performance degradation.,3407.32,Scheduled,0.0,1
+494,14,24,Corrective,2023-04-17 04:30:19,2023-04-17 06:55:59,Corrective repair performed following identified fault or performance degradation.,1174.28,Completed,2.428,1
+495,31,61,Preventive,2023-07-07 09:56:27,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,923.04,Scheduled,0.0,0
+496,22,29,Corrective,2024-01-12 04:10:00,2024-01-12 13:46:21,Corrective repair performed following identified fault or performance degradation.,3226.88,Completed,9.606,1
+497,19,57,Corrective,2024-08-30 06:51:12,2024-08-30 18:04:24,Corrective repair performed following identified fault or performance degradation.,5860.13,Completed,11.22,1
+498,28,39,Corrective,2025-07-28 21:10:51,2025-07-29 03:24:21,Corrective repair performed following identified fault or performance degradation.,3833.62,Completed,6.225,1
+499,6,7,Corrective,2025-12-19 07:09:58,,Corrective repair performed following identified fault or performance degradation.,1678.29,Scheduled,0.0,1
+500,28,36,Corrective,2025-10-25 04:01:47,2025-10-25 09:10:57,Corrective repair performed following identified fault or performance degradation.,3416.28,Completed,5.153,1
+501,1,76,Preventive,2024-06-19 11:27:11,2024-06-19 13:49:01,Routine scheduled preventive maintenance performed per manufacturer guidelines.,792.99,Completed,2.364,0
+502,16,31,Preventive,2024-03-05 04:21:01,2024-03-05 09:35:11,Routine scheduled preventive maintenance performed per manufacturer guidelines.,319.09,Completed,5.236,0
+503,20,19,Predictive,2023-02-15 02:11:05,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1613.69,Scheduled,0.0,0
+504,27,70,Corrective,2023-11-02 11:26:23,2023-11-02 16:48:46,Corrective repair performed following identified fault or performance degradation.,3106.39,Completed,5.373,1
+505,29,77,Predictive,2025-06-22 21:31:48,2025-06-23 01:01:22,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1361.89,Completed,3.493,0
+506,25,68,Predictive,2025-02-02 16:22:59,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,528.32,Cancelled,0.0,0
+507,27,4,Emergency,2023-03-20 06:49:05,2023-03-20 15:13:19,Unplanned emergency repair following unexpected machine failure.,7112.45,Completed,8.404,1
+508,27,21,Corrective,2025-10-31 23:16:04,2025-11-01 01:51:51,Corrective repair performed following identified fault or performance degradation.,2410.58,InProgress,2.596,1
+509,8,15,Corrective,2024-09-01 19:54:38,2024-09-02 07:15:51,Corrective repair performed following identified fault or performance degradation.,5152.5,Completed,11.354,1
+510,26,56,Corrective,2024-04-09 18:46:29,,Corrective repair performed following identified fault or performance degradation.,3470.14,Scheduled,0.0,1
+511,20,31,Corrective,2025-06-23 04:23:02,,Corrective repair performed following identified fault or performance degradation.,1912.87,Scheduled,0.0,1
+512,14,58,Preventive,2023-06-15 17:10:42,2023-06-15 20:14:12,Routine scheduled preventive maintenance performed per manufacturer guidelines.,888.25,Completed,3.058,0
+513,11,66,Predictive,2025-10-19 02:44:16,2025-10-19 07:36:48,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1360.38,Completed,4.876,0
+514,16,68,Predictive,2023-10-04 10:56:45,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3881.23,Scheduled,0.0,0
+515,1,70,Preventive,2025-10-20 01:21:04,2025-10-20 06:02:57,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1183.49,InProgress,4.698,0
+516,25,34,Preventive,2025-10-20 17:46:02,2025-10-20 19:34:57,Routine scheduled preventive maintenance performed per manufacturer guidelines.,931.19,Completed,1.815,0
+517,16,6,Preventive,2023-11-14 22:50:48,2023-11-15 03:21:57,Routine scheduled preventive maintenance performed per manufacturer guidelines.,995.58,Completed,4.519,0
+518,21,16,Corrective,2025-03-29 04:43:42,2025-03-29 15:31:01,Corrective repair performed following identified fault or performance degradation.,4674.76,InProgress,10.789,1
+519,4,31,Preventive,2025-09-06 04:42:47,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,216.19,Scheduled,0.0,0
+520,35,50,Corrective,2025-09-12 14:48:10,2025-09-12 22:54:34,Corrective repair performed following identified fault or performance degradation.,4786.98,Completed,8.107,1
+521,5,30,Preventive,2024-10-28 05:38:55,2024-10-28 11:05:25,Routine scheduled preventive maintenance performed per manufacturer guidelines.,306.68,Completed,5.442,0
+522,13,17,Predictive,2025-03-30 20:20:10,,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2759.55,Scheduled,0.0,0
+523,11,79,Preventive,2023-03-08 05:46:35,2023-03-08 11:45:31,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1180.48,Completed,5.982,0
+524,6,31,Corrective,2023-02-18 14:07:41,2023-02-18 21:24:15,Corrective repair performed following identified fault or performance degradation.,2587.71,Completed,7.276,1
+525,6,42,Preventive,2025-11-30 23:28:59,2025-12-01 00:56:42,Routine scheduled preventive maintenance performed per manufacturer guidelines.,794.99,Completed,1.462,0
+526,16,65,Preventive,2024-03-18 11:04:33,2024-03-18 15:42:26,Routine scheduled preventive maintenance performed per manufacturer guidelines.,774.51,Completed,4.631,0
+527,18,72,Preventive,2024-07-10 06:26:38,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1414.83,Cancelled,0.0,0
+528,29,51,Corrective,2025-08-26 15:03:18,,Corrective repair performed following identified fault or performance degradation.,4446.25,Scheduled,0.0,1
+529,3,34,Preventive,2024-04-22 08:05:39,2024-04-22 13:22:51,Routine scheduled preventive maintenance performed per manufacturer guidelines.,685.61,Completed,5.287,0
+530,12,27,Preventive,2023-01-28 14:49:56,2023-01-28 20:26:52,Routine scheduled preventive maintenance performed per manufacturer guidelines.,504.21,Completed,5.616,0
+531,35,16,Preventive,2024-10-13 23:30:21,2024-10-14 04:34:23,Routine scheduled preventive maintenance performed per manufacturer guidelines.,215.64,Completed,5.067,0
+532,6,74,Corrective,2024-09-30 14:52:16,2024-10-01 01:24:36,Corrective repair performed following identified fault or performance degradation.,2563.36,Completed,10.539,1
+533,8,30,Preventive,2025-10-03 00:25:54,2025-10-03 04:12:27,Routine scheduled preventive maintenance performed per manufacturer guidelines.,970.67,Completed,3.776,0
+534,8,68,Preventive,2023-12-24 20:01:36,2023-12-25 01:47:52,Routine scheduled preventive maintenance performed per manufacturer guidelines.,950.42,InProgress,5.771,0
+535,18,21,Preventive,2024-11-18 10:01:11,2024-11-18 12:19:07,Routine scheduled preventive maintenance performed per manufacturer guidelines.,416.7,Completed,2.299,0
+536,16,21,Corrective,2025-03-24 06:43:59,2025-03-24 08:55:02,Corrective repair performed following identified fault or performance degradation.,5732.58,Completed,2.184,1
+537,4,30,Emergency,2023-03-28 10:28:28,2023-03-29 10:05:39,Unplanned emergency repair following unexpected machine failure.,13402.21,Completed,23.62,1
+538,23,79,Predictive,2023-11-14 23:59:25,2023-11-15 01:45:15,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3977.79,InProgress,1.764,0
+539,29,41,Preventive,2025-12-06 05:50:14,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1157.92,Scheduled,0.0,0
+540,7,46,Preventive,2024-06-22 06:17:02,2024-06-22 07:50:38,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1401.52,Completed,1.56,0
+541,26,47,Preventive,2023-06-13 17:02:50,2023-06-13 21:27:35,Routine scheduled preventive maintenance performed per manufacturer guidelines.,905.31,Completed,4.412,0
+542,18,6,Preventive,2023-01-22 01:13:48,2023-01-22 04:20:00,Routine scheduled preventive maintenance performed per manufacturer guidelines.,989.24,Completed,3.103,0
+543,8,34,Corrective,2023-11-07 17:50:21,2023-11-07 23:11:07,Corrective repair performed following identified fault or performance degradation.,3797.96,InProgress,5.346,1
+544,35,35,Predictive,2025-01-01 05:50:14,2025-01-01 07:13:31,Maintenance triggered by predictive analytics / sensor anomaly threshold.,958.29,Completed,1.388,0
+545,28,79,Corrective,2024-07-13 10:56:55,2024-07-13 21:15:49,Corrective repair performed following identified fault or performance degradation.,972.81,Completed,10.315,1
+546,4,10,Predictive,2024-03-19 02:59:56,2024-03-19 09:36:44,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1012.8,InProgress,6.613,0
+547,19,4,Preventive,2024-02-01 10:09:10,2024-02-01 12:50:46,Routine scheduled preventive maintenance performed per manufacturer guidelines.,219.89,Completed,2.693,0
+548,5,69,Predictive,2024-07-11 10:07:42,2024-07-11 13:07:15,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3053.86,Completed,2.992,0
+549,33,3,Preventive,2023-06-24 21:37:25,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,632.7,Scheduled,0.0,0
+550,32,31,Preventive,2025-12-08 15:04:17,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,638.99,Cancelled,0.0,0
+551,27,26,Corrective,2023-05-15 07:13:11,2023-05-15 13:19:25,Corrective repair performed following identified fault or performance degradation.,2864.85,Completed,6.104,1
+552,15,34,Preventive,2025-02-01 00:14:02,2025-02-01 01:32:11,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1316.4,Completed,1.302,0
+553,21,27,Predictive,2025-09-12 00:34:16,2025-09-12 05:25:08,Maintenance triggered by predictive analytics / sensor anomaly threshold.,3041.36,InProgress,4.848,0
+554,7,56,Corrective,2023-12-04 03:19:58,,Corrective repair performed following identified fault or performance degradation.,4700.6,Scheduled,0.0,1
+555,17,51,Corrective,2023-12-31 01:15:23,,Corrective repair performed following identified fault or performance degradation.,1451.16,Scheduled,0.0,1
+556,12,19,Preventive,2024-02-14 16:50:48,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,791.56,Scheduled,0.0,0
+557,30,37,Preventive,2025-12-24 11:57:28,2025-12-24 13:41:19,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1038.81,Completed,1.731,0
+558,1,8,Preventive,2025-07-04 09:59:41,2025-07-04 15:28:43,Routine scheduled preventive maintenance performed per manufacturer guidelines.,317.19,Completed,5.484,0
+559,33,15,Preventive,2023-04-29 14:26:58,2023-04-29 17:42:32,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1077.51,InProgress,3.259,0
+560,24,15,Preventive,2023-06-12 20:11:57,2023-06-12 21:45:21,Routine scheduled preventive maintenance performed per manufacturer guidelines.,975.03,Completed,1.557,0
+561,28,34,Preventive,2024-01-15 03:03:01,2024-01-15 07:16:39,Routine scheduled preventive maintenance performed per manufacturer guidelines.,645.31,Completed,4.227,0
+562,25,61,Preventive,2025-03-13 11:14:15,2025-03-13 12:34:33,Routine scheduled preventive maintenance performed per manufacturer guidelines.,447.89,Completed,1.338,0
+563,33,16,Corrective,2025-11-11 02:37:22,2025-11-11 11:58:02,Corrective repair performed following identified fault or performance degradation.,2103.63,Completed,9.344,1
+564,12,51,Corrective,2025-12-14 08:18:46,2025-12-14 12:13:32,Corrective repair performed following identified fault or performance degradation.,5811.67,Completed,3.913,1
+565,30,55,Preventive,2023-07-18 18:00:53,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1103.44,Scheduled,0.0,0
+566,29,53,Corrective,2024-07-17 22:28:14,2024-07-18 02:13:58,Corrective repair performed following identified fault or performance degradation.,5625.8,InProgress,3.762,1
+567,35,68,Preventive,2023-07-26 08:26:18,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,427.84,Scheduled,0.0,0
+568,33,6,Preventive,2023-12-07 14:27:34,2023-12-07 16:58:32,Routine scheduled preventive maintenance performed per manufacturer guidelines.,520.37,InProgress,2.516,0
+569,31,61,Corrective,2024-12-02 18:40:10,2024-12-02 23:28:29,Corrective repair performed following identified fault or performance degradation.,2245.32,Completed,4.805,1
+570,30,4,Emergency,2023-10-12 14:28:02,2023-10-13 00:45:24,Unplanned emergency repair following unexpected machine failure.,11274.86,Completed,10.289,1
+571,31,41,Corrective,2023-07-14 10:57:01,2023-07-14 16:48:42,Corrective repair performed following identified fault or performance degradation.,3121.11,Completed,5.861,1
+572,33,69,Corrective,2025-11-12 16:19:37,2025-11-12 21:46:59,Corrective repair performed following identified fault or performance degradation.,4492.48,Completed,5.456,1
+573,26,70,Preventive,2025-02-28 10:10:57,2025-02-28 15:38:15,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1465.47,Completed,5.455,0
+574,11,3,Preventive,2023-06-09 08:14:49,2023-06-09 10:34:38,Routine scheduled preventive maintenance performed per manufacturer guidelines.,371.74,Completed,2.33,0
+575,9,5,Preventive,2023-04-02 14:57:01,2023-04-02 17:06:06,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1171.52,Completed,2.151,0
+576,4,67,Emergency,2024-01-05 11:36:49,2024-01-05 18:22:55,Unplanned emergency repair following unexpected machine failure.,4484.0,Completed,6.768,1
+577,16,48,Corrective,2025-02-24 17:25:43,2025-02-24 23:29:16,Corrective repair performed following identified fault or performance degradation.,809.95,Completed,6.059,1
+578,3,74,Preventive,2023-06-17 11:08:27,2023-06-17 13:24:19,Routine scheduled preventive maintenance performed per manufacturer guidelines.,906.24,Completed,2.264,0
+579,20,63,Corrective,2023-01-14 13:18:02,,Corrective repair performed following identified fault or performance degradation.,5230.95,Scheduled,0.0,1
+580,25,3,Preventive,2025-02-24 12:47:49,2025-02-24 18:21:23,Routine scheduled preventive maintenance performed per manufacturer guidelines.,990.64,Completed,5.559,0
+581,12,77,Preventive,2024-01-20 08:02:22,,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1430.83,Scheduled,0.0,0
+582,28,20,Preventive,2023-11-06 09:25:14,2023-11-06 13:27:09,Routine scheduled preventive maintenance performed per manufacturer guidelines.,572.17,Completed,4.032,0
+583,26,76,Preventive,2024-07-09 07:50:57,2024-07-09 11:53:16,Routine scheduled preventive maintenance performed per manufacturer guidelines.,738.08,Completed,4.039,0
+584,18,57,Emergency,2025-07-22 10:31:15,2025-07-22 21:50:53,Unplanned emergency repair following unexpected machine failure.,5097.27,Completed,11.327,1
+585,17,33,Preventive,2025-06-21 04:25:54,2025-06-21 07:54:36,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1322.05,Completed,3.478,0
+586,24,28,Emergency,2024-07-01 16:42:20,2024-07-02 04:48:51,Unplanned emergency repair following unexpected machine failure.,6292.57,Completed,12.109,1
+587,30,58,Predictive,2023-10-31 15:59:56,2023-10-31 22:22:40,Maintenance triggered by predictive analytics / sensor anomaly threshold.,2108.11,Completed,6.379,0
+588,10,59,Preventive,2024-08-03 03:51:00,2024-08-03 07:29:20,Routine scheduled preventive maintenance performed per manufacturer guidelines.,970.47,Completed,3.639,0
+589,34,49,Predictive,2024-04-30 09:44:56,2024-04-30 16:07:48,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1289.22,Completed,6.381,0
+590,13,34,Predictive,2025-08-05 09:59:38,2025-08-05 14:58:48,Maintenance triggered by predictive analytics / sensor anomaly threshold.,1651.62,Completed,4.986,0
+591,10,39,Predictive,2025-07-14 03:34:13,2025-07-14 10:18:40,Maintenance triggered by predictive analytics / sensor anomaly threshold.,988.34,Completed,6.741,0
+592,16,74,Corrective,2025-02-19 06:53:12,2025-02-19 17:22:28,Corrective repair performed following identified fault or performance degradation.,1760.82,Completed,10.488,1
+593,28,29,Emergency,2023-07-31 16:04:34,2023-08-01 15:38:22,Unplanned emergency repair following unexpected machine failure.,3019.99,InProgress,23.563,1
+594,19,33,Preventive,2023-08-21 17:48:29,2023-08-21 20:15:27,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1003.67,Completed,2.449,0
+595,23,76,Preventive,2024-01-14 12:05:13,2024-01-14 17:05:08,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1438.87,Completed,4.999,0
+596,20,29,Preventive,2024-04-01 10:09:37,2024-04-01 12:23:02,Routine scheduled preventive maintenance performed per manufacturer guidelines.,1183.25,Completed,2.224,0
+597,32,54,Preventive,2025-03-18 00:46:36,2025-03-18 06:19:14,Routine scheduled preventive maintenance performed per manufacturer guidelines.,974.75,InProgress,5.544,0
+598,7,56,Corrective,2023-10-01 01:34:36,,Corrective repair performed following identified fault or performance degradation.,3802.81,Scheduled,0.0,1
+599,27,59,Corrective,2024-01-15 21:10:59,2024-01-16 07:22:57,Corrective repair performed following identified fault or performance degradation.,5883.37,Completed,10.199,1
+600,3,67,Emergency,2024-06-22 19:29:05,,Unplanned emergency repair following unexpected machine failure.,13544.14,Scheduled,0.0,1

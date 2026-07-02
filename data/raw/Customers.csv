@@ -1,0 +1,41 @@
+CustomerID,CustomerCode,CustomerName,ContactPerson,Email,Phone,Country,Address,IsActive,CreatedAt
+1,CUST-0001,"Rodriguez, Figueroa and Sanchez Aviation",Brian Yang,garzaanthony@robinson.org,2834863794,USA,"2351 Noah Knolls Suite 940, Herrerafurt, CO 72858",1,2024-12-01 04:08:10
+2,CUST-0002,Calderon-Montgomery Aviation,Laura Bush,stanleykendra@wyatt.biz,575-425-5341x928,France,"835 Jeremy Bypass Suite 641, New Nancy, MD 28370",1,2023-09-26 03:45:28
+3,CUST-0003,"Porter, Wilkerson and Day Aviation",Charles Mcgee,julie69@cox-osborn.com,671.201.2269x16697,Brazil,"845 Kelly Estate, Smithview, NY 23917",1,2025-01-10 23:39:45
+4,CUST-0004,"Gaines, Harrell and Evans Aviation",Lisa Hernandez,amberosborne@sellers.com,(443)903-9117x182,USA,"USNS Baker, FPO AP 55962",1,2024-04-07 00:06:19
+5,CUST-0005,Hickman Ltd Aviation,Michelle Ross,samuel87@wright.com,5983393010,South Korea,"PSC 5183, Box 4738, APO AE 95312",1,2023-09-12 18:19:41
+6,CUST-0006,"Johnston, Sanchez and Kennedy Aviation",Brandon Hopkins,rodney70@valdez.com,633-938-7262,Brazil,"8108 Tanya Terrace, East Richard, NJ 28517",1,2023-08-06 17:27:12
+7,CUST-0007,Barrera-Martin Aviation,James House,smitchell@cowan.com,243.909.8050,Japan,"81219 Emma Freeway, Wilsonshire, IA 76381",1,2024-05-06 21:12:49
+8,CUST-0008,"Williams, Miller and Sandoval Aviation",Emily Green,john62@brewer.com,6794911838,France,"USS Suarez, FPO AA 37854",1,2023-01-08 02:47:14
+9,CUST-0009,Kim PLC Aviation,Lisa Archer,contrerasangela@garcia.com,001-282-344-9353x4874,France,"05242 Arnold Meadow Apt. 112, Port Mikeside, FL 56834",1,2024-01-08 13:47:00
+10,CUST-0010,Williams LLC Aviation,Rebecca Valencia,jason31@deleon-henson.biz,+1-423-322-6025x634,Germany,"3375 Hoover Well, East Andrew, ID 52728",1,2025-04-16 00:37:32
+11,CUST-0011,Ramirez-Jones Aviation,Heather Hicks,sheila14@carpenter.com,896-555-6981,India,"88356 Stacy Isle Suite 148, Elizabethmouth, MO 91885",1,2023-04-16 21:42:22
+12,CUST-0012,Spencer-Lee Aviation,Jamie Adkins,christinaturner@bass.org,+1-757-377-3872x148,Italy,"433 Andrew Gardens, Carrland, NH 54822",1,2025-06-02 19:19:51
+13,CUST-0013,"Johnston, Higgins and Cruz Aviation",Charles Watts,osbornejeffery@holmes.com,927.488.9579x868,Canada,"4348 Sims Harbor Suite 143, Matthewside, CO 18637",1,2025-12-01 13:28:56
+14,CUST-0014,Hall Ltd Aviation,Daniel Perry,amy60@wall.org,001-509-967-0546x688,South Korea,"0656 Mary Crossroad Apt. 699, North Dawnberg, VI 61016",1,2023-11-18 00:43:30
+15,CUST-0015,Williams Group Aviation,Jesse Rogers,aramirez@conley-ruiz.net,4535100330,UK,"374 Jackson Rest, Port Loriport, CT 76350",1,2024-01-31 23:46:06
+16,CUST-0016,Hickman PLC Aviation,Tina Sanders,charlesvaughn@sanchez.org,790-258-6518,UK,"65726 Jessica Run Suite 987, Grahamshire, KY 42746",1,2023-02-20 04:15:53
+17,CUST-0017,Rivas Inc Aviation,Jerry Christensen,frogers@white-lewis.com,949-948-0831x36783,UK,"43634 Kennedy Pines, Ronaldside, MA 46613",1,2025-12-14 19:37:17
+18,CUST-0018,"Chavez, Parker and Hall Aviation",Emily Newton,jamesrodgers@hardy-bray.net,+1-641-234-3524x082,Italy,"Unit 8427 Box 1094, DPO AA 63247",1,2024-02-21 05:43:01
+19,CUST-0019,Peterson-Sheppard Aviation,Scott Wilson,moralescharles@parks.com,831-986-9993,India,"PSC 4964, Box 9909, APO AP 13507",1,2024-02-04 11:47:22
+20,CUST-0020,Garrett LLC Aviation,Brooke Thompson,moorericky@wheeler.com,001-671-434-9361x832,Germany,"9947 Taylor Hollow, Benderhaven, ND 65223",1,2025-01-03 20:12:12
+21,CUST-0021,Miller-Williams Aviation,Frank Wright,perezemily@matthews.com,001-802-978-7429,UK,"Unit 7565 Box 5125, DPO AA 91422",1,2023-07-07 09:31:25
+22,CUST-0022,Roberts-Landry Aviation,Krista Gibson,johnny16@bryan.info,(903)985-9770x34824,Brazil,"248 Andrea Course, Port Robin, NH 15897",1,2024-02-20 12:05:20
+23,CUST-0023,"Collier, Jimenez and Moran Aviation",Denise Davenport,jsanchez@reyes.net,001-921-446-5840x4499,USA,"5886 Cantu Ways Apt. 396, Port Kimberly, AZ 42205",1,2023-12-22 02:09:00
+24,CUST-0024,"Kennedy, Mcintyre and James Aviation",Rebecca Pearson MD,martineztammy@kane-sawyer.info,687-702-6217,India,"158 Finley Road Suite 809, East Crystalport, IN 98381",1,2023-02-05 03:35:39
+25,CUST-0025,Hamilton Inc Aviation,Michele Garcia,heatherberger@nguyen.com,(856)523-8692x221,South Korea,"74740 Santana Springs, North Scott, MI 77515",1,2023-03-14 11:26:11
+26,CUST-0026,Fowler-Coleman Aviation,Ryan Gonzalez,gcastaneda@james.org,740-564-0909x7439,Italy,"210 Kramer Bypass Suite 214, Julieburgh, ID 17823",1,2023-12-11 13:44:04
+27,CUST-0027,"Walter, Diaz and Shaw Aviation",Christopher Sloan,scoffey@harrell.com,(336)985-1604,Italy,"651 Thomas River Suite 931, Blankenshipport, SD 54017",1,2025-09-28 10:18:38
+28,CUST-0028,Taylor Inc Aviation,Johnathan Davis,paulwatson@horton.com,(717)796-4053x77351,Brazil,"17139 Brent Isle Apt. 293, Port Kathyborough, OR 28806",1,2023-06-02 21:29:05
+29,CUST-0029,Murphy and Sons Aviation,Linda Ramirez,vanessafernandez@rodriguez.com,4538950240,Canada,"7589 Shannon Forges, Lake Kristahaven, ME 60537",1,2025-03-28 23:31:22
+30,CUST-0030,"Maynard, Brown and Mendoza Aviation",Michael Henry,fjones@franklin-jones.com,+1-398-356-9847x896,UK,"7365 Ross Stream, West Ronaldview, MN 20507",0,2024-03-13 08:14:42
+31,CUST-0031,"Leblanc, Jones and Decker Aviation",Brent Rodgers,angelawillis@hoffman.biz,001-304-794-5198x3273,Italy,"49368 Chelsea Shoals Suite 024, Sandrastad, AL 24278",1,2023-06-01 11:21:29
+32,CUST-0032,Knight Group Aviation,Patrick Bonilla,reesejason@chavez-moore.com,001-859-991-0229x0147,Germany,"3815 Rodriguez Springs Suite 840, South Tracey, AR 01508",1,2023-02-21 14:13:06
+33,CUST-0033,Turner and Sons Aviation,Pamela Roberts,smithjulie@anderson.com,885.816.0607x15969,Canada,"52975 Samuel Coves Apt. 696, South Monicamouth, IN 44156",1,2023-06-25 04:19:37
+34,CUST-0034,Jones Ltd Aviation,Jordan Bullock,michael23@thomas.com,+1-721-427-7997x995,South Korea,"4490 Romero Inlet Suite 700, Marieland, SD 12336",0,2024-02-26 07:41:05
+35,CUST-0035,"Wheeler, Cruz and Carpenter Aviation",Nancy Williams,marcalvarez@rosario.com,618-820-3778x89255,Brazil,"905 Mark Point Suite 449, West Christopher, TN 19038",1,2024-08-02 09:07:29
+36,CUST-0036,Collins-Douglas Aviation,Betty Fletcher,collinsnicholas@li-santiago.net,768-950-5423,Germany,"14188 Ebony Wells, New Nicholas, GA 24204",1,2023-01-13 13:43:16
+37,CUST-0037,"Wise, Lamb and Martin Aviation",Jason Rhodes,tarabishop@bowers.info,859.477.4688,Japan,"0758 Jennifer Path, West Christopherburgh, KY 59394",1,2024-08-10 23:34:49
+38,CUST-0038,"Hernandez, Kim and Potts Aviation",Jerry Bailey,perryrandy@young-vang.com,905.415.2204,Japan,"9010 Lewis Drive Suite 143, Davidbury, MT 84249",1,2024-01-08 11:48:41
+39,CUST-0039,"Bryant, Rodriguez and Stein Aviation",Alexis Robertson,jennifercarter@mendez.org,(221)885-1888x88067,Japan,"Unit 4051 Box 5319, DPO AP 99680",0,2024-05-11 19:51:32
+40,CUST-0040,Anderson-Bell Aviation,Marvin Greer,epollard@white.info,8439030548,Brazil,"5054 Lauren Mews, Paulfurt, MA 24987",1,2025-04-14 08:21:59

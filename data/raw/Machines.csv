@@ -1,0 +1,36 @@
+MachineID,MachineCode,MachineName,MachineType,Manufacturer,InstallationDate,Status,Location,CreatedAt
+1,MCH-001,CMM Inspection Station #1,Robotic Welding Cell,Broetje Automation,2017-05-11,Operational,Bay-8,2017-05-11 00:00:00
+2,MCH-002,Laser Cutting Machine #2,Composite Layup Machine,Okuma,2016-04-06,Operational,Bay-12,2016-04-06 00:00:00
+3,MCH-003,CMM Inspection Station #3,Waterjet Cutter,Mazak,2019-01-07,Operational,Bay-1,2019-01-07 00:00:00
+4,MCH-004,Autoclave #4,Automated Riveting Machine,Hexagon Manufacturing,2015-06-30,Decommissioned,Bay-11,2015-06-30 00:00:00
+5,MCH-005,CMM Inspection Station #5,5-Axis CNC Machining Center,DMG MORI,2024-03-08,Operational,Bay-10,2024-03-08 00:00:00
+6,MCH-006,Composite Layup Machine #6,Robotic Welding Cell,Hexagon Manufacturing,2018-08-14,Operational,Bay-9,2018-08-14 00:00:00
+7,MCH-007,CNC Milling Machine #7,Waterjet Cutter,Haas Automation,2015-05-23,Operational,Bay-6,2015-05-23 00:00:00
+8,MCH-008,CNC Milling Machine #8,CNC Lathe,Hexagon Manufacturing,2023-05-03,Operational,Bay-7,2023-05-03 00:00:00
+9,MCH-009,CNC Lathe #9,Laser Cutting Machine,DMG MORI,2016-05-06,Decommissioned,Bay-8,2016-05-06 00:00:00
+10,MCH-010,Waterjet Cutter #10,Laser Cutting Machine,Electroimpact,2023-04-11,Operational,Bay-5,2023-04-11 00:00:00
+11,MCH-011,Waterjet Cutter #11,EDM Machine,Hexagon Manufacturing,2020-10-26,Operational,Bay-3,2020-10-26 00:00:00
+12,MCH-012,Automated Riveting Machine #12,CNC Milling Machine,Broetje Automation,2017-12-30,Operational,Bay-3,2017-12-30 00:00:00
+13,MCH-013,CNC Milling Machine #13,5-Axis CNC Machining Center,Broetje Automation,2015-07-09,Operational,Bay-12,2015-07-09 00:00:00
+14,MCH-014,CNC Lathe #14,Automated Riveting Machine,DMG MORI,2019-06-09,Operational,Bay-12,2019-06-09 00:00:00
+15,MCH-015,Automated Riveting Machine #15,Automated Riveting Machine,Mazak,2020-04-29,Idle,Bay-3,2020-04-29 00:00:00
+16,MCH-016,CNC Lathe #16,Autoclave,Fanuc,2016-03-04,Operational,Bay-3,2016-03-04 00:00:00
+17,MCH-017,Waterjet Cutter #17,CMM Inspection Station,Okuma,2022-02-13,Operational,Bay-1,2022-02-13 00:00:00
+18,MCH-018,CMM Inspection Station #18,CNC Milling Machine,Electroimpact,2019-12-30,UnderMaintenance,Bay-4,2019-12-30 00:00:00
+19,MCH-019,Robotic Welding Cell #19,CNC Lathe,Hexagon Manufacturing,2022-04-18,Operational,Bay-11,2022-04-18 00:00:00
+20,MCH-020,CNC Lathe #20,Composite Layup Machine,Hexagon Manufacturing,2024-04-26,Operational,Bay-2,2024-04-26 00:00:00
+21,MCH-021,CNC Milling Machine #21,5-Axis CNC Machining Center,Mazak,2022-12-12,Operational,Bay-12,2022-12-12 00:00:00
+22,MCH-022,Automated Riveting Machine #22,Robotic Welding Cell,Fanuc,2021-04-06,Operational,Bay-1,2021-04-06 00:00:00
+23,MCH-023,5-Axis CNC Machining Center #23,Robotic Welding Cell,Broetje Automation,2018-02-16,Operational,Bay-12,2018-02-16 00:00:00
+24,MCH-024,CMM Inspection Station #24,CNC Milling Machine,Okuma,2024-06-29,Idle,Bay-11,2024-06-29 00:00:00
+25,MCH-025,5-Axis CNC Machining Center #25,CNC Lathe,Electroimpact,2017-09-08,Operational,Bay-5,2017-09-08 00:00:00
+26,MCH-026,Composite Layup Machine #26,CNC Lathe,DMG MORI,2016-09-09,Idle,Bay-3,2016-09-09 00:00:00
+27,MCH-027,Composite Layup Machine #27,Waterjet Cutter,Haas Automation,2018-09-09,Operational,Bay-8,2018-09-09 00:00:00
+28,MCH-028,Waterjet Cutter #28,Robotic Welding Cell,Haas Automation,2022-08-10,Operational,Bay-2,2022-08-10 00:00:00
+29,MCH-029,EDM Machine #29,Autoclave,Broetje Automation,2022-11-25,Operational,Bay-7,2022-11-25 00:00:00
+30,MCH-030,CMM Inspection Station #30,CMM Inspection Station,Electroimpact,2019-07-11,Operational,Bay-7,2019-07-11 00:00:00
+31,MCH-031,CMM Inspection Station #31,CNC Milling Machine,Electroimpact,2022-09-13,Operational,Bay-2,2022-09-13 00:00:00
+32,MCH-032,Laser Cutting Machine #32,Automated Riveting Machine,Okuma,2015-05-21,Operational,Bay-12,2015-05-21 00:00:00
+33,MCH-033,Automated Riveting Machine #33,EDM Machine,Mazak,2016-06-21,Operational,Bay-7,2016-06-21 00:00:00
+34,MCH-034,Automated Riveting Machine #34,Waterjet Cutter,Haas Automation,2015-10-02,Decommissioned,Bay-11,2015-10-02 00:00:00
+35,MCH-035,Autoclave #35,EDM Machine,Electroimpact,2023-07-29,Operational,Bay-1,2023-07-29 00:00:00

@@ -466,16 +466,19 @@ def generate_machine_sensor_data(n: int, machines_df: pd.DataFrame) -> pd.DataFr
         is_anomaly = random.random() < 0.04
 
         if is_anomaly:
-            temperature = np.random.uniform(95, 140)      # overheating
-            vibration = np.random.uniform(8, 20)            # excess vibration
-            pressure = np.random.uniform(1, 15)              # pressure drop/spike
-            rpm = np.random.uniform(50, 200)                  # erratic RPM
-            power = np.random.uniform(0.5, 3.0)
+            # Harder-to-detect anomalies with overlapping distributions
+            temperature = np.random.normal(82, 10)
+            vibration = np.random.normal(5.5, 1.8)
+            pressure = np.random.normal(32, 8)
+            rpm = np.random.normal(1700, 450)
+            power = np.random.normal(8.5, 2.5)
+
         else:
+            # Normal operating conditions
             temperature = np.random.normal(65, 8)
-            vibration = np.random.normal(2.5, 0.8)
-            pressure = np.random.normal(45, 5)
-            rpm = np.random.normal(2200, 300)
+            vibration = np.random.normal(2.8, 1.0)
+            pressure = np.random.normal(45, 6)
+            rpm = np.random.normal(2200, 350)
             power = np.random.normal(12, 3)
 
         rows.append({
